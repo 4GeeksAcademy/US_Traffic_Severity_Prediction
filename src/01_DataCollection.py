@@ -6,8 +6,18 @@
 
 # Import Packages
 import kaggle
+import pandas as pd
 import os
+from IPython.display import display
 
+# Download the dataset
+kaggle.api.dataset_download_files('sobhanmoosavi/us-accidents', path="../data/raw", unzip=True)
+
+#Read the csv
+dataset = pd.read_csv(r"C:\Users\cesar_v8v3xol\Desktop\Proyecto\data\raw\US_Accidents_March23.csv")
+
+#Show the first 10 lines
+display(dataset.head(10))
 
 # Download the dataset
 kaggle.api.dataset_download_files('sobhanmoosavi/us-accidents', path="../data/raw", unzip=True)
