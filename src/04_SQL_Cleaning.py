@@ -17,3 +17,10 @@ for column in columns_to_delete:
 # Commit the changes and close the connection
 conn.commit()
 conn.close()
+
+
+# The column 'ID' doesn't provide any useful information for predictions so we elimate it.
+# 'TMC', 'Distance(mi)', 'End_Time', 'Duration', 'End_Lat', 'End_Lng' also have to be eliminated because 
+# they don't provide any information as predictors, this data only happens afterwards the accident occurs.
+# 'Description' also can be eliminated because the Data inside this variable has already been extracted 
+# from the dataset by the creators.
