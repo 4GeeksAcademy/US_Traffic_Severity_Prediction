@@ -3,3 +3,4 @@ streamlit
 unicorn
 scikit-learn
 numpy
+geopy
