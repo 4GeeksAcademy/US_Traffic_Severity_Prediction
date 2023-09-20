@@ -271,7 +271,7 @@ def display_app():
     winddirection_var = st.selectbox("Select Wind Direction", original_data['winddirection'].unique())
     winddirection_var = original_data.loc[original_data['winddirection'] == winddirection_var, 'winddirection_n'].iloc[0]
 
-    # Widget para que el usuario elija las unidades
+    # Widget to select Unit System
     unit_system = st.radio("Seleccione Unit System:", ("Metric", "Imperial"))
 
     # Climate Variables
