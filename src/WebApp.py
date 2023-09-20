@@ -35,7 +35,7 @@ scaler = StandardScaler()
 scaler.fit(original_data[num_variables])
 
 # Configure Google API
-GOOGLE_API_KEY = 'AIzaSyAk6abh1mmzH1aDXUmWDXypFEEoRPW-1Zk'  # Reemplaza con tu clave de API
+GOOGLE_API_KEY = 'AIzaSyAk6abh1mmzH1aDXUmWDXypFEEoRPW-1Zk'
 geolocator = GoogleV3(api_key=GOOGLE_API_KEY)
 
 # Website Title
