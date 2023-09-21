@@ -1,0 +1,8593 @@
+,city,city_n
+0,Thurman,0
+2,Detroit,1
+4,Swedesboro,2
+5,Renton,3
+6,Seattle,4
+7,Seaside,5
+9,San Jose,6
+10,Stockton,7
+11,San Francisco,8
+12,San Luis Obispo,9
+13,Gardena,10
+14,Los Angeles,11
+18,Berkley,12
+19,Andover,13
+20,Stoughton,14
+21,Weston,15
+23,Highland Park,16
+24,Ottawa Lake,17
+25,Madison Heights,18
+26,Burton,19
+27,Hazel Park,20
+28,Flint,21
+29,Greenwich,22
+30,Queensbury,23
+31,West Coxsackie,24
+32,Albany,25
+33,Salt Point,26
+36,Bainbridge,27
+38,Grand Rapids,28
+39,Pittsford,29
+40,Rochester,30
+43,Spencerport,31
+46,Syracuse,32
+47,Churchville,33
+48,Pennsauken,34
+49,West Orange,35
+50,Philadelphia,36
+51,Toms River,37
+52,Hempstead,38
+53,New York,39
+54,Brooklyn,40
+56,Jersey City,41
+57,Woodbury,42
+58,Drexel Hill,43
+59,Newburgh,44
+60,Runnemede,45
+61,Perth Amboy,46
+62,Woodbridge,47
+63,Blackwood,48
+65,Bronx,49
+66,Wharton,50
+67,Hillside,51
+69,Washington,52
+70,Danbury,53
+71,Jamaica,54
+72,Rye,55
+76,Norwalk,56
+79,Staten Island,57
+80,Elmhurst,58
+83,Wall Township,59
+84,Wilmington,60
+86,Fort Lee,61
+87,West Hempstead,62
+88,Conshohocken,63
+89,Monmouth Junction,64
+90,Malverne,65
+93,Hartford,66
+94,Warwick,67
+96,Pittsburgh,68
+99,Leechburg,69
+100,Du Bois,70
+101,Johnstown,71
+103,Greenwood,72
+104,Fredericksburg,73
+105,Shrewsbury,74
+107,Denver,75
+108,Manassas,76
+109,Alexandria,77
+111,Falls Church,78
+112,Strasburg,79
+114,Centreville,80
+115,Williamsport,81
+118,Frederick,82
+119,Bethel,83
+122,Halethorpe,84
+123,Indianapolis,85
+124,Louisville,86
+129,Prospect,87
+130,Latonia,88
+131,Toledo,89
+132,Cincinnati,90
+133,Salisbury,91
+134,Hickory,92
+135,Hildebran,93
+136,Charlotte,94
+144,Salem,95
+145,Danville,96
+147,China Grove,97
+148,Chesnee,98
+149,Richmond,99
+150,Newport News,100
+151,Hampton,101
+152,Benson,102
+154,Cape Charles,103
+155,Raleigh,104
+156,Virginia Beach,105
+159,Zebulon,106
+160,Suffolk,107
+163,Roanoke Rapids,108
+164,Miami,109
+165,Deerfield Beach,110
+166,Fort Lauderdale,111
+167,Delray Beach,112
+170,Hollywood,113
+172,Orlando,114
+184,Clearwater,115
+186,Saint Petersburg,116
+187,Myakka City,117
+188,Tampa,118
+189,Fountain Inn,119
+190,Columbia,120
+192,Myrtle Beach,121
+195,Taylors,122
+196,Spartanburg,123
+198,Atlanta,124
+200,Greenville,125
+201,Lexington,126
+202,Piedmont,127
+203,Gaston,128
+205,Clinton,129
+207,Westminster,130
+212,Decatur,131
+216,Madison,132
+217,Jacksonville,133
+218,Yemassee,134
+219,Walterboro,135
+220,Georgetown,136
+221,Orangeburg,137
+225,Augusta,138
+226,Pineland,139
+229,Saint Matthews,140
+230,Moncks Corner,141
+231,High Ridge,142
+232,Saint Louis,143
+236,Bridgeton,144
+239,Fairfax,145
+240,Minneapolis,146
+242,Jackson,147
+243,Watseka,148
+244,North Platte,149
+247,Saint Paul,150
+249,Chisago City,151
+250,Anoka,152
+251,Litchfield,153
+253,Marine on Saint Croix,154
+255,Kansas City,155
+256,Hazelwood,156
+259,Carlton,157
+260,Naperville,158
+261,Elgin,159
+262,Des Moines,160
+263,Hazel Crest,161
+264,Niles,162
+265,San Antonio,163
+268,Del Valle,164
+269,Pflugerville,165
+270,Austin,166
+271,Fort Worth,167
+277,Oklahoma City,168
+283,Irving,169
+285,Baton Rouge,170
+295,Tulsa,171
+296,Dallas,172
+303,Memphis,173
+306,Saint Rose,174
+307,Kenner,175
+308,Tuscaloosa,176
+310,Pensacola,177
+311,Nashville,178
+313,Brentwood,179
+314,Maplesville,180
+315,Mc Ewen,181
+316,Birmingham,182
+318,Grady,183
+319,Blountsville,184
+320,Letohatchee,185
+321,Clanton,186
+322,Oxford,187
+324,Shreveport,188
+325,Houston,189
+342,Huntsville,190
+344,Cypress,191
+354,Cedar City,192
+355,New Harmony,193
+356,Englewood,194
+357,Provo,195
+359,Sandy,196
+360,Midvale,197
+363,Mesa,198
+364,Williams,199
+365,Scottsdale,200
+366,Phoenix,201
+368,Glendale,202
+370,Flagstaff,203
+376,Woodburn,204
+379,Monroe,205
+380,Arlington,206
+381,Portland,207
+382,Minden,208
+383,Floriston,209
+384,Shaver Lake,210
+385,Reno,211
+386,Antioch,212
+387,Vallejo,213
+389,Los Gatos,214
+391,Hercules,215
+393,San Mateo,216
+395,Oakland,217
+398,Clearlake,218
+399,Oakdale,219
+400,Redwood City,220
+403,Emeryville,221
+404,Delhi,222
+405,Sacramento,223
+407,Alta,224
+417,Tracy,225
+419,San Rafael,226
+420,Petaluma,227
+421,Ukiah,228
+422,San Ardo,229
+423,Carpinteria,230
+424,Tulare,231
+425,Nipomo,232
+426,Exeter,233
+427,California Hot Springs,234
+428,Lindsay,235
+429,Mendota,236
+430,Mc Farland,237
+431,Clovis,238
+432,San Diego,239
+435,Carlsbad,240
+436,Mira Loma,241
+437,Ontario,242
+441,Fontana,243
+442,Long Beach,244
+443,Hawthorne,245
+444,Corona,246
+445,Bloomington,247
+448,Escondido,248
+449,Irvine,249
+452,Bell Gardens,250
+453,Riverside,251
+455,Whittier,252
+456,Anaheim,253
+457,Jurupa Valley,254
+461,Laguna Hills,255
+462,Buena Park,256
+463,Lake Elsinore,257
+468,Lebec,258
+470,Baldwin Park,259
+473,Compton,260
+474,Perris,261
+478,Newport Beach,262
+480,Grand Island,263
+481,Danvers,264
+482,Roxbury Crossing,265
+483,Lynnfield,266
+484,Rockland,267
+485,Pawtucket,268
+486,Auburn,269
+490,Grand Blanc,270
+493,Fenton,271
+497,Dearborn,272
+505,Lincoln,273
+506,Bedford,274
+507,Greenfield,275
+508,Warrensburg,276
+511,Schenectady,277
+513,Selkirk,278
+516,Saint Clair Shores,279
+517,Towanda,280
+520,Le Roy,281
+531,Ardsley,282
+532,Paterson,283
+533,Plymouth Meeting,284
+534,Fishkill,285
+535,Yonkers,286
+536,Somers,287
+540,Scotrun,288
+541,Bensalem,289
+542,Holmes,290
+543,Mount Holly,291
+545,Bethlehem,292
+546,Middletown,293
+547,Secaucus,294
+548,Flushing,295
+549,Feasterville Trevose,296
+551,Blakeslee,297
+552,Gibbstown,298
+554,Irvington,299
+555,Westport,300
+556,Woodlyn,301
+557,New Haven,302
+559,Downingtown,303
+560,Newark,304
+561,Seaford,305
+565,Nyack,306
+566,Paramus,307
+567,Mamaroneck,308
+569,East Brunswick,309
+570,New Paltz,310
+571,Edison,311
+572,Bayside,312
+573,Melville,313
+574,Glastonbury,314
+575,Cranberry Township,315
+576,South Fork,316
+577,Donegal,317
+578,Mount Pleasant,318
+579,Ligonier,319
+582,Spangler,320
+584,Bloomsburg,321
+587,York,322
+589,Sterling,323
+590,Ashburn,324
+591,Hagerstown,325
+594,Rockville,326
+595,Chevy Chase,327
+596,Bethesda,328
+599,Harrisburg,329
+600,New Holland,330
+602,Clarksburg,331
+603,Boalsburg,332
+606,Silver Spring,333
+609,Myerstown,334
+610,Bellefonte,335
+614,Spotsylvania,336
+622,Lake Station,337
+624,Remington,338
+628,Independence,339
+629,Columbus,340
+630,Covington,341
+631,Piqua,342
+632,Dayton,343
+633,Reynoldsburg,344
+634,Canton,345
+635,Johnson City,346
+636,Chattanooga,347
+638,Mc Donald,348
+639,Crossville,349
+640,Knoxville,350
+647,Mint Hill,351
+652,Boiling Springs,352
+665,Bristol,353
+668,Greensboro,354
+669,Inman,355
+670,Troutville,356
+671,Winston Salem,357
+675,Lambsburg,358
+680,Kings Mountain,359
+681,Princeton,360
+683,Henrico,361
+685,North Chesterfield,362
+686,Powhatan,363
+687,Boydton,364
+695,La Crosse,365
+696,Ashland,366
+697,Clarksville,367
+702,Lehigh Acres,368
+703,Naples,369
+706,Lake Worth,370
+707,Opa Locka,371
+709,Pembroke Pines,372
+711,West Palm Beach,373
+712,Hialeah,374
+714,Gainesville,375
+715,Wildwood,376
+716,Ocala,377
+721,Homestead,378
+730,Port Saint Lucie,379
+732,Bradenton,380
+733,Sarasota,381
+734,Largo,382
+735,Palm Harbor,383
+736,Tarpon Springs,384
+738,Ellenton,385
+744,St Pete Beach,386
+747,Florence,387
+748,Dillon,388
+751,Blair,389
+752,Simpsonville,390
+754,Atlanta-Decatur,391
+759,Bishopville,392
+760,Mauldin,393
+762,Pelzer,394
+763,Duncan,395
+764,Camden,396
+765,Iva,397
+766,Waterloo,398
+767,Anderson,399
+770,Greer,400
+773,Union,401
+790,Marietta,402
+792,Laurens,403
+794,Townville,404
+810,Norcross,405
+813,Lynchburg,406
+816,Tallahassee,407
+822,Brunswick,408
+824,Newton,409
+825,Abbeville,410
+826,Forest Park,411
+828,Beaufort,412
+829,Stockbridge,413
+831,Hemingway,414
+832,Ladson,415
+833,Murrells Inlet,416
+834,Holly Hill,417
+841,Bowman,418
+842,Perry,419
+844,Estill,420
+845,Summerville,421
+847,Grovetown,422
+849,Midland,423
+852,Arnold,424
+856,Chaska,425
+858,North Mankato,426
+860,Jordan,427
+865,Shakopee,428
+866,Hopkins,429
+869,Lakeville,430
+873,Newport,431
+875,Winona,432
+876,Albert Lea,433
+877,Omaha,434
+878,Palmyra,435
+880,Swan River,436
+881,Maple Grove,437
+884,Avon,438
+886,Sauk Centre,439
+887,Osseo,440
+894,Saint Charles,441
+895,Milwaukee,442
+897,Tamarack,443
+898,Aitkin,444
+899,Dalton,445
+901,Cedar Rapids,446
+902,Chicago,447
+904,Coal Valley,448
+905,Justice,449
+907,Springfield,450
+916,Jones,451
+922,Joshua,452
+924,Cedar Hill,453
+931,Round Rock,454
+933,North Richland Hills,455
+935,Taylor,456
+943,Daphne,457
+958,New Orleans,458
+967,Morris,459
+968,Hanceville,460
+969,Warrior,461
+970,Jemison,462
+972,Cullman,463
+977,Gardendale,464
+981,Harvest,465
+983,Alabaster,466
+985,Montgomery,467
+987,Fort Deposit,468
+990,Brundidge,469
+992,Crestview,470
+993,Mount Juliet,471
+994,Banks,472
+995,Ellisville,473
+1020,Nephi,474
+1022,Helper,475
+1023,Fairview,476
+1025,Larkspur,477
+1026,Lone Tree,478
+1027,Snowville,479
+1028,Thompson,480
+1029,Pueblo,481
+1030,Paragonah,482
+1033,West Jordan,483
+1034,Fort Collins,484
+1035,Mountain Home,485
+1036,Taylorsville,486
+1037,Brighton,487
+1038,Draper,488
+1039,Salt Lake City,489
+1041,Ogden,490
+1046,Clearfield,491
+1047,Surprise,492
+1053,Apache Junction,493
+1060,Avondale,494
+1063,Albuquerque,495
+1068,Wolf Creek,496
+1069,Myrtle Point,497
+1070,Silverton,498
+1071,Eugene,499
+1072,Corvallis,500
+1073,Gig Harbor,501
+1079,Marysville,502
+1080,Lynnwood,503
+1082,Mount Vernon,504
+1087,Anacortes,505
+1089,Federal Way,506
+1090,Tukwila,507
+1093,Tacoma,508
+1094,Everett,509
+1098,Vancouver,510
+1105,Bridal Veil,511
+1106,Beaverton,512
+1107,Woodland,513
+1108,Mount Hood Parkdale,514
+1109,Bellingham,515
+1111,Schurz,516
+1112,Salida,517
+1118,San Leandro,518
+1121,Modesto,519
+1122,Norden,520
+1123,Alamo,521
+1124,Lathrop,522
+1125,Pleasanton,523
+1129,Dixon,524
+1130,Rocklin,525
+1133,French Camp,526
+1136,Hayward,527
+1137,Daly City,528
+1139,Vacaville,529
+1142,San Lorenzo,530
+1143,Byron,531
+1144,Castro Valley,532
+1146,Battle Mountain,533
+1150,Mill Valley,534
+1152,Corte Madera,535
+1153,Santa Rosa,536
+1154,Camarillo,537
+1155,Fresno,538
+1156,Goleta,539
+1157,Bakersfield,540
+1158,Ventura,541
+1162,Sun Valley,542
+1164,Simi Valley,543
+1166,La Puente,544
+1171,Garden Grove,545
+1172,Tujunga,546
+1173,Sunland,547
+1174,Valencia,548
+1178,Newhall,549
+1179,Valley Village,550
+1180,Sherman Oaks,551
+1187,Chino,552
+1188,Cerritos,553
+1199,Norco,554
+1201,Encino,555
+1203,Temecula,556
+1204,Tustin,557
+1216,Rowland Heights,558
+1224,Vista,559
+1227,Encinitas,560
+1233,Phelan,561
+1238,Moreno Valley,562
+1239,Colton,563
+1249,San Bernardino,564
+1250,Rialto,565
+1256,Fallbrook,566
+1262,Acton,567
+1264,Running Springs,568
+1266,San Juan Capistrano,569
+1269,Santa Ana,570
+1274,Calabasas,571
+1276,Lake Hughes,572
+1277,Tehachapi,573
+1278,La Jolla,574
+1279,Llano,575
+1282,Crestline,576
+1287,Redlands,577
+1293,North Hollywood,578
+1295,Cedarpines Park,579
+1298,Azusa,580
+1312,Seal Beach,581
+1316,Paramount,582
+1317,Lynwood,583
+1318,South Gate,584
+1322,Murrieta,585
+1326,Capistrano Beach,586
+1329,Culver City,587
+1331,Tarzana,588
+1335,Duke Center,589
+1336,Buffalo,590
+1337,Cambridge,591
+1338,Falmouth,592
+1341,Rehoboth,593
+1342,Billerica,594
+1343,Waltham,595
+1344,Moultonborough,596
+1345,Providence,597
+1348,Pelham,598
+1350,Dedham,599
+1353,Madbury,600
+1354,Methuen,601
+1356,Boston,602
+1357,Wakefield,603
+1359,Quincy,604
+1360,Tewksbury,605
+1361,Amesbury,606
+1362,Londonderry,607
+1365,Charlestown,608
+1366,Randolph,609
+1367,Allston,610
+1368,Reading,611
+1369,Manchester,612
+1371,Davison,613
+1373,Plymouth,614
+1374,Westland,615
+1375,Belleville,616
+1376,Lincoln Park,617
+1378,Novi,618
+1379,Ann Arbor,619
+1381,Royal Oak,620
+1385,Swartz Creek,621
+1387,Grass Lake,622
+1390,Dunbarton,623
+1392,Granville,624
+1393,Weare,625
+1394,Windsor,626
+1395,Craryville,627
+1397,Ashby,628
+1399,Old Chatham,629
+1400,East Hartford,630
+1401,Worcester,631
+1402,Watervliet,632
+1404,Hallstead,633
+1406,Rome,634
+1407,Kingston,635
+1408,Saratoga Springs,636
+1409,Guilderland,637
+1411,Paw Paw,638
+1413,Nunica,639
+1414,Roseville,640
+1415,Harrison Township,641
+1416,Middlebury Center,642
+1418,Montour Falls,643
+1421,Coudersport,644
+1424,Huntington Station,645
+1426,Rosedale,646
+1428,Merion Station,647
+1429,Berwyn,648
+1435,Oceanside,649
+1438,Richmond Hill,650
+1439,Stamford,651
+1440,Willingboro,652
+1448,Phillipsburg,653
+1449,Nesconset,654
+1450,Chester,655
+1451,Port Jefferson Station,656
+1452,Belvidere,657
+1455,Hightstown,658
+1456,Coram,659
+1458,Katonah,660
+1460,Armonk,661
+1461,Royersford,662
+1462,Summit,663
+1463,West Berlin,664
+1464,Dix Hills,665
+1466,Bethpage,666
+1469,Selden,667
+1471,Merrick,668
+1473,North Brunswick,669
+1474,Narberth,670
+1475,North Babylon,671
+1477,Easton,672
+1480,Oreland,673
+1484,Elizabeth,674
+1485,Whitestone,675
+1486,Kearny,676
+1487,North Haven,677
+1488,Bala Cynwyd,678
+1490,Keasbey,679
+1491,White Plains,680
+1493,Moosic,681
+1494,Milford,682
+1495,Hasbrouck Heights,683
+1498,Brewster,684
+1499,Seymour,685
+1502,Trumbull,686
+1503,Marcus Hook,687
+1504,Short Hills,688
+1505,East Elmhurst,689
+1506,Little Neck,690
+1508,Watchung,691
+1511,Long Island City,692
+1512,Leonia,693
+1516,Monroe Township,694
+1518,Manorville,695
+1519,East Greenwich,696
+1520,Eastport,697
+1521,Branford,698
+1523,Norwich,699
+1525,East Lyme,700
+1531,Harrisonburg,701
+1533,Akron,702
+1534,Wexford,703
+1536,Gibsonia,704
+1537,Shippenville,705
+1538,Boswell,706
+1540,Cleveland,707
+1543,Alliance,708
+1544,Morgantown,709
+1545,Gaithersburg,710
+1548,Manheim,711
+1551,Upper Marlboro,712
+1558,Ephrata,713
+1562,Huntingdon,714
+1563,Camp Hill,715
+1564,District Heights,716
+1569,Perryville,717
+1570,Winchester,718
+1574,Boyce,719
+1576,Lorton,720
+1579,Imler,721
+1582,Potomac,722
+1584,Oakton,723
+1585,Hyattsville,724
+1586,Rebersburg,725
+1587,Oxon Hill,726
+1589,Lancaster,727
+1595,Keswick,728
+1607,Petersburg,729
+1609,Gary,730
+1613,Lewis Center,731
+1623,Elyria,732
+1627,Lakewood,733
+1638,Miamisburg,734
+1639,Wooster,735
+1643,Clayton,736
+1644,Powell,737
+1647,Delaware,738
+1652,Hendersonville,739
+1655,Asheville,740
+1656,Unicoi,741
+1661,Cary,742
+1668,Blacksburg,743
+1674,Huntersville,744
+1675,Evington,745
+1676,Halifax,746
+1678,Clover,747
+1680,Clifton Forge,748
+1684,Cowpens,749
+1691,Bluefield,750
+1695,Norfolk,751
+1696,Williamsburg,752
+1697,Midlothian,753
+1699,Glen Allen,754
+1701,Knightdale,755
+1702,Emporia,756
+1703,Garner,757
+1713,Morrisville,758
+1715,Fuquay Varina,759
+1718,Wendell,760
+1732,Scottsville,761
+1734,Mineral,762
+1742,Chesterfield,763
+1748,Selma,764
+1756,Victoria,765
+1761,Boynton Beach,766
+1763,Boca Raton,767
+1764,Pompano Beach,768
+1766,Lauderdale Lakes,769
+1778,Fort Myers,770
+1799,Hallandale,771
+1805,Estero,772
+1813,Palm Beach Gardens,773
+1814,Maitland,774
+1818,Apopka,775
+1821,Brooksville,776
+1825,Gotha,777
+1828,Summerfield,778
+1832,Winter Park,779
+1836,Lake Panasoffkee,780
+1837,Okahumpka,781
+1839,Mims,782
+1842,Winter Garden,783
+1846,Leesburg,784
+1849,Sanford,785
+1850,Daytona Beach,786
+1857,Lake Mary,787
+1870,Lakeland,788
+1871,Lutz,789
+1873,Palm City,790
+1874,Champions Gate,791
+1877,Saint Cloud,792
+1881,Valrico,793
+1884,Plant City,794
+1887,Avon Park,795
+1890,Riverview,796
+1892,South Pasadena,797
+1895,Pinellas Park,798
+1899,New Port Richey,799
+1904,Zephyrhills,800
+1905,Seminole,801
+1906,Kissimmee,802
+1907,Palmetto,803
+1908,Trinity,804
+1912,Melbourne,805
+1915,Fort Pierce,806
+1918,Bennettsville,807
+1922,Bethune,808
+1926,Lyman,809
+1929,Seneca,810
+1931,Six Mile,811
+1937,Buford,812
+1941,West Columbia,813
+1942,Ninety Six,814
+1945,Chappells,815
+1948,Roswell,816
+1949,Kershaw,817
+1961,Rock Hill,818
+1967,Sumter,819
+1974,Pendleton,820
+1979,Kennesaw,821
+1981,Wedgefield,822
+1983,Coward,823
+1987,Cumming,824
+1991,Little Mountain,825
+1999,Swansea,826
+2000,Lithonia,827
+2001,Conway,828
+2003,Little River,829
+2006,Lugoff,830
+2012,Lamar,831
+2016,Pomaria,832
+2021,Hartsville,833
+2054,Nichols,834
+2055,Calhoun,835
+2057,Travelers Rest,836
+2061,Darlington,837
+2062,Wellborn,838
+2063,Live Oak,839
+2066,Lake City,840
+2074,Fernandina Beach,841
+2081,Atlantic Beach,842
+2087,Dothan,843
+2088,Midway,844
+2089,Hardeeville,845
+2093,Williston,846
+2095,Huger,847
+2099,Round O,848
+2102,Macon,849
+2103,North Augusta,850
+2107,Bonaire,851
+2109,Cameron,852
+2110,North Charleston,853
+2112,Summerton,854
+2119,Cottageville,855
+2120,Saint George,856
+2123,Ridgeville,857
+2134,Charleston,858
+2152,St. Louis,859
+2155,Maryland Heights,860
+2159,East Saint Louis,861
+2160,Waupaca,862
+2162,Hastings,863
+2163,Elko New Market,864
+2172,Prior Lake,865
+2175,Cannon Falls,866
+2176,Hutchinson,867
+2182,Morgan,868
+2183,Northfield,869
+2185,Winnebago,870
+2186,Wykoff,871
+2190,Pekin,872
+2194,North Pekin,873
+2212,Saint Peters,874
+2216,Sweet Springs,875
+2218,Marshall,876
+2219,Shawnee,877
+2222,Caledonia,878
+2223,Waukegan,879
+2224,Janesville,880
+2225,Round Lake,881
+2227,Gurnee,882
+2230,Fox Lake,883
+2235,Beach Park,884
+2236,Finlayson,885
+2237,Deerwood,886
+2238,Downers Grove,887
+2241,Maywood,888
+2242,Bensenville,889
+2243,Hanover Park,890
+2244,Itasca,891
+2245,Lisle,892
+2246,West Chicago,893
+2249,Northbrook,894
+2250,Morton Grove,895
+2251,Davenport,896
+2252,Addison,897
+2253,Roselle,898
+2254,Woodridge,899
+2256,Bloomingdale,900
+2261,Hinsdale,901
+2263,Bolingbrook,902
+2264,Oak Brook,903
+2272,Liberty Hill,904
+2296,Scott,905
+2298,West Monroe,906
+2299,Slaton,907
+2303,Lewisville,908
+2305,Manor,909
+2310,Mansfield,910
+2314,Yukon,911
+2315,Mustang,912
+2316,Edmond,913
+2337,Hurst,914
+2354,Sunset Valley,915
+2360,Grapevine,916
+2368,Carrollton,917
+2369,Aubrey,918
+2384,Zachary,919
+2389,Greenwell Springs,920
+2396,Slaughter,921
+2407,Mobile,922
+2408,Loxley,923
+2410,Fairhope,924
+2412,Cherokee,925
+2417,Richardson,926
+2419,Sunnyvale,927
+2441,Mesquite,928
+2462,Plano,929
+2479,Pearl,930
+2486,Houma,931
+2493,Hartselle,932
+2497,Milton,933
+2503,Evergreen,934
+2508,Hayneville,935
+2510,Goodlettsville,936
+2516,Montevallo,937
+2520,Hillsboro,938
+2522,Elkmont,939
+2523,Tanner,940
+2526,Eglin AFB,941
+2527,Remlap,942
+2528,Oneonta,943
+2530,Wetumpka,944
+2532,Troy,945
+2534,Pike Road,946
+2541,Verbena,947
+2543,Meridianville,948
+2547,Scottsboro,949
+2551,Shorter,950
+2554,Brownsville,951
+2555,Hattiesburg,952
+2567,Humble,953
+2590,Stafford,954
+2630,Aurora,955
+2632,Price,956
+2651,Broomfield,957
+2654,Springville-Mapleton,958
+2656,Tooele,959
+2657,Lehi,960
+2660,Santaquin,961
+2662,North Salt Lake,962
+2666,Lake Havasu City,963
+2667,Buckeye,964
+2669,Wickenburg,965
+2670,Goodyear,966
+2671,Las Vegas,967
+2674,Tucson,968
+2675,Tempe,969
+2681,Maricopa,970
+2683,Youngtown,971
+2684,Peoria,972
+2699,New River,973
+2700,Gilbert,974
+2712,Sedona,975
+2717,Grants,976
+2718,Bluewater,977
+2719,Thoreau,978
+2728,Jordan Valley,979
+2729,Trail,980
+2730,Medford,981
+2731,Coquille,982
+2732,Bend,983
+2733,Hubbard,984
+2736,Huntington,985
+2739,Prineville,986
+2753,Cheney,987
+2754,Spokane,988
+2758,Bothell,989
+2768,La Grande,990
+2774,Ilwaco,991
+2781,Fish Camp,992
+2782,Coleville,993
+2783,June Lake,994
+2789,Concord,995
+2792,Sunol,996
+2796,Lafayette,997
+2804,San Bruno,998
+2811,Corning,999
+2815,El Sobrante,1000
+2816,Manteca,1001
+2819,Colfax,1002
+2820,Gustine,1003
+2821,Acampo,1004
+2826,San Pablo,1005
+2829,Jamestown,1006
+2830,Fairfield,1007
+2834,Walnut Creek,1008
+2835,Pleasant Hill,1009
+2838,Berkeley,1010
+2841,Saratoga,1011
+2842,Atherton,1012
+2845,Union City,1013
+2848,West Sacramento,1014
+2855,Yuba City,1015
+2859,Sebastopol,1016
+2861,Salyer,1017
+2863,Calistoga,1018
+2867,Albion,1019
+2868,Geyserville,1020
+2869,Watsonville,1021
+2871,Salinas,1022
+2872,Moss Landing,1023
+2875,Templeton,1024
+2876,Summerland,1025
+2878,Corcoran,1026
+2880,Shandon,1027
+2882,Santa Maria,1028
+2883,Lost Hills,1029
+2885,Santa Barbara,1030
+2889,Paso Robles,1031
+2891,Ojai,1032
+2894,Madera,1033
+2901,Kettleman City,1034
+2913,Alhambra,1035
+2914,Santa Clarita,1036
+2924,Hacienda Heights,1037
+2925,Bellflower,1038
+2926,Porter Ranch,1039
+2927,Palmdale,1040
+2930,South El Monte,1041
+2934,Mojave,1042
+2947,Bonsall,1043
+2957,Rosamond,1044
+2960,Van Nuys,1045
+2963,Lake Arrowhead,1046
+2972,Downey,1047
+2980,Caliente,1048
+2987,Thousand Oaks,1049
+2992,San Marcos,1050
+3007,Rancho Cucamonga,1051
+3011,Artesia,1052
+3016,West Springfield,1053
+3022,Woburn,1054
+3029,Center Line,1055
+3032,Westborough,1056
+3034,Verona,1057
+3036,Ballston Spa,1058
+3040,Kalamazoo,1059
+3043,Astoria,1060
+3044,Woodside,1061
+3049,Weehawken,1062
+3052,West Harrison,1063
+3054,Ambler,1064
+3055,Absecon,1065
+3060,Tarrytown,1066
+3061,Stroudsburg,1067
+3062,Kenilworth,1068
+3063,Pittston,1069
+3067,Lagrangeville,1070
+3068,Roslyn Heights,1071
+3071,Teaneck,1072
+3073,Bloomfield,1073
+3077,Greentown,1074
+3079,Oakland Gardens,1075
+3082,Pottstown,1076
+3084,Amityville,1077
+3086,South Amboy,1078
+3087,Cromwell,1079
+3088,Middlebrook,1080
+3089,Staunton,1081
+3091,Lawrence,1082
+3092,Chambersburg,1083
+3095,Reedsville,1084
+3096,Bel Air,1085
+3099,Lenhartsville,1086
+3101,Orangeville,1087
+3102,Muncy,1088
+3109,Germantown,1089
+3112,Aberdeen,1090
+3115,West Chester,1091
+3117,Otto,1092
+3121,Pioneer,1093
+3123,Crab Orchard,1094
+3125,Gaffney,1095
+3140,Fort Mill,1096
+3147,Amelia Court House,1097
+3149,Enfield,1098
+3154,Smithfield,1099
+3158,Colonial Heights,1100
+3169,Jupiter,1101
+3182,Miami Beach,1102
+3197,Gibsonton,1103
+3204,Loris,1104
+3215,Gray Court,1105
+3221,Dalzell,1106
+3222,Enoree,1107
+3225,Clemson,1108
+3240,Yulee,1109
+3241,Orange Park,1110
+3246,Fairburn,1111
+3251,Santee,1112
+3252,Forsyth,1113
+3267,Heflin,1114
+3270,Mankato,1115
+3271,Pine Island,1116
+3272,Saint Peter,1117
+3279,Burnsville,1118
+3280,Savage,1119
+3287,Cottage Grove,1120
+3288,Inver Grove Heights,1121
+3291,South Saint Paul,1122
+3302,Eden Prairie,1123
+3316,Wilson,1124
+3326,Excelsior,1125
+3327,Minnetonka,1126
+3341,Ellendale,1127
+3342,Preston,1128
+3351,Rogers,1129
+3352,Forest Lake,1130
+3366,Hudson,1131
+3367,Circle Pines,1132
+3376,Rush City,1133
+3378,Earth City,1134
+3382,Overland Park,1135
+3383,Lenexa,1136
+3384,Olathe,1137
+3385,Oak Grove,1138
+3402,Grayslake,1139
+3406,New Lenox,1140
+3407,Tekamah,1141
+3411,West Liberty,1142
+3412,Worth,1143
+3425,Hutto,1144
+3441,Burleson,1145
+3450,Grand Prairie,1146
+3453,Norman,1147
+3459,Pauls Valley,1148
+3463,Jarrell,1149
+3464,Lake Dallas,1150
+3516,Duncanville,1151
+3536,Marion,1152
+3539,Joelton,1153
+3543,Mc Kenzie,1154
+3551,Westlake,1155
+3559,Owasso,1156
+3561,Spring,1157
+3564,Baird,1158
+3565,Aguilar,1159
+3566,Idaho Springs,1160
+3567,Commerce City,1161
+3572,Littleton,1162
+3573,Castle Rock,1163
+3579,Byers,1164
+3580,Golden,1165
+3581,Parker,1166
+3583,Wamsutter,1167
+3584,Canon City,1168
+3585,Beaver,1169
+3589,American Fork,1170
+3590,Payson,1171
+3595,Angel Fire,1172
+3613,Prewitt,1173
+3614,Blue River,1174
+3616,Redmond,1175
+3624,Newberg,1176
+3626,Bow,1177
+3629,Milpitas,1178
+3634,Benicia,1179
+3638,Oroville,1180
+3644,South San Francisco,1181
+3646,Millbrae,1182
+3655,Winnemucca,1183
+3659,Aptos,1184
+3660,Lockwood,1185
+3661,San Juan Bautista,1186
+3667,Morro Bay,1187
+3679,El Monte,1188
+3681,Montebello,1189
+3684,Commerce,1190
+3687,Brea,1191
+3690,Topanga,1192
+3694,Boron,1193
+3695,Los Alamitos,1194
+3698,View Park,1195
+3700,Cardiff By the Sea,1196
+3717,Littlerock,1197
+3726,Huntington Park,1198
+3731,Camp Pendleton,1199
+3736,San Clemente,1200
+3744,Santa Fe Springs,1201
+3745,Newbury Park,1202
+3755,Castaic,1203
+3756,Wrightwood,1204
+3776,Fountain Valley,1205
+3792,Lawndale,1206
+3793,Burbank,1207
+3802,Duxbury,1208
+3805,Nottingham,1209
+3808,Hingham,1210
+3812,East Providence,1211
+3814,East Lansing,1212
+3816,Livonia,1213
+3817,Farmington,1214
+3828,Framingham,1215
+3830,Lebanon,1216
+3832,Clifton Park,1217
+3833,Mechanicville,1218
+3836,Clinton Township,1219
+3840,Clark,1220
+3844,Haverstraw,1221
+3846,Cedar Knolls,1222
+3847,Montville,1223
+3849,Maspeth,1224
+3852,Blue Bell,1225
+3861,South Ozone Park,1226
+3863,Orange,1227
+3865,Shelton,1228
+3870,Nanuet,1229
+3872,East Haven,1230
+3874,Stratford,1231
+3876,Brick,1232
+3880,Hyndman,1233
+3884,Coraopolis,1234
+3887,Culpeper,1235
+3889,Fairfax Station,1236
+3890,State College,1237
+3891,Warrenton,1238
+3892,Watsontown,1239
+3894,Annville,1240
+3896,Greencastle,1241
+3897,Glen Burnie,1242
+3901,Shamokin,1243
+3902,Joppa,1244
+3903,Charlottesville,1245
+3905,Ruther Glen,1246
+3908,Annapolis,1247
+3910,Vienna,1248
+3912,Abingdon,1249
+3916,Tappahannock,1250
+3917,Mount Jackson,1251
+3921,Brazil,1252
+3923,Thorntown,1253
+3932,Elberfeld,1254
+3940,Dublin,1255
+3955,Erlanger,1256
+3956,Ft Mitchell,1257
+3957,Grove City,1258
+3959,Olive Hill,1259
+3960,Vandalia,1260
+3967,Kodak,1261
+3968,Clintwood,1262
+3969,Flat Rock,1263
+3971,Buchanan,1264
+3985,Saltville,1265
+3987,Rural Retreat,1266
+3991,Swords Creek,1267
+3992,Rustburg,1268
+4000,Jarratt,1269
+4011,Dinwiddie,1270
+4019,Hayes,1271
+4023,Chesapeake,1272
+4039,Tavernier,1273
+4052,Pickens,1274
+4054,Belton,1275
+4057,Saint Pauls,1276
+4058,Walhalla,1277
+4063,Duluth,1278
+4067,Prosperity,1279
+4077,Trenton,1280
+4081,Roebuck,1281
+4082,Carlisle,1282
+4087,Alpharetta,1283
+4093,Alcolu,1284
+4097,Woodruff,1285
+4114,Saint Johns,1286
+4117,Saint Augustine,1287
+4131,Jacksonville Beach,1288
+4134,Port Wentworth,1289
+4140,Juliette,1290
+4148,Conyers,1291
+4150,McDonough,1292
+4174,Blomkest,1293
+4185,Slinger,1294
+4187,East Peoria,1295
+4188,Gretna,1296
+4192,Melrose,1297
+4193,Milaca,1298
+4198,Hugo,1299
+4205,Waukesha,1300
+4215,Little Falls,1301
+4216,Rolling Meadows,1302
+4217,Warrenville,1303
+4225,Marengo,1304
+4227,Martelle,1305
+4229,Mondamin,1306
+4231,Monticello,1307
+4249,Denton,1308
+4256,Port Allen,1309
+4259,Hamilton,1310
+4282,Billingsley,1311
+4291,Hampshire,1312
+4293,Franklin,1313
+4301,La Vergne,1314
+4308,Katy,1315
+4309,Moore,1316
+4314,Usaf Academy,1317
+4315,Colorado Springs,1318
+4319,Riverton,1319
+4325,Tonopah,1320
+4326,Mayhill,1321
+4327,Anton Chico,1322
+4328,Black Canyon City,1323
+4330,Dewey,1324
+4333,Mayer,1325
+4334,Cubero,1326
+4336,Terrebonne,1327
+4343,Ridgefield,1328
+4344,Scappoose,1329
+4345,Chowchilla,1330
+4348,Santa Clara,1331
+4352,Patterson,1332
+4356,Turlock,1333
+4364,Napa,1334
+4375,Chico,1335
+4377,Martinez,1336
+4385,Sausalito,1337
+4386,Elk Grove,1338
+4387,Nevada City,1339
+4389,Orinda,1340
+4405,Healdsburg,1341
+4418,Santa Paula,1342
+4420,Riverdale,1343
+4425,Arcadia,1344
+4432,Agoura Hills,1345
+4434,Rosemead,1346
+4451,Inglewood,1347
+4479,North Hills,1348
+4485,Lockport,1349
+4491,Portsmouth,1350
+4493,Wellesley Hills,1351
+4494,Hampstead,1352
+4495,Foxboro,1353
+4496,Haverhill,1354
+4498,Burlington,1355
+4499,Peabody,1356
+4504,Westwood,1357
+4505,Tyngsboro,1358
+4508,Assonet,1359
+4511,Boxford,1360
+4512,Hooksett,1361
+4520,Roxbury,1362
+4523,Plainville,1363
+4527,Needham Heights,1364
+4529,Roslindale,1365
+4530,Newtonville,1366
+4533,North Billerica,1367
+4534,North Chelmsford,1368
+4535,Windham,1369
+4538,Oak Park,1370
+4542,Bloomfield Hills,1371
+4545,Mount Morris,1372
+4546,Clio,1373
+4550,Gaylord,1374
+4554,Romulus,1375
+4558,Lansing,1376
+4560,Vernon Rockville,1377
+4564,North Smithfield,1378
+4566,Canaan,1379
+4571,Campton,1380
+4572,Fitchburg,1381
+4573,Grantham,1382
+4575,Monson,1383
+4577,Putney,1384
+4578,Sturbridge,1385
+4580,Lee,1386
+4581,Taberg,1387
+4584,Pottersville,1388
+4585,Vestal,1389
+4586,Duanesburg,1390
+4589,Clinton Corners,1391
+4604,Smethport,1392
+4614,Jericho,1393
+4616,Yorktown Heights,1394
+4617,Media,1395
+4618,King of Prussia,1396
+4620,Chappaqua,1397
+4626,Aldan,1398
+4630,Haverford,1399
+4631,Telford,1400
+4633,Kutztown,1401
+4637,Lansdowne,1402
+4641,Coopersburg,1403
+4643,Allentown,1404
+4645,Ridgewood,1405
+4646,Cranford,1406
+4647,Peekskill,1407
+4649,Mount Laurel,1408
+4652,Abington,1409
+4653,Valley Stream,1410
+4658,White Haven,1411
+4662,Ronkonkoma,1412
+4666,Ridgefield Park,1413
+4668,Islip Terrace,1414
+4670,Tinton Falls,1415
+4671,Neptune,1416
+4677,Williston Park,1417
+4683,Carmel,1418
+4684,Waterbury,1419
+4686,Bellmawr,1420
+4691,Ardmore,1421
+4693,Parsippany,1422
+4697,Merchantville,1423
+4699,Poughkeepsie,1424
+4702,Upper Merion,1425
+4706,Hackensack,1426
+4713,Commack,1427
+4714,East Sandwich,1428
+4715,Hyannis,1429
+4716,Harwich,1430
+4717,Riverhead,1431
+4723,Sewickley,1432
+4724,Monroeville,1433
+4727,Windber,1434
+4730,Conneaut Lake,1435
+4733,Richfield,1436
+4734,Waynesboro,1437
+4744,Essex,1438
+4746,Morningside,1439
+4753,Mount Joy,1440
+4755,Jonestown,1441
+4756,Mc Lean,1442
+4758,Linthicum Heights,1443
+4760,Dillsburg,1444
+4767,Elkton,1445
+4768,York Springs,1446
+4781,Dickerson,1447
+4787,Mechanicsburg,1448
+4790,Mount Airy,1449
+4814,Benton,1450
+4816,Duncannon,1451
+4818,Walkersville,1452
+4823,Willow Hill,1453
+4826,Snow Shoe,1454
+4829,Walton,1455
+4832,Hebron,1456
+4843,Brooks,1457
+4847,Westville,1458
+4850,Galena,1459
+4866,Crestview Hills,1460
+4867,Crescent Springs,1461
+4877,Mason,1462
+4885,Moraine,1463
+4892,Candler,1464
+4893,Arden,1465
+4894,Fletcher,1466
+4911,Rural Hall,1467
+4912,Smyrna,1468
+4914,Durham,1469
+4917,Holly Springs,1470
+4919,Arrington,1471
+4927,Pembroke,1472
+4933,Hillsville,1473
+4951,Cornelius,1474
+4957,Davidson,1475
+4974,South Chesterfield,1476
+5001,White Stone,1477
+5012,Warfield,1478
+5014,Mc Kenney,1479
+5030,North Fort Myers,1480
+5040,North Miami,1481
+5042,Bonita Springs,1482
+5071,Punta Gorda,1483
+5086,Dunnellon,1484
+5088,Bronson,1485
+5089,Altamonte Springs,1486
+5090,Spring Hill,1487
+5095,Silver Springs,1488
+5099,Longwood,1489
+5103,Ocoee,1490
+5124,Holiday,1491
+5129,Frostproof,1492
+5142,Safety Harbor,1493
+5155,Easley,1494
+5158,Hodges,1495
+5161,Wellford,1496
+5164,Newberry,1497
+5175,Timmonsville,1498
+5199,Austell,1499
+5208,Rembert,1500
+5218,Longs,1501
+5222,Richburg,1502
+5226,Jonesville,1503
+5248,North Myrtle Beach,1504
+5266,Lawrenceville,1505
+5276,Fair Play,1506
+5288,Lake View,1507
+5309,Middleburg,1508
+5316,Jennings,1509
+5325,Crawfordville,1510
+5327,Jasper,1511
+5335,Panama City,1512
+5336,Macclenny,1513
+5339,Savannah,1514
+5340,Pooler,1515
+5346,Okatie,1516
+5347,Bluffton,1517
+5349,Glennville,1518
+5352,Cope,1519
+5356,Rex,1520
+5368,Manning,1521
+5369,Pawleys Island,1522
+5374,North,1523
+5386,Thomson,1524
+5402,De Soto,1525
+5403,Festus,1526
+5406,Chanhassen,1527
+5407,Waseca,1528
+5408,Le Sueur,1529
+5409,Brownton,1530
+5420,Elk Mound,1531
+5421,Sleepy Eye,1532
+5435,Custer,1533
+5436,Eau Claire,1534
+5441,Wausau,1535
+5442,Plover,1536
+5447,Oshkosh,1537
+5451,Zumbrota,1538
+5452,Stevens Point,1539
+5459,Racine,1540
+5461,Minnesota Lake,1541
+5462,Worthington,1542
+5464,Fountain,1543
+5465,Morton,1544
+5469,Ainsworth,1545
+5477,Paynesville,1546
+5478,Howard Lake,1547
+5480,Sauk Rapids,1548
+5481,Foley,1549
+5483,Braham,1550
+5501,Stillwater,1551
+5519,Olathe city,1552
+5520,Leawood,1553
+5523,O Fallon,1554
+5526,Kenosha,1555
+5528,Dodgeville,1556
+5535,New Berlin,1557
+5536,Edgerton,1558
+5537,Brookfield,1559
+5538,Oconomowoc,1560
+5545,Brook Park,1561
+5546,Motley,1562
+5547,Willow River,1563
+5548,Barnum,1564
+5553,Carol Stream,1565
+5554,Bartlett,1566
+5558,Ankeny,1567
+5560,Westmont,1568
+5567,Lombard,1569
+5568,Wheaton,1570
+5574,Harvey,1571
+5576,Des Plaines,1572
+5577,Buffalo Grove,1573
+5581,Hoffman Estates,1574
+5653,Cedar Creek,1575
+5660,Southlake,1576
+5735,Keithville,1577
+5742,Seagoville,1578
+5754,Bristow,1579
+5769,Allen,1580
+5779,Rockwall,1581
+5803,Metairie,1582
+5809,Navarre,1583
+5837,Whites Creek,1584
+5847,Athens,1585
+5856,Baileyton,1586
+5857,Marbury,1587
+5862,Owens Cross Roads,1588
+5864,Altoona,1589
+5865,Enterprise,1590
+5890,Catoosa,1591
+5923,Porter,1592
+5929,Central,1593
+5944,Granby,1594
+5950,Dumont,1595
+5958,Orem,1596
+5964,West Valley City,1597
+5974,Wendover,1598
+5988,Dugway,1599
+5991,Wells,1600
+5992,Elko,1601
+5993,Magna,1602
+5997,Deeth,1603
+6027,Casa Grande,1604
+6033,Laveen,1605
+6048,Grants Pass,1606
+6052,McMinnville,1607
+6066,Kent,1608
+6067,Bremerton,1609
+6073,Mountlake Terrace,1610
+6079,Cosmopolis,1611
+6083,Centralia,1612
+6091,Olympic Valley,1613
+6095,Ben Lomond,1614
+6100,Boulder Creek,1615
+6108,Livermore,1616
+6127,Grass Valley,1617
+6190,Klamath,1618
+6191,Novato,1619
+6194,Upper Lake,1620
+6201,Santa Cruz,1621
+6203,Soquel,1622
+6205,Castroville,1623
+6206,Huron,1624
+6208,Atascadero,1625
+6214,Oxnard,1626
+6217,Oak View,1627
+6218,Taft,1628
+6221,Westlake Village,1629
+6244,Covina,1630
+6246,West Covina,1631
+6251,Chula Vista,1632
+6262,Fullerton,1633
+6263,Duarte,1634
+6264,Costa Mesa,1635
+6297,North East,1636
+6300,North Tonawanda,1637
+6306,Cranston,1638
+6307,Dorchester,1639
+6310,Dorchester Center,1640
+6311,East Boston,1641
+6312,Epping,1642
+6320,Newton Center,1643
+6323,Attleboro Falls,1644
+6325,Chelsea,1645
+6328,Jamaica Plain,1646
+6342,Clarkston,1647
+6345,Linden,1648
+6349,Davisburg,1649
+6350,Gaines,1650
+6353,Holly,1651
+6360,Auburn Hills,1652
+6376,Ypsilanti,1653
+6379,New Hudson,1654
+6387,Townsend,1655
+6388,Millbury,1656
+6394,Gansevoort,1657
+6395,Argyle,1658
+6399,Delanson,1659
+6400,Union Pier,1660
+6408,Benton Harbor,1661
+6413,Wyoming,1662
+6415,Wayland,1663
+6418,Byron Center,1664
+6420,Casco,1665
+6422,Smiths Creek,1666
+6426,Harper Woods,1667
+6429,Fairport,1668
+6436,Victor,1669
+6440,Wantagh,1670
+6442,Copiague,1671
+6447,Valhalla,1672
+6449,Phoenixville,1673
+6451,Central Islip,1674
+6454,Alpha,1675
+6455,Bay Shore,1676
+6457,Norristown,1677
+6460,Coatesville,1678
+6465,Fort Washington,1679
+6466,Stewartsville,1680
+6470,Mantua,1681
+6472,Carle Place,1682
+6478,Eagleville,1683
+6479,New Hyde Park,1684
+6483,North Bergen,1685
+6484,Rockville Centre,1686
+6488,Hatfield,1687
+6493,Stony Brook,1688
+6494,Sussex,1689
+6498,Bound Brook,1690
+6501,West Haven,1691
+6504,Glen Mills,1692
+6505,Lansdale,1693
+6507,Gilbertsville,1694
+6508,Denville,1695
+6509,Cortlandt Manor,1696
+6512,North Wales,1697
+6515,Gladwyne,1698
+6520,Bridgeville,1699
+6521,Chesterland,1700
+6524,Mars,1701
+6525,North Jackson,1702
+6527,Parkville,1703
+6528,Paradise,1704
+6538,East Berlin,1705
+6542,Patton,1706
+6548,Shamokin Dam,1707
+6549,District 5,1708
+6551,Howard,1709
+6552,Westover,1710
+6553,Penfield,1711
+6558,Lincoln University,1712
+6563,Morrisdale,1713
+6565,Emporium,1714
+6567,Trevorton,1715
+6579,Daleville,1716
+6590,Westerville,1717
+6615,Lenoir City,1718
+6618,Slater,1719
+6620,Norton,1720
+6662,Fancy Gap,1721
+6663,Clemmons,1722
+6665,Asheboro,1723
+6713,Gloucester,1724
+6767,Coconut Creek,1725
+6769,Miami Gardens,1726
+6797,Deland,1727
+6806,Oviedo,1728
+6810,Eustis,1729
+6812,Pierson,1730
+6827,Wauchula,1731
+6833,Sebring,1732
+6845,Cross Hill,1733
+6856,Mullins,1734
+6861,Eastover,1735
+6892,Kinards,1736
+6895,Pageland,1737
+6908,Honea Path,1738
+6915,Villa Rica,1739
+6941,Cayce,1740
+6984,Lithia Springs,1741
+6998,Ellabell,1742
+7009,Smoaks,1743
+7011,Jonesboro,1744
+7014,Varnville,1745
+7015,Hephzibah,1746
+7017,Andrews,1747
+7025,Norway,1748
+7031,Reevesville,1749
+7039,Seabrook,1750
+7043,Saint Helena Island,1751
+7051,Beech Island,1752
+7052,Conley,1753
+7053,Bonneau,1754
+7060,Senoia,1755
+7066,Poseyville,1756
+7069,Oronoco,1757
+7072,Green Bay,1758
+7073,Bancroft,1759
+7076,Norwood Young America,1760
+7078,Granite Falls,1761
+7109,Fond du Lac,1762
+7110,Eyota,1763
+7124,Council Bluffs,1764
+7130,New London,1765
+7157,Lees Summit,1766
+7159,Libertyville,1767
+7166,Lake Villa,1768
+7167,McHenry,1769
+7170,Wadsworth,1770
+7180,Lake Mills,1771
+7186,Hinton,1772
+7189,Zion,1773
+7192,Webster City,1774
+7194,Perham,1775
+7197,Deerfield,1776
+7206,Skokie,1777
+7207,Proviso,1778
+7211,Urbandale,1779
+7213,Willowbrook,1780
+7215,Lemont,1781
+7217,Wood Dale,1782
+7219,Posen,1783
+7220,Riverwoods,1784
+7226,Lake Zurich,1785
+7236,Lake Forest,1786
+7246,Long Grove,1787
+7247,Ela,1788
+7249,Elk Grove Village,1789
+7252,Lincolnshire,1790
+7253,Wauconda,1791
+7254,Palos Heights,1792
+7276,Roanoke,1793
+7277,Justin,1794
+7297,Little Elm,1795
+7342,Luther,1796
+7374,Saraland,1797
+7375,Theodore,1798
+7428,Hammond,1799
+7435,Horn Lake,1800
+7444,Vinemont,1801
+7445,Falkville,1802
+7449,Cornersville,1803
+7474,Hope Hull,1804
+7477,Ramer,1805
+7481,New Hope,1806
+7486,Tuskegee,1807
+7489,Leeds,1808
+7514,Broken Arrow,1809
+7537,Bellaire,1810
+7539,Kerrville,1811
+7560,Ely,1812
+7566,Longmont,1813
+7573,Pleasant Grove,1814
+7575,Centerville,1815
+7612,Paradise Valley,1816
+7627,Tolleson,1817
+7631,Central Point,1818
+7633,Harper,1819
+7635,Jefferson,1820
+7636,Gleneden Beach,1821
+7648,Spokane Valley,1822
+7650,Valleyford,1823
+7665,Spanaway,1824
+7666,Graham,1825
+7669,Mercer Island,1826
+7672,Buxton,1827
+7676,Clackamas,1828
+7683,Stateline,1829
+7684,Washoe Valley,1830
+7685,Oakhurst,1831
+7686,Carson City,1832
+7688,Sparks,1833
+7695,Oakley,1834
+7708,Fremont,1835
+7714,Hughson,1836
+7734,Placerville,1837
+7737,Valley Springs,1838
+7745,Vernalis,1839
+7758,Winton,1840
+7761,Los Banos,1841
+7764,Pittsburg,1842
+7766,Hollister,1843
+7783,Lakeport,1844
+7784,Fortuna,1845
+7793,Monterey,1846
+7796,Arroyo Grande,1847
+7801,Hanford,1848
+7803,Sanger,1849
+7804,Strathmore,1850
+7806,Tipton,1851
+7825,Santa Monica,1852
+7851,Piru,1853
+7872,Menifee,1854
+7873,Nuevo,1855
+7878,Marina del Rey,1856
+7880,San Marino,1857
+7890,Lytle Creek,1858
+7909,Westfield,1859
+7914,Corfu,1860
+7918,Tonawanda,1861
+7921,Cyclone,1862
+7924,Raymond,1863
+7933,Allen Park,1864
+7946,Bridgeport,1865
+7948,Southfield,1866
+7949,Battle Creek,1867
+7950,Hamtramck,1868
+7953,Amenia,1869
+7956,Hillsdale,1870
+7957,Palmer,1871
+7961,Lake George,1872
+7964,Latham,1873
+7965,New Milford,1874
+7966,Rhinebeck,1875
+7968,Utica,1876
+7978,Stevensville,1877
+7985,Port Huron,1878
+7988,Henrietta,1879
+7989,Batavia,1880
+7991,Shortsville,1881
+8005,Holmdel,1882
+8013,New Rochelle,1883
+8015,Mineola,1884
+8016,Glen Head,1885
+8018,Elmwood Park,1886
+8020,Gouldsboro,1887
+8021,Throop,1888
+8025,Archbald,1889
+8026,Penns Grove,1890
+8028,Beacon,1891
+8030,Jim Thorpe,1892
+8031,Suffern,1893
+8033,Netcong,1894
+8034,Hopewell Junction,1895
+8036,Goshen,1896
+8038,Bordentown,1897
+8039,Egg Harbor Township,1898
+8042,Croton on Hudson,1899
+8047,Center Valley,1900
+8055,Gloucester City,1901
+8063,Port Jervis,1902
+8065,Stony Point,1903
+8072,Tannersville,1904
+8082,Nicholson,1905
+8083,Budd Lake,1906
+8085,Mount Kisco,1907
+8090,Central Valley,1908
+8097,Pomona,1909
+8106,Port Chester,1910
+8109,Central City,1911
+8115,Somerset,1912
+8117,Wilkes Barre,1913
+8119,New Albany,1914
+8121,Tunkhannock,1915
+8122,La Jose,1916
+8125,Spring Mills,1917
+8126,Mill Hall,1918
+8127,Loganton,1919
+8129,Lilly,1920
+8132,Wilcox,1921
+8133,Annandale,1922
+8136,Toms Brook,1923
+8139,Dushore,1924
+8140,New Market,1925
+8141,Bernville,1926
+8142,Hamburg,1927
+8144,Cogan Station,1928
+8145,Mountain Top,1929
+8152,Monrovia,1930
+8153,Cabin John,1931
+8156,Breezewood,1932
+8177,Heiskell,1933
+8178,Black Mountain,1934
+8179,Niota,1935
+8180,Clyde,1936
+8182,Fall Branch,1937
+8183,White Pine,1938
+8189,Cosby,1939
+8190,Cookeville,1940
+8199,Troutdale,1941
+8204,Martinsville,1942
+8205,Linwood,1943
+8210,Bland,1944
+8211,Max Meadows,1945
+8216,Glade Spring,1946
+8219,Cana,1947
+8222,Keeling,1948
+8226,Blairs,1949
+8243,Kenly,1950
+8272,Clermont,1951
+8294,Rockledge,1952
+8305,Gable,1953
+8309,Woodstock,1954
+8319,Suwanee,1955
+8325,Aynor,1956
+8337,Cartersville,1957
+8355,Warsaw,1958
+8370,Lenox,1959
+8374,Vance,1960
+8381,Jeffersonville,1961
+8385,Opelika,1962
+8397,Barnesville,1963
+8403,Peculiar,1964
+8404,Glenville,1965
+8405,Sheboygan,1966
+8410,Jonesburg,1967
+8414,North Chicago,1968
+8419,Huntley,1969
+8420,Thornton,1970
+8428,New Braunfels,1971
+8430,Buda,1972
+8453,Holladay,1973
+8460,Garland,1974
+8462,Waxahachie,1975
+8467,Royse City,1976
+8476,Cordova,1977
+8485,Northport,1978
+8490,Cottondale,1979
+8495,Castleberry,1980
+8497,Cross Plains,1981
+8499,Brewton,1982
+8505,Prattville,1983
+8513,Silver Point,1984
+8528,Hurricane,1985
+8529,Kanab,1986
+8530,Arvada,1987
+8537,Loveland,1988
+8546,Wellton,1989
+8547,Overton,1990
+8548,Ash Fork,1991
+8558,Roseburg,1992
+8560,Willamina,1993
+8561,Baker City,1994
+8562,Halsey,1995
+8567,Lake Stevens,1996
+8574,Poulsbo,1997
+8577,Wasco,1998
+8580,Chehalis,1999
+8583,Mariposa,2000
+8584,Glenbrook,2001
+8587,Truckee,2002
+8588,Verdi,2003
+8591,Kings Beach,2004
+8614,Crockett,2005
+8636,La Grange,2006
+8663,Weed,2007
+8674,Redding,2008
+8680,Lodi,2009
+8687,Soda Springs,2010
+8699,Atwater,2011
+8720,Susanville,2012
+8730,Hornbrook,2013
+8749,Cotati,2014
+8761,Firebaugh,2015
+8773,Pixley,2016
+8783,Highland,2017
+8806,Mentone,2018
+8818,Valyermo,2019
+8825,Valley Center,2020
+8881,Newton Lower Falls,2021
+8883,Needham,2022
+8896,Dover,2023
+8904,Braintree,2024
+8908,Westford,2025
+8915,Belmont,2026
+8927,New Boston,2027
+8931,Saginaw,2028
+8934,Huntington Woods,2029
+8939,Howell,2030
+8963,Schodack Landing,2031
+8965,North Grafton,2032
+8966,Marlborough,2033
+8972,Whitinsville,2034
+8979,East Greenbush,2035
+8987,Hopkinton,2036
+8990,Lunenburg,2037
+8992,Rensselaer,2038
+8993,Eagle Bridge,2039
+8999,Canastota,2040
+9000,Westmoreland,2041
+9001,Catskill,2042
+9004,Slingerlands,2043
+9023,Webster,2044
+9024,East Rochester,2045
+9033,North Chili,2046
+9040,Brockport,2047
+9042,Bergen,2048
+9054,Sloatsburg,2049
+9055,Great Neck,2050
+9056,Southfields,2051
+9058,Highland Falls,2052
+9060,Ledgewood,2053
+9061,South Setauket,2054
+9066,Upper Macungie,2055
+9067,Horsham,2056
+9068,Perkiomenville,2057
+9070,Lehighton,2058
+9071,Sewell,2059
+9076,Hatboro,2060
+9079,Blairstown,2061
+9081,Spring Valley,2062
+9084,New Castle,2063
+9091,Barrington,2064
+9092,Bryn Mawr,2065
+9096,Hackettstown,2066
+9105,Farmingdale,2067
+9106,King Of Prussia,2068
+9110,Marlton,2069
+9115,Bellmore,2070
+9118,Belmar,2071
+9119,West Babylon,2072
+9120,Plantsville,2073
+9121,Cherry Hill,2074
+9122,Hauppauge,2075
+9124,North Salem,2076
+9130,Magnolia,2077
+9144,Hillburn,2078
+9146,Ocean City,2079
+9148,Hammonton,2080
+9153,East Hanover,2081
+9159,Boyertown,2082
+9161,Garrison,2083
+9174,Cheshire,2084
+9186,Morganville,2085
+9187,Cinnaminson,2086
+9191,Ridley Park,2087
+9196,Olyphant,2088
+9201,Exton,2089
+9205,Englishtown,2090
+9212,New Britain,2091
+9214,Wethersfield,2092
+9215,West Hartford,2093
+9228,Kane,2094
+9229,Warren,2095
+9233,Latrobe,2096
+9234,New Stanton,2097
+9237,Jeannette,2098
+9241,Pasadena,2099
+9243,Bowie,2100
+9248,Elkridge,2101
+9258,Lemoyne,2102
+9260,College Park,2103
+9271,Paeonian Springs,2104
+9272,Baltimore,2105
+9274,Havre De Grace,2106
+9280,Takoma Park,2107
+9293,Forest Hill,2108
+9304,Aldie,2109
+9306,Sykesville,2110
+9317,Saint Marys,2111
+9324,Ellicott City,2112
+9327,Beltsville,2113
+9334,Woodford,2114
+9335,Lewisburg,2115
+9336,Derwood,2116
+9343,Perry Hall,2117
+9352,Reisterstown,2118
+9354,Queenstown,2119
+9356,Purcellville,2120
+9357,Suitland,2121
+9358,Capitol Heights,2122
+9373,Temple Hills,2123
+9375,Zionsville,2124
+9380,Lawrenceburg,2125
+9383,Sunman,2126
+9385,Fairdale,2127
+9391,Dale,2128
+9412,Pickerington,2129
+9413,Maineville,2130
+9438,Holland,2131
+9475,Groveport,2132
+9482,Carroll,2133
+9490,Gate City,2134
+9511,Matthews,2135
+9514,Gastonia,2136
+9532,Spring Lake,2137
+9545,Spindale,2138
+9552,Christiansburg,2139
+9588,Radford,2140
+9600,Chilhowie,2141
+9602,Apex,2142
+9603,Campobello,2143
+9612,Henderson,2144
+9616,Wake Forest,2145
+9732,Dunn,2146
+9735,Scottsburg,2147
+9748,Quinton,2148
+9761,Alva,2149
+9769,Wellington,2150
+9780,Port Charlotte,2151
+9789,Dania,2152
+9797,North Miami Beach,2153
+9804,Umatilla,2154
+9807,Sorrento,2155
+9809,Beverly Hills,2156
+9810,Hernando,2157
+9819,De Leon Springs,2158
+9826,Casselberry,2159
+9861,Brandon,2160
+9866,Polk City,2161
+9868,Haines City,2162
+9872,Parrish,2163
+9876,Odessa,2164
+9877,Wesley Chapel,2165
+9895,Sebastian,2166
+9899,Indialantic,2167
+9914,Port Richey,2168
+9920,Crystal Beach,2169
+9939,Effingham,2170
+9953,Blackstock,2171
+9978,Starr,2172
+10005,Latta,2173
+10019,Cheraw,2174
+10034,Liberty,2175
+10062,Saluda,2176
+10071,Pamplico,2177
+10072,West Union,2178
+10095,Williamston,2179
+10151,Resaca,2180
+10161,Callahan,2181
+10167,Marianna,2182
+10172,Chipley,2183
+10210,Goose Creek,2184
+10222,Salters,2185
+10228,Harleyville,2186
+10257,Mascoutah,2187
+10258,Herculaneum,2188
+10260,House Springs,2189
+10279,Neenah,2190
+10285,Rosemount,2191
+10295,Dane,2192
+10322,Lake Elmo,2193
+10337,Florissant,2194
+10349,Sioux City,2195
+10366,Esko,2196
+10369,Park Ridge,2197
+10373,Iowa City,2198
+10378,Villa Park,2199
+10380,Schaumburg,2200
+10386,Willow Springs,2201
+10391,Bridgeview,2202
+10399,Vernon Hills,2203
+10404,Glen Ellyn,2204
+10405,Dundee,2205
+10406,Glendale Heights,2206
+10416,Bettendorf,2207
+10418,West des Moines,2208
+10421,Hiawatha,2209
+10433,Spicewood,2210
+10450,Broussard,2211
+10453,Carencro,2212
+10454,Youngsville,2213
+10490,Coppell,2214
+10505,Leander,2215
+10515,Newalla,2216
+10607,Baker,2217
+10668,Rowlett,2218
+10675,Balch Springs,2219
+10684,Sachse,2220
+10686,Frisco,2221
+10699,Beasley,2222
+10741,Cut Off,2223
+10745,Trafford,2224
+10757,Bessemer,2225
+10817,Murfreesboro,2226
+10818,Bonifay,2227
+10823,Millbrook,2228
+10836,Ocean Springs,2229
+10837,Stanton,2230
+10848,Kingwood,2231
+10852,Tyler,2232
+10927,Missouri City,2233
+10932,Tomball,2234
+10996,Northglenn,2235
+10999,Greeley,2236
+11007,Boulder,2237
+11023,Yuma,2238
+11077,Socorro,2239
+11084,Rickreall,2240
+11085,Sheridan,2241
+11087,Dorena,2242
+11090,Camp Sherman,2243
+11093,Olympia,2244
+11096,Elma,2245
+11097,Dupont,2246
+11102,Lilliwaup,2247
+11115,Bellevue,2248
+11134,West Linn,2249
+11141,Imbler,2250
+11152,Yakima,2251
+11169,Gardnerville,2252
+11175,Brisbane,2253
+11180,American Canyon,2254
+11203,Stevinson,2255
+11218,Pinole,2256
+11219,Ballico,2257
+11223,Lockeford,2258
+11237,Saint Helena,2259
+11247,Burlingame,2260
+11251,Davis,2261
+11264,Smartsville,2262
+11266,Winters,2263
+11267,Copperopolis,2264
+11284,North San Juan,2265
+11287,San Carlos,2266
+11301,Galt,2267
+11310,McArthur,2268
+11313,Red Bluff,2269
+11316,Cool,2270
+11320,Pacifica,2271
+11327,Ceres,2272
+11359,Pine Grove,2273
+11370,Rohnert Park,2274
+11372,Clearlake Oaks,2275
+11383,Lucerne,2276
+11386,Penngrove,2277
+11405,Fowler,2278
+11406,Dinuba,2279
+11410,Visalia,2280
+11411,Lompoc,2281
+11412,Buttonwillow,2282
+11420,Lemon Cove,2283
+11455,Malibu,2284
+11470,Rancho Santa Fe,2285
+11478,Wildomar,2286
+11538,Yorba Linda,2287
+11544,Panorama City,2288
+11592,Torrance,2289
+11617,El Segundo,2290
+11631,West Roxbury,2291
+11635,Attleboro,2292
+11637,Kensington,2293
+11644,Middleboro,2294
+11645,West Bridgewater,2295
+11651,Saugus,2296
+11652,Carver,2297
+11653,Rowley,2298
+11656,South Hamilton,2299
+11658,Somerville,2300
+11662,East Wareham,2301
+11672,Candia,2302
+11708,Otisville,2303
+11716,Charlton,2304
+11719,Stow,2305
+11720,Colonie,2306
+11722,Stafford Springs,2307
+11724,Tolland,2308
+11725,Storrs Mansfield,2309
+11727,Pine Plains,2310
+11728,Johnston,2311
+11730,Pleasant Valley,2312
+11731,Chatham,2313
+11733,Winchendon,2314
+11734,Rutland,2315
+11735,Nashua,2316
+11755,Grandville,2317
+11756,Muskegon,2318
+11765,Rush,2319
+11776,Plainview,2320
+11791,Yaphank,2321
+11793,Syosset,2322
+11796,Sicklerville,2323
+11800,Smithtown,2324
+11807,Wrightstown,2325
+11810,Warrington,2326
+11814,Islandia,2327
+11815,Southbury,2328
+11828,Bridgewater,2329
+11835,Hicksville,2330
+11838,Huntingdon Valley,2331
+11844,Glenside,2332
+11845,Metuchen,2333
+11850,Souderton,2334
+11852,Greenlawn,2335
+11861,Scarsdale,2336
+11864,Westbury,2337
+11871,Deer Park,2338
+11873,Iselin,2339
+11877,Browns Mills,2340
+11881,Hellertown,2341
+11890,Waccabuc,2342
+11898,Roslyn,2343
+11901,Lindenhurst,2344
+11907,Port Jefferson,2345
+11908,Quakertown,2346
+11911,East Orange,2347
+11925,Forest Hills,2348
+11952,Morristown,2349
+11973,Rocky Hill,2350
+11979,Moosup,2351
+11980,Stonington,2352
+11981,East Falmouth,2353
+11982,Moriches,2354
+11994,Allison Park,2355
+12007,Narvon,2356
+12009,Chantilly,2357
+12012,Andrews Air Force Base,2358
+12017,New Cumberland,2359
+12018,Stevens,2360
+12026,Etters,2361
+12046,Unityville,2362
+12053,Stephens City,2363
+12066,Dumfries,2364
+12083,Henryville,2365
+12103,Whitestown,2366
+12147,Edgewood,2367
+12156,West Jefferson,2368
+12167,Maumee,2369
+12190,Limestone,2370
+12196,Mars Hill,2371
+12198,Hixson,2372
+12204,Castlewood,2373
+12217,Appomattox,2374
+12233,Mooresville,2375
+12259,Siler City,2376
+12288,Bassett,2377
+12294,Landrum,2378
+12315,Waverly,2379
+12318,Willow Spring,2380
+12335,Dutton,2381
+12337,Lanexa,2382
+12388,Mechanicsville,2383
+12398,Manakin Sabot,2384
+12418,Belle Glade,2385
+12476,Coral Springs,2386
+12478,Clewiston,2387
+12493,Astor,2388
+12563,Seffner,2389
+12566,Kenneth City,2390
+12568,Dade City,2391
+12573,Thonotosassa,2392
+12577,Bartow,2393
+12597,Merritt Island,2394
+12610,Ruskin,2395
+12632,Douglasville,2396
+12674,Stone Mountain,2397
+12748,Fairmount,2398
+12817,Cades,2399
+12843,High Springs,2400
+12849,Alachua,2401
+12851,Green Cove Springs,2402
+12868,Fort White,2403
+12875,Kingsland,2404
+12876,Fleming Island,2405
+12895,Ozark,2406
+12902,Saint Stephen,2407
+12926,Warner Robins,2408
+12961,Ridgeland,2409
+12974,Valley Park,2410
+12985,Plato,2411
+12988,Olivia,2412
+13003,Elysian,2413
+13004,Deforest,2414
+13005,Adrian,2415
+13007,La Vista,2416
+13013,Papillion,2417
+13019,Rice,2418
+13043,Grandview,2419
+13051,Gardner,2420
+13054,Sturtevant,2421
+13061,Franksville,2422
+13068,Brainerd,2423
+13069,Hewitt,2424
+13071,Olympia Fields,2425
+13102,Melrose Park,2426
+13111,Mundelein,2427
+13112,West Branch,2428
+13114,Wichita,2429
+13119,Mcallen,2430
+13125,The Hills,2431
+13171,Cedar Park,2432
+13211,Haltom City,2433
+13229,Luling,2434
+13290,Grosse Tete,2435
+13292,Brackettville,2436
+13295,Grand Bay,2437
+13298,Boligee,2438
+13299,Eutaw,2439
+13303,Ferris,2440
+13311,Red Oak,2441
+13351,Crawfordsville,2442
+13355,Flowood,2443
+13363,Southaven,2444
+13365,Chalmette,2445
+13443,Hermitage,2446
+13447,Old Hickory,2447
+13457,Mcminnville,2448
+13474,Sumrall,2449
+13478,Gulfport,2450
+13611,South Jordan,2451
+13630,Vernal,2452
+13635,Springville,2453
+13646,Bountiful,2454
+13662,Coolidge,2455
+13733,Dairy,2456
+13734,Klamath Falls,2457
+13740,Cloverdale,2458
+13748,Seatac,2459
+13749,Sequim,2460
+13765,Oregon City,2461
+13767,Tualatin,2462
+13769,Yamhill,2463
+13775,Timber,2464
+13784,Twain Harte,2465
+13786,Coarsegold,2466
+13790,Catheys Valley,2467
+13808,Alameda,2468
+13836,Sonoma,2469
+13843,Los Molinos,2470
+13861,Orland,2471
+13869,Camino,2472
+13870,Sutter Creek,2473
+13875,San Andreas,2474
+13876,Walnut Grove,2475
+13886,Garden Valley,2476
+13892,Nicolaus,2477
+13923,Meridian,2478
+13924,Willows,2479
+13955,Forestville,2480
+13957,Willits,2481
+13967,Myers Flat,2482
+13970,Aromas,2483
+13971,Marina,2484
+13974,Soledad,2485
+13980,Reedley,2486
+13981,Woodlake,2487
+13987,Oceano,2488
+14005,Somis,2489
+14020,Canyon Country,2490
+14026,Placentia,2491
+14076,National City,2492
+14084,Grand Terrace,2493
+14105,Marina Del Rey,2494
+14119,Redondo Beach,2495
+14136,Yucaipa,2496
+14159,Clarence,2497
+14167,Edinboro,2498
+14168,Girard,2499
+14173,Allenstown,2500
+14177,Hyde Park,2501
+14182,Lynn,2502
+14186,Taunton,2503
+14212,Derry,2504
+14248,Erie,2505
+14250,Elwell,2506
+14256,Danielson,2507
+14257,Leominster,2508
+14258,Willington,2509
+14269,Amsterdam,2510
+14310,Holbrook,2511
+14312,West Nyack,2512
+14314,Baldwin,2513
+14315,Malvern,2514
+14323,Flanders,2515
+14327,Cold Spring,2516
+14336,Southampton,2517
+14338,Tuckahoe,2518
+14340,Harleysville,2519
+14341,Chester Springs,2520
+14343,Jenkintown,2521
+14360,Glenolden,2522
+14361,Willow Grove,2523
+14362,Bohemia,2524
+14375,Wappingers Falls,2525
+14380,Fair Lawn,2526
+14387,South Richmond Hill,2527
+14389,Bechtelsville,2528
+14403,Piscataway,2529
+14405,Fresh Meadows,2530
+14406,Wood Ridge,2531
+14409,Ossining,2532
+14410,Kenvil,2533
+14418,Thorndale,2534
+14420,Harriman,2535
+14424,Hastings on Hudson,2536
+14425,Waldwick,2537
+14431,Saddle River,2538
+14450,Rockingham,2539
+14451,Weyers Cave,2540
+14457,Fairlawn,2541
+14459,Greensburg,2542
+14460,Mount Sidney,2543
+14464,North Canton,2544
+14465,West Middlesex,2545
+14466,Ebensburg,2546
+14467,Reston,2547
+14480,Woodbine,2548
+14482,Ridgway,2549
+14486,Berryville,2550
+14488,Ronks,2551
+14490,Willow Street,2552
+14494,Lititz,2553
+14497,Marriottsville,2554
+14502,Dallastown,2555
+14506,Sunbury,2556
+14519,Parkton,2557
+14528,Heathsville,2558
+14530,Mc Connellsburg,2559
+14533,Philipsburg,2560
+14538,Selinsgrove,2561
+14540,Blandon,2562
+14557,Saxton,2563
+14575,Kokomo,2564
+14578,Floyds Knobs,2565
+14585,Harrison,2566
+14627,Bowling Green,2567
+14635,Taylor Mill,2568
+14638,Blue Ash,2569
+14646,Hilliard,2570
+14649,Mount Sterling,2571
+14651,Perrysburg,2572
+14662,Lockbourne,2573
+14688,Strongsville,2574
+14700,Jonesborough,2575
+14703,Rockwood,2576
+14707,Sylva,2577
+14708,Andersonville,2578
+14717,Alcoa,2579
+14719,Caryville,2580
+14763,Conover,2581
+14770,Natural Bridge,2582
+14782,Kernersville,2583
+14792,Axton,2584
+14825,Hurt,2585
+14827,Blue Ridge,2586
+14833,Statesville,2587
+14991,Palm Springs,2588
+15030,Ochopee,2589
+15034,Fort Mc Coy,2590
+15052,Weirsdale,2591
+15053,Horseshoe Beach,2592
+15079,Islamorada,2593
+15082,Okeechobee,2594
+15094,Sun City Center,2595
+15097,Lorida,2596
+15219,Turbeville,2597
+15263,Acworth,2598
+15295,Pauline,2599
+15379,Smiths Station,2600
+15396,Swainsboro,2601
+15402,Morrow,2602
+15407,Fort Valley,2603
+15412,Barnwell,2604
+15414,Lane,2605
+15422,Phenix City,2606
+15430,Leslie,2607
+15434,Dittmer,2608
+15449,Lynd,2609
+15487,Bayport,2610
+15490,Center City,2611
+15496,Marine On Saint Croix,2612
+15508,Wentzville,2613
+15510,Blue Springs,2614
+15524,Darien,2615
+15533,Moose Lake,2616
+15535,Parkers Prairie,2617
+15541,Frankfort,2618
+15556,Romeoville,2619
+15557,Plainfield,2620
+15571,Summit Argo,2621
+15592,Oakbrook Terrace,2622
+15620,Wichita Falls,2623
+15659,Choctaw,2624
+15728,Lockhart,2625
+15770,Salado,2626
+15842,Channing,2627
+15845,Vina,2628
+15849,Semmes,2629
+15851,Eight Mile,2630
+16004,Toney,2631
+16118,Dickinson,2632
+16145,Conroe,2633
+16181,Manvel,2634
+16204,Toquerville,2635
+16219,Wheat Ridge,2636
+16253,Alpine,2637
+16284,Sun City,2638
+16312,Superior,2639
+16316,Rimrock,2640
+16319,Tuba City,2641
+16347,El Paso,2642
+16357,White City,2643
+16358,Chiloquin,2644
+16363,Blachly,2645
+16382,Langley,2646
+16397,Ocean Shores,2647
+16406,Sumner,2648
+16408,Saint Helens,2649
+16416,Richland,2650
+16423,Wilsonville,2651
+16453,Shingle Springs,2652
+16492,Suisun City,2653
+16493,Campbell,2654
+16525,Palo Cedro,2655
+16529,Newcastle,2656
+16537,Merced,2657
+16575,Lower Lake,2658
+16576,Redwood Valley,2659
+16577,Hayfork,2660
+16578,Ferndale,2661
+16589,Gonzales,2662
+16603,Lemoore,2663
+16604,Armona,2664
+16612,Universal City,2665
+16634,Moorpark,2666
+16649,Huntington Beach,2667
+16670,Granada Hills,2668
+16691,Upland,2669
+16698,Chatsworth,2670
+16755,La Habra,2671
+16774,Carson,2672
+16855,March Air Reserve Base,2673
+16876,Woodland Hills,2674
+16894,Auburndale,2675
+16900,Chestnut Hill,2676
+16912,Beverly,2677
+16923,North Providence,2678
+16930,Redford,2679
+16936,Northville,2680
+16941,Sterling Heights,2681
+16967,Sutton,2682
+16969,Sanbornton,2683
+16970,Oriskany Falls,2684
+16974,Halfmoon,2685
+17037,Spring City,2686
+17045,Landenberg,2687
+17055,Lawrence Township,2688
+17057,Massapequa,2689
+17061,Elverson,2690
+17085,Dobbs Ferry,2691
+17087,Farmingville,2692
+17091,Sandy Hook,2693
+17092,Warminster,2694
+17098,East Meadow,2695
+17099,Patchogue,2696
+17114,Totowa,2697
+17145,Cedarhurst,2698
+17161,Collegeville,2699
+17164,Whitehall,2700
+17174,Southport,2701
+17192,New City,2702
+17200,Berlin,2703
+17206,Stoystown,2704
+17208,Broadway,2705
+17212,Euclid,2706
+17216,Hooversville,2707
+17217,Cuyahoga Falls,2708
+17219,Montoursville,2709
+17226,Seven Valleys,2710
+17229,Christiana,2711
+17236,Red Lion,2712
+17239,Bird In Hand,2713
+17242,Fallston,2714
+17252,Pylesville,2715
+17263,Lanham,2716
+17265,East Earl,2717
+17279,Gordonsville,2718
+17377,Lakeside Park,2719
+17409,Sevierville,2720
+17418,Ooltewah,2721
+17462,Wirtz,2722
+17464,Amherst,2723
+17480,Glade Hill,2724
+17518,Pittsboro,2725
+17608,Goldsboro,2726
+17656,Hobe Sound,2727
+17660,Moore Haven,2728
+17674,Wilton Manors,2729
+17744,Land O Lakes,2730
+17762,Vero Beach,2731
+17802,Talmo,2732
+17845,Cassatt,2733
+17865,Mc Cormick,2734
+17880,Hartwell,2735
+17890,Hickory Grove,2736
+17943,Castle Hayne,2737
+17979,Cedartown,2738
+18023,Tifton,2739
+18030,Elloree,2740
+18043,Eutawville,2741
+18048,Surfside Beach,2742
+18073,Norwood,2743
+18075,Allendale,2744
+18106,Belview,2745
+18132,Belle Plaine,2746
+18134,Stewart,2747
+18152,Becker,2748
+18157,Willmar,2749
+18179,Granite City,2750
+18194,Beloit,2751
+18195,Oak Creek,2752
+18215,Pillager,2753
+18216,Cloquet,2754
+18241,Schiller Park,2755
+18253,Palatine,2756
+18256,Winfield,2757
+18272,North Bend,2758
+18274,Oak Lawn,2759
+18276,Sugar Grove,2760
+18278,Clarendon Hills,2761
+18283,Anna,2762
+18286,Mission,2763
+18433,West Lake Hills,2764
+18459,Prairieville,2765
+18514,The Colony,2766
+18539,Hutchins,2767
+18542,Brookshire,2768
+18579,Fort Walton Beach,2769
+18601,Fultondale,2770
+18639,Gulf Breeze,2771
+18664,Guntersville,2772
+18671,Defuniak Springs,2773
+18702,Lake Charles,2774
+18704,Saucier,2775
+18725,Bixby,2776
+18806,Green River,2777
+18820,Bailey,2778
+18832,Sevier,2779
+18841,Berthoud,2780
+18854,Layton,2781
+18872,Woods Cross,2782
+18915,Cave Creek,2783
+18950,Sierra Blanca,2784
+18981,Monmouth,2785
+19001,Medical Lake,2786
+19019,Deer Island,2787
+19035,Hermiston,2788
+19076,Ripon,2789
+19083,Crows Landing,2790
+19099,San Ramon,2791
+19150,San Quentin,2792
+19167,Olivehurst,2793
+19177,Goldfield,2794
+19180,Jenner,2795
+19182,Nicasio,2796
+19186,Glen Ellen,2797
+19199,Earlimart,2798
+19202,Orosi,2799
+19204,Porterville,2800
+19221,Mission Viejo,2801
+19338,Venice,2802
+19343,Canoga Park,2803
+19351,Middleport,2804
+19352,Franklinville,2805
+19356,Northwood,2806
+19370,Stratham,2807
+19378,South Boston,2808
+19380,Alton Bay,2809
+19410,Rochester Hills,2810
+19423,Townshend,2811
+19424,Chicopee,2812
+19425,Red Hook,2813
+19426,Stephentown,2814
+19433,Hoosick Falls,2815
+19439,Shutesbury,2816
+19441,Holyoke,2817
+19443,Boscawen,2818
+19447,Remsen,2819
+19448,Montrose,2820
+19460,Schroon Lake,2821
+19463,Margaretville,2822
+19467,Walker,2823
+19471,Kendall,2824
+19489,Hamlin,2825
+19498,West Henrietta,2826
+19518,Garden City,2827
+19520,Elkins Park,2828
+19529,Carteret,2829
+19544,Ansonia,2830
+19546,Ramsey,2831
+19553,Wallingford,2832
+19562,New Brunswick,2833
+19565,Saddle Brook,2834
+19567,Putnam Valley,2835
+19579,Cross River,2836
+19581,Closter,2837
+19582,Shoreham,2838
+19591,Pleasantville,2839
+19621,Schwenksville,2840
+19647,Florida,2841
+19658,Solon,2842
+19661,Finleyville,2843
+19667,Apollo,2844
+19675,Claysville,2845
+19681,Warfordsburg,2846
+19694,New Freedom,2847
+19699,Airville,2848
+19726,Chestertown,2849
+19738,Gap,2850
+19764,Birdsboro,2851
+19777,Amissville,2852
+19780,Driftwood,2853
+19785,Enola,2854
+19789,Beech Grove,2855
+19810,Merrillville,2856
+19820,Cleves,2857
+19832,Farmersville,2858
+19841,Ryland Hght,2859
+19842,Ryland Heights,2860
+19891,Pineville,2861
+19972,Lowell,2862
+19998,Skippers,2863
+20011,Sandston,2864
+20021,Kenbridge,2865
+20043,Hopewell,2866
+20111,Miramar,2867
+20112,Cape Coral,2868
+20143,Oakland Park,2869
+20167,Osteen,2870
+20178,Inverness,2871
+20180,Chiefland,2872
+20182,Cross City,2873
+20185,Titusville,2874
+20198,Palmetto Bay,2875
+20222,Wimauma,2876
+20282,Mount Croghan,2877
+20285,Great Falls,2878
+20336,Kingstree,2879
+20440,Galivants Ferry,2880
+20477,Sharon,2881
+20530,Denmark,2882
+20558,Griffin,2883
+20573,Green Pond,2884
+20624,Benkelman,2885
+20629,Saint Ann,2886
+20643,Appleton,2887
+20651,Montevideo,2888
+20660,De Pere,2889
+20677,Hixton,2890
+20680,Portage,2891
+20685,Boys Town,2892
+20688,Elkhorn,2893
+20691,Creve Coeur,2894
+20692,Hanna City,2895
+20701,Menahga,2896
+20740,Hainesville,2897
+20743,Ingleside,2898
+20763,Lyons,2899
+20779,University Park,2900
+20782,Burr Ridge,2901
+20799,Algonquin,2902
+20801,Island Lake,2903
+21059,Gulf Shores,2904
+21065,Tuscumbia,2905
+21123,Desoto,2906
+21153,West Memphis,2907
+21157,Collierville,2908
+21170,Holt,2909
+21179,Mc Calla,2910
+21219,Muscle Shoals,2911
+21225,Lester,2912
+21227,Forest Home,2913
+21260,Attalla,2914
+21261,Grant,2915
+21267,New Brockton,2916
+21270,Locust Fork,2917
+21273,Albertville,2918
+21290,Gurdon,2919
+21291,Diamondhead,2920
+21389,Cotulla,2921
+21390,Laredo,2922
+21444,Northeast Jefferson,2923
+21445,Centennial,2924
+21459,Moab,2925
+21469,Ballard,2926
+21493,Sun City West,2927
+21535,Guadalupe,2928
+21603,Junction City,2929
+21610,Blodgett,2930
+21622,Airway Heights,2931
+21633,Kirkland,2932
+21637,Snohomish,2933
+21646,Gresham,2934
+21687,Rio Vista,2935
+21723,Dunnigan,2936
+21758,Wheatland,2937
+21766,Sonora,2938
+21787,Hoopa,2939
+21799,Pismo Beach,2940
+21811,Trabuco Canyon,2941
+21851,Midway City,2942
+21908,La Crescenta,2943
+21942,Dunkirk,2944
+21947,Plaistow,2945
+21971,Ancram,2946
+21976,Schoharie,2947
+21977,Ballston Lake,2948
+21983,Pentwater,2949
+21986,Sayville,2950
+21989,East Islip,2951
+21992,Hawley,2952
+21996,Bronxville,2953
+22003,Southington,2954
+22032,Coal Center,2955
+22072,Yadkinville,2956
+22137,Geneva,2957
+22146,Key West,2958
+22171,Scranton,2959
+22200,Rising Fawn,2960
+22220,Cottonwood Falls,2961
+22227,Buffalo Lake,2962
+22233,Goodhue,2963
+22278,Joliet,2964
+22287,Homer Glen,2965
+22289,Horse Cave,2966
+22300,Bethany,2967
+22332,Fruitdale,2968
+22389,Elba,2969
+22425,Herriman,2970
+22471,Montesano,2971
+22478,Puyallup,2972
+22502,Pasco,2973
+22576,Knights Landing,2974
+22584,Angels Camp,2975
+22616,Newman,2976
+22629,Imlay,2977
+22631,Fulton,2978
+22635,Cobb,2979
+22636,Mckinleyville,2980
+22641,Redcrest,2981
+22642,Bolinas,2982
+22647,Fillmore,2983
+22715,Hemet,2984
+22719,La Mirada,2985
+22809,City Of Industry,2986
+22842,Monterey Park,2987
+22862,Pacific Palisades,2988
+22879,Ellington,2989
+22884,Fultonville,2990
+22885,Herkimer,2991
+22894,Montvale,2992
+22899,Uniondale,2993
+22901,Jefferson Township,2994
+22902,Bear,2995
+22905,Centerport,2996
+22908,Waretown,2997
+22922,Rutherford,2998
+22929,Matawan,2999
+22933,Englewood Cliffs,3000
+22948,Jersey Shore,3001
+22951,Greenbelt,3002
+22970,Swannanoa,3003
+22977,New Hill,3004
+22991,Valdese,3005
+22997,Bear Creek,3006
+22998,Mebane,3007
+23005,Altavista,3008
+23019,Rolesville,3009
+23024,Providence Forge,3010
+23045,Fellsmere,3011
+23070,Donalds,3012
+23073,Hope Mills,3013
+23106,Alford,3014
+23158,Alsip,3015
+23161,Grinnell,3016
+23163,Rock Island,3017
+23211,Bay Minette,3018
+23240,Robertsdale,3019
+23288,Winterhaven,3020
+23306,Oracle,3021
+23371,Zamora,3022
+23396,Snelling,3023
+23447,Delano,3024
+23453,Santa Margarita,3025
+23501,Pala,3026
+23582,Stevenson Ranch,3027
+23615,Hinkley,3028
+23636,Studio City,3029
+23682,Chelmsford,3030
+23692,East Taunton,3031
+23695,Newton Highlands,3032
+23720,North Reading,3033
+23740,Goodrich,3034
+23775,North Scituate,3035
+23782,Warner,3036
+23787,West Simsbury,3037
+23789,Blandford,3038
+23819,Fort Gratiot,3039
+23828,Oswayo,3040
+23883,Tobyhanna,3041
+23889,Somers Point,3042
+23890,Voorhees,3043
+23906,Briarcliff Manor,3044
+23907,Bayonne,3045
+23911,Bedminster,3046
+23915,Kennett Square,3047
+23938,Freeport,3048
+23943,Bellport,3049
+23960,Goldens Bridge,3050
+23961,Clifton,3051
+23966,Egg Harbor City,3052
+23967,Essington,3053
+23968,Glendora,3054
+23981,Livingston,3055
+23987,Tuxedo Park,3056
+24005,Middlesex,3057
+24017,Langhorne,3058
+24078,South Yarmouth,3059
+24083,Groton,3060
+24084,Mystic,3061
+24088,Ashaway,3062
+24091,Macedonia,3063
+24096,Saint Michael,3064
+24103,Carnegie,3065
+24106,Waynesburg,3066
+24111,Barberton,3067
+24112,Hanover,3068
+24117,Crozet,3069
+24122,Delta,3070
+24146,King George,3071
+24152,Olney,3072
+24168,Severn,3073
+24200,Smithmill,3074
+24214,Clear Brook,3075
+24257,North Manchester,3076
+24285,Liberty Twp,3077
+24289,Canal Winchester,3078
+24322,Pataskala,3079
+24354,Galloway,3080
+24363,Brookville,3081
+24387,Blountville,3082
+24395,Kannapolis,3083
+24413,Wytheville,3084
+24414,Fincastle,3085
+24442,Rocky Mount,3086
+24511,New Kent,3087
+24583,Stony Creek,3088
+24675,Labelle,3089
+24696,Immokalee,3090
+24724,Homosassa,3091
+24730,Port Orange,3092
+24731,Micanopy,3093
+24748,North Westside,3094
+24758,Key Largo,3095
+24765,Lake Placid,3096
+24825,Lake Wales,3097
+24826,Palm Bay,3098
+24937,Dacula,3099
+24939,Pacolet,3100
+24983,Pinewood,3101
+25007,Wallace,3102
+25023,Mc Coll,3103
+25079,Pittsview,3104
+25090,Olar,3105
+25097,Brunson,3106
+25099,Ruffin,3107
+25105,Locust Grove,3108
+25120,Waco,3109
+25144,Defiance,3110
+25148,Eldon,3111
+25166,Faribault,3112
+25171,Danube,3113
+25199,Black River Falls,3114
+25205,Kaukauna,3115
+25208,Wisconsin Dells,3116
+25210,Rushmore,3117
+25254,Stacy,3118
+25263,Maple Lake,3119
+25331,Jesup,3120
+25334,La Porte City,3121
+25335,Pewaukee,3122
+25342,Sturgeon Lake,3123
+25344,Fort Ripley,3124
+25406,South Holland,3125
+25408,Clive,3126
+25414,Scott City,3127
+25438,Seguin,3128
+25439,Lakeway,3129
+25455,Haslet,3130
+25547,Saint Jo,3131
+25550,Volente,3132
+25552,Spencer,3133
+25565,Schriever,3134
+25603,Diboll,3135
+25614,Depew,3136
+25685,Cantonment,3137
+25694,Moundville,3138
+25747,Notasulga,3139
+25749,Anniston,3140
+25757,Cecil,3141
+25761,Highland Home,3142
+25773,Springhill,3143
+25874,Evansville,3144
+25889,Morrison,3145
+25914,Spanish Fork,3146
+25925,Henefer,3147
+25927,Croydon,3148
+25931,Manila,3149
+25932,Roy,3150
+25941,Kingman,3151
+25984,Eloy,3152
+26015,El Mirage,3153
+26041,Las Cruces,3154
+26044,Ganado,3155
+26070,Boise,3156
+26072,Gold Hill,3157
+26074,Creswell,3158
+26076,Dexter,3159
+26088,Port Townsend,3160
+26109,Tillamook,3161
+26112,Kalama,3162
+26126,El Portal,3163
+26130,Big Pine,3164
+26137,Pacheco,3165
+26163,Pope Valley,3166
+26244,Esparto,3167
+26248,Guerneville,3168
+26252,Fort Bragg,3169
+26259,Eureka,3170
+26267,Coalinga,3171
+26301,Vernon,3172
+26305,San Gabriel,3173
+26430,Brockton,3174
+26465,North Dighton,3175
+26467,South Weymouth,3176
+26514,Blossvale,3177
+26520,Chittenango,3178
+26522,Climax,3179
+26524,Schoolcraft,3180
+26525,Covert,3181
+26528,South Haven,3182
+26532,Three Rivers,3183
+26536,Fennville,3184
+26547,Hilton,3185
+26566,Springfield Gardens,3186
+26567,Claymont,3187
+26585,Wyncote,3188
+26612,Hollis,3189
+26613,Queens Village,3190
+26624,Saint Albans,3191
+26645,Wynnewood,3192
+26651,Babylon,3193
+26659,Levittown,3194
+26688,Mount Sinai,3195
+26741,Berkeley Heights,3196
+26747,New Bedford,3197
+26760,Fishersville,3198
+26778,Hancock,3199
+26791,Gordonville,3200
+26799,Kinzers,3201
+26837,Barboursville,3202
+26842,Glen Rock,3203
+26851,District 14,3204
+26857,Middle River,3205
+26871,Louisa,3206
+26983,Chuckey,3207
+26985,Oak Ridge,3208
+26996,Waynesville,3209
+27016,Rockwell,3210
+27033,Elliston,3211
+27091,Mc Leansville,3212
+27108,Old Fort,3213
+27243,Moseley,3214
+27278,Fort Myers Beach,3215
+27282,Davie,3216
+27305,Sunrise,3217
+27361,Ocklawaha,3218
+27365,Debary,3219
+27422,Dunedin,3220
+27466,Tucker,3221
+27497,Pelion,3222
+27582,Whitmire,3223
+27649,Johnsonville,3224
+27685,Florahome,3225
+27752,Millen,3226
+27782,Milledgeville,3227
+27805,Owatonna,3228
+27829,Luxemburg,3229
+27842,Mequon,3230
+27878,Crivitz,3231
+27882,Scandia,3232
+27905,Topeka,3233
+27908,Loves Park,3234
+27923,Tiffin,3235
+27960,Dallas Center,3236
+27967,Derby,3237
+27989,Schertz,3238
+28025,Rayne,3239
+28054,Temple,3240
+28079,Aledo,3241
+28130,Warr Acres,3242
+28161,Mcloud,3243
+28205,Pride,3244
+28207,Breaux Bridge,3245
+28226,Roscoe,3246
+28233,Longview,3247
+28333,Crandall,3248
+28345,Nesbit,3249
+28347,District 1,3250
+28352,Westwego,3251
+28359,Vicksburg,3252
+28362,Bolton,3253
+28383,Leighton,3254
+28454,Molino,3255
+28464,Arab,3256
+28479,Trussville,3257
+28482,Kinston,3258
+28485,Hazel Green,3259
+28487,Jack,3260
+28498,Biloxi,3261
+28500,Laurel,3262
+28536,Hockley,3263
+28669,Grand Junction,3264
+28713,Roosevelt,3265
+28806,Los Ranchos,3266
+28831,Eagle Point,3267
+28832,Otis,3268
+28833,Hebo,3269
+28836,Madras,3270
+28843,Pacific,3271
+28844,Mead,3272
+28879,Forest Grove,3273
+28883,Hood River,3274
+28891,Auberry,3275
+28896,Incline Village,3276
+28899,Bay Point,3277
+28952,Cameron Park,3278
+28970,Cottonwood,3279
+28983,Half Moon Bay,3280
+28995,Rodeo,3281
+29014,Kerman,3282
+29033,Pearblossom,3283
+29063,Homeland,3284
+29174,Eden,3285
+29180,Orchard Park,3286
+29189,Stoneham,3287
+29204,Mattapan,3288
+29265,Brimfield,3289
+29274,Cohoes,3290
+29279,Boxborough,3291
+29282,Cassville,3292
+29284,New York Mills,3293
+29314,Honeoye Falls,3294
+29327,Macedon,3295
+29335,Hewlett,3296
+29352,Darby,3297
+29358,Rio Grande,3298
+29364,Tuckerton,3299
+29389,Somerdale,3300
+29403,Islip,3301
+29406,Collingswood,3302
+29412,Wayne,3303
+29418,Rockaway,3304
+29423,Jackson Heights,3305
+29426,Franklin Lakes,3306
+29435,Jefferson Valley,3307
+29441,Marlboro,3308
+29455,Elmhurst Township,3309
+29456,Broomall,3310
+29460,Northampton,3311
+29472,Roseland,3312
+29494,Colchester,3313
+29495,North Franklin,3314
+29496,Jewett City,3315
+29497,Mastic,3316
+29500,Westhampton Beach,3317
+29504,Hampton Bays,3318
+29507,West Barnstable,3319
+29516,Maple Heights,3320
+29523,Ruffs Dale,3321
+29528,Harrisville,3322
+29530,Volant,3323
+29544,Stewartstown,3324
+29566,Spring Grove,3325
+29573,Thomasville,3326
+29584,Wrightsville,3327
+29594,Glenn Dale,3328
+29598,Crownsville,3329
+29615,Davidsonville,3330
+29620,Lewisberry,3331
+29626,Ruckersville,3332
+29627,Berwick,3333
+29636,Jarrettsville,3334
+29642,Dysart,3335
+29657,Crestwood,3336
+29764,Weaverville,3337
+29808,Troutman,3338
+29824,Ringgold,3339
+29859,Roaring River,3340
+29871,Forest,3341
+29885,Pinebluff,3342
+29942,Bracey,3343
+29987,Butner,3344
+30052,Bokeelia,3345
+30062,Loxahatchee,3346
+30063,West Park,3347
+30076,North Port,3348
+30135,Cutler Bay,3349
+30157,Mulberry,3350
+30189,Lithia,3351
+30245,Adairsville,3352
+30251,Fort Lawn,3353
+30305,Waxhaw,3354
+30443,Garnett,3355
+30445,Ellenwood,3356
+30446,Fortson,3357
+30494,Saint Joseph,3358
+30502,Missouri River,3359
+30503,Pevely,3360
+30517,Chippewa Falls,3361
+30535,Menasha,3362
+30549,Dwight,3363
+30551,Kankakee,3364
+30552,Mc Nabb,3365
+30607,Lake Saint Louis,3366
+30630,Dekalb,3367
+30691,La Salle,3368
+30697,South Elgin,3369
+30751,Lawton,3370
+30779,Wellston,3371
+30847,Euless,3372
+30899,Kennedale,3373
+30958,Kennedy,3374
+31004,Forney,3375
+31036,Earle,3376
+31041,Slidell,3377
+31071,Jay,3378
+31100,Hoover,3379
+31178,Brownsboro,3380
+31225,Rosharon,3381
+31353,Limon,3382
+31379,Fort Duchesne,3383
+31381,Spring Creek,3384
+31383,Estes Park,3385
+31387,Lindon,3386
+31392,Kaysville,3387
+31408,Gold Canyon,3388
+31416,Queen Creek,3389
+31453,Lordsburg,3390
+31454,San Simon,3391
+31470,Kerby,3392
+31473,Seal Rock,3393
+31480,Greenacres,3394
+31486,Edmonds,3395
+31488,Chattaroy,3396
+31492,Elk,3397
+31499,Pacific Beach,3398
+31513,Algona,3399
+31522,Damascus,3400
+31540,Deming,3401
+31546,Soulsbyville,3402
+31585,Hilmar,3403
+31592,Portola Valley,3404
+31745,Crescent City,3405
+31752,Royal Oaks,3406
+31765,San Miguel,3407
+31923,Ladera Ranch,3408
+32045,Bradford,3409
+32046,Niagara Falls,3410
+32047,Newburyport,3411
+32112,Breckenridge,3412
+32131,Keene,3413
+32132,East Windsor,3414
+32135,Rindge,3415
+32136,Valatie,3416
+32141,Claverack,3417
+32186,Manahawkin,3418
+32194,Asbury,3419
+32220,Hockessin,3420
+32230,Wyandanch,3421
+32231,Wallkill,3422
+32249,Flourtown,3423
+32278,North Bellmore,3424
+32305,Massapequa Park,3425
+32332,East Stroudsburg,3426
+32358,Maple Shade,3427
+32359,Thorofare,3428
+32385,Mastic Beach,3429
+32387,Mattituck,3430
+32390,Waterford,3431
+32393,Mashpee,3432
+32400,Imperial,3433
+32401,Middlefield,3434
+32403,Chardon,3435
+32433,Elizabethtown,3436
+32434,Hughesville,3437
+32439,Grasonville,3438
+32445,Herndon,3439
+32462,Quantico,3440
+32496,James Creek,3441
+32536,Chillicothe,3442
+32568,Milan,3443
+32648,Boones Mill,3444
+32675,Hurley,3445
+32735,Farmville,3446
+32739,Brodnax,3447
+32964,Key Biscayne,3448
+33016,Mountville,3449
+33082,Flowery Branch,3450
+33132,Heath Springs,3451
+33233,Lawtey,3452
+33263,Nesmith,3453
+33328,Isle of Palms,3454
+33383,Winneconne,3455
+33395,Edina,3456
+33397,Mosinee,3457
+33406,Edgar,3458
+33427,Detroit Lakes,3459
+33429,Park Rapids,3460
+33435,Kimball,3461
+33452,Champlin,3462
+33491,Grain Valley,3463
+33504,Cudahy,3464
+33508,Saint Francis,3465
+33521,Delafield,3466
+33524,Wadena,3467
+33528,Evergreen Park,3468
+33573,Schuyler,3469
+33592,Winnetka,3470
+33593,Palos Hills,3471
+33605,Marne,3472
+33613,Lipan,3473
+33620,Converse,3474
+33662,Manchaca,3475
+33821,Loraine,3476
+33898,Howe,3477
+33900,Batesville,3478
+33901,Vaughan,3479
+33946,Hayden,3480
+34018,Gadsden,3481
+34021,Shelbyville,3482
+34026,Alexander City,3483
+34031,Mc Lain,3484
+34133,Harrold,3485
+34187,Duchesne,3486
+34191,South Salt Lake,3487
+34210,Salome,3488
+34305,Powell Butte,3489
+34308,Mitchell,3490
+34341,Camas,3491
+34346,Boardman,3492
+34351,The Dalles,3493
+34353,Dufur,3494
+34357,Gladstone,3495
+34366,East Sierra,3496
+34409,Dutch Flat,3497
+34473,Old Station,3498
+34531,Kelseyville,3499
+34578,Calimesa,3500
+34588,Del Mar,3501
+34650,East San Gabriel Valley,3502
+34674,La Palma,3503
+34699,Loma Linda,3504
+34766,Little Valley,3505
+34785,Wellesley,3506
+34794,West Newton,3507
+34797,North Andover,3508
+34803,Revere,3509
+34815,East Bridgewater,3510
+34822,Almont,3511
+34836,Whitmore Lake,3512
+34840,Webberville,3513
+34849,New Hampton,3514
+34859,Uxbridge,3515
+34877,Greenfield Center,3516
+34882,New Baltimore,3517
+34918,Centereach,3518
+34919,Millville,3519
+34940,Roebling,3520
+34941,Holtsville,3521
+34955,Elmsford,3522
+34959,East Northport,3523
+34967,Newfoundland,3524
+34971,New Windsor,3525
+34983,South Hackensack,3526
+35029,South Abington Township,3527
+35036,Howard Beach,3528
+35037,Saylorsburg,3529
+35046,Cape May Court House,3530
+35064,West Yarmouth,3531
+35066,Buzzards Bay,3532
+35075,Wickliffe,3533
+35082,Fort Defiance,3534
+35088,Reynoldsville,3535
+35098,Glen Echo,3536
+35099,Northumberland,3537
+35104,Quicksburg,3538
+35113,Mount Wolf,3539
+35123,Flintstone,3540
+35127,Muncy Valley,3541
+35128,Catawissa,3542
+35134,Woodward,3543
+35154,Triangle,3544
+35157,Point of Rocks,3545
+35172,Brandywine,3546
+35176,Osterburg,3547
+35184,Camby,3548
+35198,Corydon,3549
+35212,West Alexandria,3550
+35231,Radnor,3551
+35232,Obetz,3552
+35237,Nicholasville,3553
+35305,Indian Trail,3554
+35336,Pulaski,3555
+35376,Biscoe,3556
+35382,Shelby,3557
+35386,Willis,3558
+35387,Whitsett,3559
+35407,Mocksville,3560
+35496,Wade,3561
+35502,Fayetteville,3562
+35550,Lauderhill,3563
+35585,Weeki Wachee,3564
+35616,Apollo Beach,3565
+35839,Mc Bee,3566
+35848,Bradley,3567
+35951,Tamassee,3568
+36044,Slocomb,3569
+36047,Blackville,3570
+36181,Ballwin,3571
+36192,Red Wing,3572
+36203,Menomonie,3573
+36213,New Ulm,3574
+36228,Valley,3575
+36258,North Branch,3576
+36262,Tomahawk,3577
+36266,Eudora,3578
+36291,Onamia,3579
+36295,Nisswa,3580
+36302,Cicero,3581
+36310,Adel,3582
+36312,Crescent,3583
+36324,Walnut,3584
+36328,Steger,3585
+36330,East Moline,3586
+36336,Story City,3587
+36343,Tinley Park,3588
+36484,Kyle,3589
+36580,Summerdale,3590
+36581,Moss Point,3591
+36582,Satsuma,3592
+36604,McKinney,3593
+36658,Millington,3594
+36712,District 3,3595
+36741,Dadeville,3596
+36744,Moody,3597
+36761,Boaz,3598
+36766,Brantley,3599
+36775,Gibsland,3600
+36776,Homer,3601
+36867,Dammeron Valley,3602
+36887,Silver Plume,3603
+36916,Platteville,3604
+36936,Craig,3605
+36953,Waddell,3606
+37080,Siletz,3607
+37082,North Powder,3608
+37086,Cle Elum,3609
+37119,Cathlamet,3610
+37130,Ahwahnee,3611
+37170,Travis AFB,3612
+37192,Riverbank,3613
+37258,Yreka,3614
+37276,King City,3615
+37293,Los Osos,3616
+37311,Solvang,3617
+37313,Parlier,3618
+37523,Austerlitz,3619
+37525,Nassau,3620
+37527,Fort Ann,3621
+37539,Phelps,3622
+37541,Shinglehouse,3623
+37546,Weedsport,3624
+37548,Sayre,3625
+37581,Oak Hall,3626
+37582,Highland Mills,3627
+37600,Glen Oaks,3628
+37635,Edinburg,3629
+37640,Huntsburg,3630
+37644,Scottdale,3631
+37647,Brookeville,3632
+37678,Coal Township,3633
+37689,Lexington Park,3634
+37700,Calumet City,3635
+37795,Lilburn,3636
+37863,Bird Island,3637
+37875,Weyauwega,3638
+37885,Virginia,3639
+37886,Bemidji,3640
+37890,Pennock,3641
+37893,Wayzata,3642
+37915,Chicago Heights,3643
+37918,Crystal Lake,3644
+37922,Smiths Grove,3645
+37925,Mc Rae,3646
+38028,Friendswood,3647
+38046,Joseph,3648
+38071,Cedar Valley,3649
+38118,Rincon,3650
+38122,Oakridge,3651
+38128,McCleary,3652
+38154,Cascade Locks,3653
+38212,Discovery Bay,3654
+38215,Shingletown,3655
+38233,Forest Ranch,3656
+38306,Laguna Niguel,3657
+38333,Chino Hills,3658
+38465,Canajoharie,3659
+38512,Red Bank,3660
+38527,Davidsville,3661
+38530,New Alexandria,3662
+38555,Mifflinburg,3663
+38571,Terre Haute,3664
+38580,Riceville,3665
+38597,Spruce Pine,3666
+38621,Groveland,3667
+38683,Harrisonville,3668
+38706,Bonne Terre,3669
+38747,Foristell,3670
+38787,Platte City,3671
+38808,Country Club Hills,3672
+38813,Grimes,3673
+38817,Windsor Heights,3674
+38889,Graysville,3675
+38892,Burns,3676
+38963,Buckley,3677
+38986,Bishop,3678
+38987,Carnelian Bay,3679
+39012,Isleton,3680
+39017,Gridley,3681
+39029,Pollock Pines,3682
+39069,Arcata,3683
+39083,Kingsburg,3684
+39086,Orange Cove,3685
+39136,Rancho Santa Margarita,3686
+39317,Romeo,3687
+39343,Merrimack,3688
+39347,Marcy,3689
+39351,North Creek,3690
+39356,Fraser,3691
+39358,Wellsboro,3692
+39401,Newtown Square,3693
+39457,Bangor,3694
+39460,Lawnside,3695
+39469,Vineland,3696
+39470,Mays Landing,3697
+39476,Hamden,3698
+39480,East Rutherford,3699
+39520,Old Lyme,3700
+39528,Irwin,3701
+39554,Boyds,3702
+39579,Burtonsville,3703
+39582,Lothian,3704
+39591,Burke,3705
+39598,Nescopeck,3706
+39624,Houtzdale,3707
+39625,Hazleton,3708
+39626,Kents Store,3709
+39636,Chesterton,3710
+39658,Claypool,3711
+39659,Fort Wayne,3712
+39672,Brownsburg,3713
+39740,Blacklick,3714
+39755,Brookpark,3715
+39782,Dandridge,3716
+39825,High Point,3717
+39835,North Tazewell,3718
+39855,Burkeville,3719
+39869,Chase City,3720
+39883,Norlina,3721
+39908,Garysburg,3722
+39914,Zuni,3723
+39927,South Hill,3724
+39998,Mount Dora,3725
+40083,Greeleyville,3726
+40212,Trion,3727
+40342,Rowesville,3728
+40364,Early Branch,3729
+40425,Mazeppa,3730
+40432,Lake Crystal,3731
+40433,Hanley Falls,3732
+40451,Hector,3733
+40466,Mackinaw,3734
+40511,Roxana,3735
+40572,Lincolnwood,3736
+40596,North Liberty,3737
+40616,Arlington Heights,3738
+40625,Mount Prospect,3739
+40637,Lake In The Hills,3740
+40672,Comfort,3741
+40684,Ruston,3742
+40685,Egan,3743
+40833,Vancleave,3744
+40840,Fosters,3745
+40931,LA Place,3746
+41028,Courtland,3747
+41038,College Grove,3748
+41039,Elmore,3749
+41040,Columbiana,3750
+41075,Byhalia,3751
+41085,Claremore,3752
+41191,Olney Springs,3753
+41195,Panguitch,3754
+41344,Issaquah,3755
+41352,Silverdale,3756
+41364,Kennewick,3757
+41380,Everson,3758
+41386,Mound House,3759
+41390,Fallon,3760
+41430,Mokelumne Hill,3761
+41475,Penn Valley,3762
+41528,Big Bar,3763
+41557,Barstow,3764
+41621,Dana Point,3765
+41764,East Freetown,3766
+41767,Wellfleet,3767
+41781,Merrimac,3768
+41808,Melvindale,3769
+41827,Northborough,3770
+41845,Peru,3771
+41850,Glens Falls,3772
+41854,West Stockbridge,3773
+41870,Lee Center,3774
+41873,Glenmont,3775
+41889,Saugerties,3776
+41892,Binghamton,3777
+41916,Baldwinsville,3778
+41921,La Fayette,3779
+41929,Cuba,3780
+41955,Asbury Park,3781
+41964,Eatontown,3782
+41992,Pound Ridge,3783
+41993,Wingdale,3784
+42023,Pocono Summit,3785
+42030,Atco,3786
+42040,Walden,3787
+42051,Bantam,3788
+42078,Cambria Heights,3789
+42080,Pocasset,3790
+42082,Sandwich,3791
+42085,Yarmouth Port,3792
+42091,North Falmouth,3793
+42109,Broadview Heights,3794
+42155,Lewistown,3795
+42158,Bealeton,3796
+42179,Leola,3797
+42238,Spiceland,3798
+42289,Seville,3799
+42300,Rossford,3800
+42323,Medway,3801
+42399,Collinsville,3802
+42587,Yankeetown,3803
+42591,Citrus Springs,3804
+42671,Belleair,3805
+42791,Joanna,3806
+42879,Leland,3807
+42908,Sellers,3808
+42937,Fork,3809
+43014,Ponte Vedra Beach,3810
+43058,Social Circle,3811
+43086,Ravenel,3812
+43111,Minier,3813
+43112,Newburg,3814
+43113,Barnhart,3815
+43114,Villa Ridge,3816
+43116,East St. Louis,3817
+43172,Afton,3818
+43183,Welch,3819
+43212,Cedar,3820
+43230,Shafer,3821
+43263,Salix,3822
+43266,Park City,3823
+43267,Volo,3824
+43283,Lakemoor,3825
+43289,Long Prairie,3826
+43545,Addis,3827
+43589,Oil City,3828
+43640,Sand Springs,3829
+43687,Ponchatoula,3830
+43696,Cruger,3831
+43716,Mc David,3832
+43739,Killen,3833
+43798,Santa Rosa Beach,3834
+43814,Chancellor,3835
+43822,Bryant,3836
+44039,Tucumcari,3837
+44079,Prescott Valley,3838
+44120,Winston,3839
+44125,Snoqualmie,3840
+44136,Hoodsport,3841
+44150,Lake Oswego,3842
+44153,Brush Prairie,3843
+44163,Kyburz,3844
+44246,Magalia,3845
+44285,Occidental,3846
+44288,Greenbrae,3847
+44300,Shafter,3848
+44510,Raynham,3849
+44514,Ipswich,3850
+44558,Wixom,3851
+44593,Brattleboro,3852
+44597,New Hartford,3853
+44600,Dudley,3854
+44604,West Lebanon,3855
+44651,Elkland,3856
+44652,Painted Post,3857
+44654,Paoli,3858
+44662,Clementon,3859
+44678,Middle Island,3860
+44681,Elmont,3861
+44687,Albrightsville,3862
+44709,Shirley,3863
+44712,Ridge,3864
+44716,Dresher,3865
+44721,Hartsdale,3866
+44755,Carlstadt,3867
+44764,Rocky Point,3868
+44782,Bayville,3869
+44802,Bellerose,3870
+44826,Taftville,3871
+44829,Dennis,3872
+44842,Mentor,3873
+44846,New Kensington,3874
+44876,Quarryville,3875
+44881,Carrolltown,3876
+44893,Cochranville,3877
+44907,Sparks Glencoe,3878
+44928,Curwensville,3879
+44929,Tyrone,3880
+44947,Noblesville,3881
+44979,Medina,3882
+45042,Erwin,3883
+45047,Whitwell,3884
+45072,Ridgeway,3885
+45089,Locust,3886
+45114,Tarboro,3887
+45139,Manson,3888
+45266,The Villages,3889
+45298,Orange City,3890
+45339,Osprey,3891
+45425,Powder Springs,3892
+45468,Tunnel Hill,3893
+45534,Silverstreet,3894
+45544,East Ellijay,3895
+45566,Edgemoor,3896
+45674,Blountstown,3897
+45724,Blythe,3898
+45759,Hanahan,3899
+45789,Ehrhardt,3900
+45794,Caseyville,3901
+45802,Saint James,3902
+45811,New Germany,3903
+45814,Kenyon,3904
+45857,Offutt AFB,3905
+45945,Leyden,3906
+45954,Dolton,3907
+45972,Cherry Valley,3908
+46050,North Little Rock,3909
+46239,Grove Hill,3910
+46245,Corrigan,3911
+46323,Bryan,3912
+46343,Atoka,3913
+46370,Mandeville,3914
+46392,Mary Esther,3915
+46462,Holly Pond,3916
+46479,Moselle,3917
+46557,Pearland,3918
+46614,Litchfield Park,3919
+46682,San Tan Valley,3920
+46706,Gilchrist,3921
+46764,El Cerrito,3922
+46821,Escalon,3923
+46924,Garberville,3924
+46934,Tomales,3925
+46949,Del Rey,3926
+47147,Ransomville,3927
+47152,Hanson,3928
+47181,Sandown,3929
+47233,Northbridge,3930
+47250,Whitesboro,3931
+47254,Galway,3932
+47303,North Plainfield,3933
+47319,Purdys,3934
+47341,Poughquag,3935
+47342,Haddonfield,3936
+47366,Sound Beach,3937
+47375,West Point,3938
+47411,New Canaan,3939
+47413,Middlebury,3940
+47416,Boonton,3941
+47439,Sellersville,3942
+47471,Guilford,3943
+47473,Fall River,3944
+47478,Chagrin Falls,3945
+47491,Willoughby,3946
+47592,Oaktown,3947
+47610,North Baltimore,3948
+47618,Thornville,3949
+47688,Nickelsville,3950
+47736,Snow Camp,3951
+47872,Charles City,3952
+47887,Riviera Beach,3953
+47901,Margate,3954
+47916,Plantation,3955
+47949,Howey In The Hills,3956
+48110,Mayesville,3957
+48189,Calabash,3958
+48254,Headland,3959
+48359,New Prague,3960
+48380,Decorah,3961
+48436,Evansdale,3962
+48441,Rockford,3963
+48515,Waukee,3964
+48516,Moline,3965
+48778,Schulenburg,3966
+48865,Century,3967
+48902,Elberta,3968
+48946,Bossier City,3969
+49033,Galveston,3970
+49181,Lakeview,3971
+49183,Bonanza,3972
+49191,Westfir,3973
+49223,Usk,3974
+49232,Mosier,3975
+49234,Rainier,3976
+49243,Underwood,3977
+49273,Yerington,3978
+49292,Vallecito,3979
+49294,Scotts Valley,3980
+49436,Badger,3981
+49726,Columbiaville,3982
+49765,North Hudson,3983
+49779,Durhamville,3984
+49795,East Syracuse,3985
+49814,Miller Place,3986
+49833,Chadds Ford,3987
+49849,Woodcliff Lake,3988
+49895,Greenvale,3989
+49955,South Plainfield,3990
+49957,Old Bridge,3991
+49991,Meriden,3992
+50015,Clairton,3993
+50028,Queen Anne,3994
+50047,Hanover Township,3995
+50072,Sperryville,3996
+50078,Ashville,3997
+50093,Crown Point,3998
+50103,Delphi,3999
+50126,Heath,4000
+50209,Duffield,4001
+50248,Moneta,4002
+50299,Township 1 Charlotte,4003
+50487,Tamarac,4004
+50543,Bushnell,4005
+50746,Blenheim,4006
+50785,Gaylesville,4007
+50812,Mableton,4008
+50883,Port Royal,4009
+50911,Cross,4010
+50918,Harlem,4011
+50944,Gordon,4012
+50952,Sainte Genevieve,4013
+50970,Withee,4014
+51021,Tremont,4015
+51083,Round Lake Beach,4016
+51334,Wilmer,4017
+51365,Fulshear,4018
+51378,Kellyville,4019
+51454,Pell City,4020
+51456,Miramar Beach,4021
+51482,Gurley,4022
+51547,Conifer,4023
+51596,Ajo,4024
+51598,Prescott,4025
+51689,Myrtle Creek,4026
+51723,Lacey,4027
+51743,Battle Ground,4028
+51759,Blaine,4029
+51773,Fernley,4030
+51879,Hopland,4031
+51899,Cutler,4032
+52195,Mahopac,4033
+52224,Rego Park,4034
+52235,Adah,4035
+52247,New Oxford,4036
+52340,Yorktown,4037
+52367,Citra,4038
+52402,Sunset,4039
+52425,Valdosta,4040
+52443,Thomaston,4041
+52460,Saint Mary,4042
+52472,Dundas,4043
+52521,Alvarado,4044
+52562,Sterrett,4045
+52566,White House,4046
+52628,Foster,4047
+52630,Drain,4048
+52631,Maupin,4049
+52729,Covelo,4050
+52938,Rexford,4051
+53002,Emlenton,4052
+53249,Homewood,4053
+53256,Earlham,4054
+53260,Von Ormy,4055
+53336,Sugar Land,4056
+53339,Huffman,4057
+53366,Sweet Home,4058
+53372,Shoreline,4059
+53387,Lee Vining,4060
+53533,Cayucos,4061
+53617,Laguna Beach,4062
+53741,South Windsor,4063
+53753,West Sand Lake,4064
+53792,Berkshire,4065
+53831,Sayreville,4066
+53863,Morris Plains,4067
+53883,Avenel,4068
+53925,Danielsville,4069
+53934,Audubon,4070
+53948,Youngwood,4071
+53963,The Plains,4072
+53994,Milroy,4073
+54000,Waldorf,4074
+54035,Ijamsville,4075
+54094,Park Hills,4076
+54099,Ashley,4077
+54224,Rocky Gap,4078
+54259,Grundy,4079
+54270,DeWitt,4080
+54298,Creedmoor,4081
+54302,Barhamsville,4082
+54410,Belleview,4083
+54451,Zolfo Springs,4084
+54462,Fort Meade,4085
+54969,Cosmos,4086
+55007,Alton,4087
+55008,Alma,4088
+55021,Watersmeet,4089
+55033,Franklin Park,4090
+55055,Swisher,4091
+55101,Duson,4092
+55320,Jenks,4093
+55343,Atmore,4094
+55364,Calera,4095
+55414,Andalusia,4096
+55623,Tenmile,4097
+55629,Gardiner,4098
+55638,Stanwood,4099
+55651,Maple Valley,4100
+55675,Happy Valley,4101
+55689,Tahoe City,4102
+55690,Zephyr Cove,4103
+55758,Angwin,4104
+55775,Bodega Bay,4105
+55786,Carmel Valley,4106
+56119,Lewis Run,4107
+56122,Cumberland,4108
+56152,North Oxford,4109
+56159,Oriskany,4110
+56184,Williamson,4111
+56204,Pedricktown,4112
+56218,Lake Harmony,4113
+56222,Ho Ho Kus,4114
+56239,Williamstown,4115
+56247,Manhasset,4116
+56261,Havertown,4117
+56269,Lisbon,4118
+56271,East Hampton,4119
+56272,Fairhaven,4120
+56274,Acushnet,4121
+56315,Haymarket,4122
+56330,Dunn Loring,4123
+56356,Convoy,4124
+56365,Saint Louisville,4125
+56370,Richwood,4126
+56372,West Salem,4127
+56395,Fieldale,4128
+56410,Rutherfordton,4129
+56461,Pilot Mountain,4130
+56490,Wilsons,4131
+56574,Reddick,4132
+56789,Supply,4133
+56806,Lake Butler,4134
+56813,Ponte Vedra,4135
+56831,Sanderson,4136
+56885,Manito,4137
+56899,Hokah,4138
+56900,Good Thunder,4139
+56950,Joplin,4140
+56951,Upton,4141
+56970,Marble Falls,4142
+57145,Dickson,4143
+57158,Laceys Spring,4144
+57171,Deatsville,4145
+57176,Eads,4146
+57260,Peyton,4147
+57262,Elmo,4148
+57356,Molalla,4149
+57358,Veneta,4150
+57380,Mammoth Lakes,4151
+57381,MI Wuk Village,4152
+57442,Yountville,4153
+57445,Murphys,4154
+57468,Crescent Valley,4155
+57601,North Hampton,4156
+57614,Southgate,4157
+57617,Castleton on Hudson,4158
+57627,Millerton,4159
+57679,Highspire,4160
+57699,Port Matilda,4161
+57746,Deltona,4162
+57861,Boerne,4163
+57904,Creola,4164
+57981,Bullhead City,4165
+57983,Wittmann,4166
+57985,Forest Lakes,4167
+57989,Mount Lemmon,4168
+58003,Casa Blanca,4169
+58004,Gallup,4170
+58007,Idanha,4171
+58031,Bass Lake,4172
+58048,Morgan Hill,4173
+58051,Burney,4174
+58077,Foresthill,4175
+58126,The Sea Ranch,4176
+58128,Leggett,4177
+58323,South Easton,4178
+58364,Lennon,4179
+58394,New Lebanon,4180
+58411,Yorkville,4181
+58434,Liverpool,4182
+58477,Mickleton,4183
+58494,Bryn Athyn,4184
+58520,Woodmere,4185
+58563,South River,4186
+58583,Cheltenham,4187
+58584,Pearl River,4188
+58588,Stanhope,4189
+58602,Barnstable,4190
+58611,East Mc Keesport,4191
+58622,Byesville,4192
+58634,Friedens,4193
+58645,White Marsh,4194
+58662,Bird in Hand,4195
+58673,North Garden,4196
+58683,West Decatur,4197
+58688,Alum Bank,4198
+58751,Rocky River,4199
+58805,North Ridgeville,4200
+58831,Soddy Daisy,4201
+58841,Terrell,4202
+58936,Hoffman,4203
+59172,Indian Rocks Beach,4204
+59173,Malabar,4205
+59200,Oldsmar,4206
+59210,Indian Harbour Beach,4207
+59553,Cologne,4208
+59594,Laporte,4209
+59632,Edwardsville,4210
+59659,Hinckley,4211
+59661,Streamwood,4212
+59662,Channahon,4213
+59672,West Des Moines,4214
+59846,Nixon,4215
+60000,Ashland City,4216
+60082,Woodville,4217
+60119,Crosby,4218
+60231,Beryl,4219
+60276,Gila Bend,4220
+60277,Golden Valley,4221
+60299,Oro Valley,4222
+60372,Tijeras,4223
+60374,Chambers,4224
+60443,Silverlake,4225
+60447,Kelso,4226
+60512,El Nido,4227
+60551,San Martin,4228
+60558,Browns Valley,4229
+60572,Monte Rio,4230
+60741,Pico Rivera,4231
+60809,Wareham,4232
+60873,Schuylerville,4233
+60890,Stone Ridge,4234
+60892,Prattsville,4235
+60962,Bedford Hills,4236
+60970,Terryville,4237
+60981,Queens,4238
+60988,Pine Brook,4239
+60995,Colonia,4240
+61033,Sciota,4241
+61046,Naugatuck,4242
+61074,Montgomeryville,4243
+61108,Beachwood,4244
+61115,Front Royal,4245
+61199,Montgomery Village,4246
+61294,Lima,4247
+61299,Ostrander,4248
+61315,Loudon,4249
+61329,Haysi,4250
+61714,Crystal River,4251
+61906,Society Hill,4252
+62042,Bryceville,4253
+62088,Sheldon,4254
+62148,Weldon Spring,4255
+62158,Iola,4256
+62163,Green Isle,4257
+62180,West Bend,4258
+62199,Kearney,4259
+62229,Hawk Point,4260
+62242,High Hill,4261
+62244,Marine,4262
+62252,Muskego,4263
+62256,Blairsburg,4264
+62265,Ringwood,4265
+62269,Elkhart,4266
+62270,Mokena,4267
+62317,Haysville,4268
+62372,Flower Mound,4269
+62542,Coker,4270
+62618,Italy,4271
+62646,Destrehan,4272
+62690,Perdido,4273
+62720,Lumberton,4274
+62829,Abilene,4275
+62855,Calhan,4276
+62863,Castle Dale,4277
+62887,Grantsville,4278
+62902,Dix,4279
+62908,Fort Mohave,4280
+62983,Tularosa,4281
+63012,Liberty Lake,4282
+63069,Irrigon,4283
+63184,Maxwell,4284
+63187,Termo,4285
+63245,Cambria,4286
+63397,Edwards,4287
+63503,Inkster,4288
+63545,Peterborough,4289
+63561,Ulster Park,4290
+63610,Port Allegany,4291
+63657,Manalapan,4292
+63660,Green Lane,4293
+63664,College Point,4294
+63682,East Patchogue,4295
+63691,Cedar Grove,4296
+63698,Bartonsville,4297
+63705,Northvale,4298
+63737,Pine Hill,4299
+63745,Moorestown,4300
+63752,Pennsburg,4301
+63797,Duquesne,4302
+63801,Alverton,4303
+63809,Hadley,4304
+63814,Novelty,4305
+63829,Havre de Grace,4306
+63903,Centre Hall,4307
+63914,Grampian,4308
+63925,Elysburg,4309
+63950,Connersville,4310
+63976,Liberty Township,4311
+63988,Sylvania,4312
+64145,Advance,4313
+64323,Lecanto,4314
+64368,Marathon,4315
+64509,Snellville,4316
+64756,Kathleen,4317
+64770,Saint Clair,4318
+64806,Dakota,4319
+64817,Goodfield,4320
+64824,Braidwood,4321
+64855,Harris,4322
+64856,Bonner Springs,4323
+64881,Middleton,4324
+64889,Sandstone,4325
+64892,Mora,4326
+64899,Countryside,4327
+64910,Adair,4328
+64920,Rock Falls,4329
+64921,Fort Calhoun,4330
+64939,Calamus,4331
+64960,Gotebo,4332
+65045,Smithville,4333
+65177,Mooringsport,4334
+65178,Hosston,4335
+65179,Winnie,4336
+65347,Sulphur,4337
+65426,Talala,4338
+65451,Escalante,4339
+65454,Greenwood Village,4340
+65585,Heber,4341
+65623,Gervais,4342
+65624,Tidewater,4343
+65654,Ellensburg,4344
+65716,Glenn,4345
+65778,Bella Vista,4346
+65787,Arbuckle,4347
+65819,Blue Lake,4348
+65821,Orick,4349
+65826,Capitola,4350
+65833,Squaw Valley,4351
+65967,Signal Hill,4352
+65994,Sanborn,4353
+65995,Eldred,4354
+66070,East Schodack,4355
+66076,Ava,4356
+66082,Pattersonville,4357
+66151,Chalfont,4358
+66242,Napanoch,4359
+66261,West Haverstraw,4360
+66308,Old Saybrook,4361
+66310,West Warwick,4362
+66329,Uniontown,4363
+66330,California,4364
+66331,Strongstown,4365
+66332,Hookstown,4366
+66335,Mount Crawford,4367
+66343,Huntingtown,4368
+66357,Monkton,4369
+66361,West Friendship,4370
+66376,Spring Run,4371
+66384,Trappe,4372
+66402,Pottsville,4373
+66432,New Paris,4374
+66466,Villa Hills,4375
+66517,Boone,4376
+66588,Tobaccoville,4377
+66589,Pinnacle,4378
+66758,Hallandale Beach,4379
+66929,Plum Branch,4380
+66974,Willard,4381
+66992,Tallapoosa,4382
+67237,Evans,4383
+67250,Sullivan,4384
+67377,Bellwood,4385
+67417,Windcrest,4386
+67448,Eunice,4387
+67625,Denham Springs,4388
+67694,Long Branch,4389
+67695,Texarkana,4390
+67854,Panama City Beach,4391
+67860,Horton,4392
+67987,Agate,4393
+68267,Milton Freewater,4394
+68298,Colusa,4395
+68432,Scotia,4396
+68438,Gilroy,4397
+68442,Pebble Beach,4398
+68462,Terra Bella,4399
+68676,Pinconning,4400
+68725,Harpursville,4401
+68733,New Buffalo,4402
+68750,Red Creek,4403
+68809,Old Westbury,4404
+68844,Devon,4405
+68869,Seaside Heights,4406
+68896,Elizabethport,4407
+68912,Niantic,4408
+68913,Calverton,4409
+68927,Canonsburg,4410
+68939,East Petersburg,4411
+68978,Karthaus,4412
+68990,Martinsburg,4413
+68991,Grantville,4414
+68995,Duncansville,4415
+69018,Beavertown,4416
+69029,Rockton,4417
+69034,Renovo,4418
+69044,Pike,4419
+69103,Montpelier,4420
+69136,Morning View,4421
+69143,Piney Flats,4422
+69155,Mosheim,4423
+69286,Atkins,4424
+69298,Angier,4425
+69380,Faber,4426
+69382,Doswell,4427
+69420,Lantana,4428
+69470,Tavares,4429
+69723,Hamlet,4430
+69826,Glen Saint Mary,4431
+69831,Hilton Head Island,4432
+69865,Coosawhatchie,4433
+69908,Normal,4434
+69928,Kasota,4435
+69936,Roberts,4436
+69951,Waterville,4437
+69953,Saukville,4438
+69955,Blue Earth,4439
+69956,Sherburn,4440
+69965,Ottumwa,4441
+70006,Poplar Grove,4442
+70033,Sycamore,4443
+70036,Chicago Ridge,4444
+70042,Evanston,4445
+70063,El Reno,4446
+70406,Lacombe,4447
+70509,Pachuta,4448
+70616,Monument,4449
+70817,Glorieta,4450
+70845,Cataldo,4451
+70851,Grand Ronde,4452
+70868,Fircrest,4453
+70870,Woodinville,4454
+70878,Port Orchard,4455
+70889,Echo,4456
+70908,Topaz,4457
+70976,Hickman,4458
+71027,Monte Sereno,4459
+71031,Carlin,4460
+71050,Big Sur,4461
+71084,Santa Ynez,4462
+71229,Frazier Park,4463
+71278,Averill Park,4464
+71281,Burnt Hills,4465
+71341,Lore City,4466
+71342,Bolivar,4467
+71351,Inwood,4468
+71363,Trout Run,4469
+71391,Strawberry Plains,4470
+71420,Howey in the Hills,4471
+71476,Grand Ridge,4472
+71479,Midland City,4473
+71497,Beatrice,4474
+71624,Colorado City,4475
+71639,College Station,4476
+71667,Autaugaville,4477
+71725,Vail,4478
+71746,Paulden,4479
+71786,Stanfield,4480
+71851,Nice,4481
+71853,Kenwood,4482
+72038,Clare,4483
+72043,Fort Edward,4484
+72048,Canterbury,4485
+72102,Oakville,4486
+72119,Johnsonburg,4487
+72167,Morganton,4488
+72247,Catawba,4489
+72338,Lyndon Station,4490
+72346,Donnellson,4491
+72348,Frazee,4492
+72367,Wright City,4493
+72377,Vining,4494
+72379,Markham,4495
+72387,Ames,4496
+72396,Lago Vista,4497
+72472,Georgiana,4498
+72547,Congress,4499
+72563,Carefree,4500
+72594,Rockaway Beach,4501
+72672,Caruthers,4502
+72844,North Attleboro,4503
+72852,Bruce Twp,4504
+72869,Clawson,4505
+72897,Tilton,4506
+72900,North Woodstock,4507
+72902,Pepperell,4508
+72929,Macomb,4509
+72978,Lafayette Hill,4510
+73002,Wading River,4511
+73014,Plainsboro,4512
+73104,Westhampton,4513
+73106,Uncasville,4514
+73119,Mineral Ridge,4515
+73156,Finksburg,4516
+73160,Drums,4517
+73162,Sugarloaf,4518
+73193,Shoals,4519
+73215,Ft Wright,4520
+73273,Beattyville,4521
+73275,Guild,4522
+73300,Cascade,4523
+73392,Zionville,4524
+73413,Keysville,4525
+73514,Dillwyn,4526
+73562,Pahokee,4527
+73599,Central Volusia,4528
+73623,Lady Lake,4529
+73916,Starke,4530
+73953,Cordesville,4531
+73955,Mcdonough,4532
+73958,Bamberg,4533
+74033,Freedom,4534
+74056,Wittenberg,4535
+74058,Mabel,4536
+74061,Sun Prairie,4537
+74064,Hayfield,4538
+74078,Osage,4539
+74087,Dassel,4540
+74138,Calumet Park,4541
+74402,Del Rio,4542
+74404,Stapleton,4543
+74508,Larose,4544
+74682,Hitchcock,4545
+74718,Winnsboro,4546
+74724,La Veta,4547
+74725,Trinidad,4548
+74728,Rifle,4549
+74784,Laughlin,4550
+74858,Eagar,4551
+74879,Coos Bay,4552
+74907,Mukilteo,4553
+75057,Fellows,4554
+75200,East Otto,4555
+75201,Allegany,4556
+75219,Wrentham,4557
+75303,Leicester,4558
+75308,Whitney Point,4559
+75385,Port Murray,4560
+75400,Long Valley,4561
+75409,Hazlet,4562
+75454,Port Washington,4563
+75512,Floral Park,4564
+75577,New Providence,4565
+75623,Cheverly,4566
+75756,Elsmere,4567
+75758,North Olmsted,4568
+75770,Hamptonville,4569
+75887,Narrows,4570
+76032,Sanibel,4571
+76037,Venus,4572
+76107,Lake Helen,4573
+76116,Chuluota,4574
+76307,Ware Shoals,4575
+76454,Mc Alpin,4576
+76532,Peachtree City,4577
+76562,Neeses,4578
+76590,Minnesota City,4579
+76606,Chatfield,4580
+76608,Blooming Prairie,4581
+76609,Granada,4582
+76610,Mauston,4583
+76614,Kasson,4584
+76617,Montello,4585
+76618,Oostburg,4586
+76621,Stewartville,4587
+76633,Fargo,4588
+76634,Eveleth,4589
+76696,Ellsworth,4590
+76705,Oswego,4591
+76738,Oak Forest,4592
+77005,Sherman,4593
+77067,Terry,4594
+77165,Luverne,4595
+77179,Watertown,4596
+77222,Picayune,4597
+77223,Bay Saint Louis,4598
+77529,Mill Creek,4599
+77565,Coulterville,4600
+77694,Grenada,4601
+77697,Klamath River,4602
+77715,Creston,4603
+77902,Marshfield,4604
+77952,Harvard,4605
+77976,Malone,4606
+77983,Galesburg,4607
+78110,Rockaway Park,4608
+78158,Atlantic City,4609
+78188,Emmaus,4610
+78206,Wheatley Heights,4611
+78235,Kings Park,4612
+78243,Marstons Mills,4613
+78245,South Dennis,4614
+78284,Hellam,4615
+78295,York Haven,4616
+78312,Olanta,4617
+78328,Honey Brook,4618
+78337,Delaplane,4619
+78356,Mount Union,4620
+78377,Cressona,4621
+78474,Oregon,4622
+78505,Rocky Top,4623
+78647,Pearisburg,4624
+78683,Nebo,4625
+78897,Cooper City,4626
+78939,Sumterville,4627
+78951,Fruitland Park,4628
+79134,Lula,4629
+79381,Keystone Heights,4630
+79402,Luray,4631
+79460,Clarks Hill,4632
+79467,Soperton,4633
+79471,Delavan,4634
+79534,Cass Lake,4635
+79540,Clear Lake,4636
+79542,Zimmerman,4637
+79600,Machesney Park,4638
+79605,Clarissa,4639
+79631,Lake in the Hills,4640
+79636,Carpentersville,4641
+79807,Oklahoma City Northwest,4642
+80155,Shepherd,4643
+80257,Franktown,4644
+80260,Woodland Park,4645
+80440,Nyssa,4646
+80449,Yachats,4647
+80489,Wood Village,4648
+80509,Moro,4649
+80638,Kentfield,4650
+80822,Alden,4651
+80876,Millersburg,4652
+80993,East Greenville,4653
+81006,Raritan,4654
+81048,Granite Springs,4655
+81060,Neshanic Station,4656
+81077,Flemington,4657
+81102,Palm,4658
+81111,Basking Ridge,4659
+81158,Sheffield,4660
+81200,Taneytown,4661
+81221,Claysburg,4662
+81231,New Carlisle,4663
+81285,Crittenden,4664
+81418,Oakboro,4665
+81462,Haw River,4666
+81530,Alberta,4667
+81591,Spring Hope,4668
+81763,Ona,4669
+82160,Goodridge,4670
+82161,Robertsville,4671
+82207,Harmony,4672
+82264,Okauchee,4673
+82279,Ironton,4674
+82356,Farmerville,4675
+82558,Waskom,4676
+82643,Mccomb,4677
+83072,Corbett,4678
+83080,Planada,4679
+83242,Golconda,4680
+83552,Twin Mountain,4681
+83618,Harrison City,4682
+83709,Colmar,4683
+83760,North Versailles,4684
+83778,Stone Creek,4685
+83832,Cross Fork,4686
+83843,Montross,4687
+83912,Xenia,4688
+84095,Raven,4689
+84208,Sutherland,4690
+84411,Norris,4691
+84424,Rock Spring,4692
+84472,Rossville,4693
+84752,Altura,4694
+84755,Ashkum,4695
+84756,Streator,4696
+84779,Taylors Falls,4697
+84844,Runnells,4698
+84861,Coralville,4699
+84862,Mitchellville,4700
+84863,De Witt,4701
+84866,Lake Bluff,4702
+85097,Magnolia Springs,4703
+85201,Orange Beach,4704
+85249,Niceville,4705
+85263,Beechgrove,4706
+85275,Haughton,4707
+85284,Caruthersville,4708
+85519,Morenci,4709
+85580,Sammamish,4710
+85699,Loomis,4711
+85728,Loleta,4712
+85743,Los Alamos,4713
+85745,Mc Kittrick,4714
+85798,Pinon Hills,4715
+85820,Sherwood Forest,4716
+85828,Northridge,4717
+85958,Rock City Falls,4718
+85978,Mohegan Lake,4719
+86024,Smithton,4720
+86040,Lock Haven,4721
+86096,Banner Elk,4722
+86114,Gasburg,4723
+86256,Britt,4724
+86259,Rolla,4725
+86284,Hibbing,4726
+86332,Lamesa,4727
+86390,Irondale,4728
+86415,Groveton,4729
+86431,Ordway,4730
+86453,Quartzsite,4731
+86495,Magdalena,4732
+86499,Prairie City,4733
+86502,Canyon City,4734
+86509,Tumwater,4735
+86619,Dos Rios,4736
+86624,Philo,4737
+86636,Casmalia,4738
+86803,Cobleskill,4739
+86814,Great Meadows,4740
+86817,Larchmont,4741
+86826,Croton On Hudson,4742
+86878,Matamoras,4743
+86958,Lovingston,4744
+87067,Ashford,4745
+87096,Russell,4746
+87101,Hill City,4747
+87129,Emily,4748
+87131,Staples,4749
+87193,Monteagle,4750
+87205,Welsh,4751
+87251,Bosque Farms,4752
+87342,Moss Beach,4753
+87343,Platina,4754
+87344,Elk Creek,4755
+87601,Suffield,4756
+87621,Altamont,4757
+87662,Woodhaven,4758
+87771,Manchester Township,4759
+87831,Willimantic,4760
+87835,Vintondale,4761
+87839,Twinsburg,4762
+87842,Turtle Creek,4763
+87843,Evans City,4764
+87868,Felton,4765
+87916,Clearville,4766
+87988,Etna,4767
+88032,Ludlow,4768
+88139,Vinton,4769
+88152,Reidsville,4770
+88231,Oilville,4771
+88380,Windermere,4772
+88473,Green Sea,4773
+88683,Campbellton,4774
+88718,Tillman,4775
+88772,Statesboro,4776
+88787,Pesotum,4777
+88822,Silver Lake,4778
+88865,Onalaska,4779
+88867,La Crescent,4780
+88870,Poynette,4781
+88872,Clarks Grove,4782
+88910,Saint Augusta,4783
+89500,Carriere,4784
+89570,Needville,4785
+89680,West Wendover,4786
+89828,Nordland,4787
+90003,San Anselmo,4788
+90082,Solana Beach,4789
+90185,Hawaiian Gardens,4790
+90227,Epsom,4791
+90233,Brookline,4792
+90235,Tamworth,4793
+90273,Eaton Rapids,4794
+90306,Luna Pier,4795
+90318,Putnam Station,4796
+90322,Champlain,4797
+90375,Wyckoff,4798
+90525,Swarthmore,4799
+90611,Sudlersville,4800
+90633,District 9,4801
+90648,Locust Dale,4802
+90667,Leesport,4803
+90668,Mc Clure,4804
+90672,Mount Pleasant Mills,4805
+90674,Three Springs,4806
+90718,London,4807
+90719,Dresden,4808
+90795,Bryson City,4809
+90938,Spout Spring,4810
+91194,Montverde,4811
+91253,South and East Osceola,4812
+91443,Chickamauga,4813
+91677,Backus,4814
+91736,New Douglas,4815
+91739,West Alton,4816
+91802,Orland Park,4817
+91804,Strafford,4818
+91806,Republic,4819
+91833,Calumet,4820
+92055,Tupelo,4821
+92209,Town Creek,4822
+92278,Ariton,4823
+92299,Barksdale AFB,4824
+92416,Brian Head,4825
+92510,Seligman,4826
+92589,Springerville,4827
+92728,Mountain Ranch,4828
+92836,Miramonte,4829
+93021,Swampscott,4830
+93031,Whitman,4831
+93110,West Chazy,4832
+93118,Torrington,4833
+93177,Lynbrook,4834
+93240,Dover Plains,4835
+93306,Line Lexington,4836
+93331,Yorklyn,4837
+93341,Zieglerville,4838
+93367,South Glastonbury,4839
+93381,Stahlstown,4840
+93386,Lovettsville,4841
+93405,Mc Veytown,4842
+93513,South Bend,4843
+93581,Kingsport,4844
+93583,Ten Mile,4845
+93751,Crewe,4846
+94001,Satellite Beach,4847
+94093,Maysville,4848
+94311,Sharpsburg,4849
+94474,Anamosa,4850
+94522,Bastrop,4851
+94529,Overbrook,4852
+94608,Robstown,4853
+94842,Marrero,4854
+94849,Pinson,4855
+94897,Brierfield,4856
+94995,Fort Gibson,4857
+95071,Lake Jackson,4858
+95086,Parowan,4859
+95137,Fort Lupton,4860
+95271,Wilderville,4861
+95272,Canyonville,4862
+95427,McKinleyville,4863
+95435,Lewiston,4864
+95618,Falconer,4865
+95620,Plympton,4866
+95677,Otter Lake,4867
+95688,Marlette,4868
+95722,Windsor Locks,4869
+95744,Boonville,4870
+95750,Corinth,4871
+95767,Holley,4872
+95776,Mainesburg,4873
+95870,Jamison,4874
+95878,Ozone Park,4875
+95900,Blue Point,4876
+95906,Ocean View,4877
+95918,Newtown,4878
+95977,Township of Washington,4879
+96007,Reinholds,4880
+96074,Glenelg,4881
+96190,Murphy,4882
+96197,Coeburn,4883
+96202,Bunnlevel,4884
+96472,Anthony,4885
+96594,Loganville,4886
+96619,Dawsonville,4887
+96742,White,4888
+96782,Lamont,4889
+96872,Gay,4890
+96903,Geff,4891
+96912,Madison Lake,4892
+96955,Mapleton,4893
+96967,Elmwood,4894
+97064,McGregor,4895
+97071,La Grange Highlands,4896
+97264,Weatherford,4897
+97275,Godley,4898
+97367,Sudan,4899
+97370,Nacogdoches,4900
+97371,Winslow,4901
+97493,Holden,4902
+97569,Sylacauga,4903
+97605,Lowndesboro,4904
+97607,Cropwell,4905
+97612,Rosenberg,4906
+97652,Jersey Village,4907
+97717,Coleman,4908
+97718,Del Norte,4909
+97733,Aspen,4910
+97749,Snowmass,4911
+97821,Jal,4912
+97826,Overgaard,4913
+98013,Meadow Vista,4914
+98090,Point Reyes Station,4915
+98091,Caspar,4916
+98108,Los Olivos,4917
+98139,Arvin,4918
+98321,Standish,4919
+98359,Hudsonville,4920
+98407,Factoryville,4921
+98410,Old Bethpage,4922
+98436,Bloomsbury,4923
+98514,Delran,4924
+98540,Raphine,4925
+98555,Butler,4926
+98556,Eighty Four,4927
+98612,Clear Spring,4928
+98617,Ridgely,4929
+98671,Munster,4930
+98736,Bloomingburg,4931
+99035,Minneola,4932
+99098,Winter Haven,4933
+99142,New Zion,4934
+99161,Patrick,4935
+99245,Hiram,4936
+99418,Johns Island,4937
+99436,Erskine,4938
+99481,Winthrop,4939
+99489,Warrens,4940
+99494,Lakefield,4941
+99495,Baraboo,4942
+99553,Brownstown,4943
+99564,Pleasant Prairie,4944
+99567,Big Bend,4945
+99573,South Beloit,4946
+99584,Henning,4947
+99585,Deer Creek,4948
+99608,Neola,4949
+99617,Missouri Valley,4950
+99658,Amarillo,4951
+99873,Prichard,4952
+99882,Chunchula,4953
+99883,Gallion,4954
+99977,Sperry,4955
+100519,Sherwood,4956
+100713,Irwindale,4957
+100858,Howes Cave,4958
+100964,Bluemont,4959
+100965,Union Bridge,4960
+100999,Reelsville,4961
+101025,Zanesville,4962
+101026,Owingsville,4963
+101107,Stantonsburg,4964
+101110,Miami Lakes,4965
+101197,Webb,4966
+101332,Silas,4967
+101523,Camano Island,4968
+101575,Shasta Lake,4969
+101590,Gualala,4970
+101749,Rives Junction,4971
+101834,Frackville,4972
+101894,Sandy Level,4973
+101966,Ellijay,4974
+101993,Seale,4975
+101994,Meansville,4976
+102004,Northome,4977
+102058,Pine Bluff,4978
+102075,Merkel,4979
+102109,Eclectic,4980
+102120,Junction,4981
+102121,Walsenburg,4982
+102132,Silverthorne,4983
+102157,Peridot,4984
+102159,Cave Junction,4985
+102173,Enumclaw,4986
+102181,Washougal,4987
+102280,Gasport,4988
+102281,Chaffee,4989
+102327,Lapeer,4990
+102368,Whitingham,4991
+102446,Brodheadsville,4992
+102525,Maplewood,4993
+102584,Dagsboro,4994
+102606,Grindstone,4995
+102610,Abbottstown,4996
+102638,Kingsville,4997
+102684,McAdoo,4998
+102815,Lillington,4999
+103057,Toano,5000
+103151,Arcadia West,5001
+103281,Cave Spring,5002
+103563,Garvin,5003
+103579,Bonduel,5004
+103580,Shawano,5005
+103613,Hawick,5006
+103615,Lindstrom,5007
+103694,Goddard,5008
+103719,Lubbock,5009
+103772,Thrall,5010
+103948,Melissa,5011
+104071,Marion Junction,5012
+104135,Purvis,5013
+104293,Whitewater,5014
+104300,Myton,5015
+104450,Fife,5016
+104458,Sultan,5017
+104866,Oakham,5018
+104887,Richmondville,5019
+104928,Mendon,5020
+105140,North Dartmouth,5021
+105158,Cleveland Heights,5022
+105175,Upperville,5023
+105258,Beech Creek,5024
+105271,Mifflintown,5025
+105281,West Lafayette,5026
+105294,Louisville Central,5027
+105464,Randleman,5028
+105669,Parkland,5029
+105994,Little Rock,5030
+105997,Delco,5031
+106162,Champaign,5032
+106195,Grafton,5033
+106247,Neoga,5034
+106278,Guthrie Center,5035
+106328,Elmendorf,5036
+106553,Lucedale,5037
+106556,Gautier,5038
+106582,Stroud,5039
+106656,Pelahatchie,5040
+106693,Thorsby,5041
+106723,Mountain Brk,5042
+106748,Destin,5043
+106774,University,5044
+106885,Glenns Ferry,5045
+106935,Hartsel,5046
+107000,Talmage,5047
+107128,Concho,5048
+107227,Oregon House,5049
+107339,Douglas City,5050
+107436,Santa Rosa Valley,5051
+107513,Laconia,5052
+107542,Errol,5053
+107581,Sebewaing,5054
+107598,Belchertown,5055
+107612,Clayville,5056
+107624,Mount Clemens,5057
+107679,Whitehouse Station,5058
+107756,Cape May,5059
+107773,Lake Grove,5060
+107806,Armagh,5061
+108028,Dryden,5062
+108069,Meadows of Dan,5063
+108120,Stuart,5064
+108339,Bal Harbour,5065
+108449,Babson Park,5066
+108604,Elliott,5067
+108716,Rocky Face,5068
+108729,Wewahitchka,5069
+108833,Orr,5070
+108847,Waconia,5071
+108862,Doniphan,5072
+108869,Jacobson,5073
+108902,Mattoon,5074
+108910,Johnson Creek,5075
+108911,Union Grove,5076
+109136,Saint Amant,5077
+109223,Vivian,5078
+109224,Beaumont,5079
+109250,Northeast Dallas,5080
+109261,Sapulpa,5081
+109494,Diberville,5082
+109617,Malta,5083
+109706,Rogue River,5084
+109712,Reedsport,5085
+109990,Machias,5086
+109991,Kill Buck,5087
+110043,Dearborn Heights,5088
+110152,Coopersville,5089
+110237,Sunnyside,5090
+110401,Blairsville,5091
+110554,Hobart,5092
+110633,Wapakoneta,5093
+111099,Oakwood,5094
+111101,Menlo,5095
+111300,Altha,5096
+111318,Clopton,5097
+111415,Ghent,5098
+111422,Neosho,5099
+111427,Fairmont,5100
+111446,Longville,5101
+111546,Menomonee Falls,5102
+111573,Matteson,5103
+111575,Wheeling,5104
+111577,Toddville,5105
+111616,Hickory Hills,5106
+111858,Axis,5107
+111951,Pegram,5108
+112062,Laurel Hill,5109
+112074,Fort Payne,5110
+112076,Ponce de Leon,5111
+112101,Mathews,5112
+112258,Black Hawk,5113
+112263,Roggen,5114
+112362,Moriarty,5115
+112475,Forbestown,5116
+112526,El Dorado,5117
+112763,Malden,5118
+112832,Grand Ledge,5119
+112918,East Atlantic Beach,5120
+113018,Fountainville,5121
+113028,Spring House,5122
+113059,Cotuit,5123
+113082,Streetsboro,5124
+113090,Round Hill,5125
+113092,Klingerstown,5126
+113094,Wellsville,5127
+113156,Worton,5128
+113161,West Milton,5129
+113221,Springboro,5130
+113481,Whitakers,5131
+113483,Weldon,5132
+113537,Royal Palm Beach-West Jupiter,5133
+114031,O Brien,5134
+114062,Register,5135
+114134,Cusseta,5136
+114179,Maynard,5137
+114264,Spicer,5138
+114292,Annada,5139
+114294,Old Mill Creek,5140
+114314,Barrett,5141
+114332,Lake Barrington,5142
+114346,Glenview,5143
+114527,Northwest Travis,5144
+114840,Ponce De Leon,5145
+114858,Equality,5146
+114879,Natchitoches,5147
+115026,Mona,5148
+115117,Fort McDowell,5149
+115175,Canby,5150
+115361,Tupman,5151
+115387,Silverado,5152
+115451,Cantil,5153
+115521,Wolverine,5154
+115735,Alto,5155
+115840,Metropolis,5156
+115923,Friendship,5157
+115937,Hiko,5158
+116161,Cedar Glen,5159
+116231,Ripley,5160
+116258,South Glens Falls,5161
+116260,Bernardston,5162
+116306,Villanova,5163
+116527,Browerville,5164
+116540,Bulverde,5165
+116959,Seekonk,5166
+117066,Comstock Park,5167
+117073,Coloma,5168
+117232,Rockfall,5169
+117248,Portersville,5170
+117263,Landisville,5171
+117338,Stephenson,5172
+117451,Walkertown,5173
+117534,Jewell Ridge,5174
+117553,Jetersville,5175
+117608,Four Oaks,5176
+117693,Royal Palm Beach,5177
+118052,Cook,5178
+118053,Green Valley,5179
+118093,Glencoe,5180
+118179,Fergus Falls,5181
+118203,North Aurora,5182
+118242,Maurice,5183
+118447,Daingerfield,5184
+118501,Ledbetter,5185
+118504,Fate,5186
+118537,Madisonville,5187
+118558,Kingston Springs,5188
+118757,Silt,5189
+119072,Twain,5190
+119415,Bay City,5191
+119416,Durand,5192
+119417,Birch Run,5193
+119421,Roscommon,5194
+119447,Spofford,5195
+119455,Oneida,5196
+119456,Sauquoit,5197
+119554,Ellenville,5198
+119560,Pequannock,5199
+119574,South Salem,5200
+119602,River Edge,5201
+119621,Sidman,5202
+119638,Tallmadge,5203
+119653,Drumore,5204
+119674,Parkesburg,5205
+119713,Harwood,5206
+119722,Dornsife,5207
+119807,Plain City,5208
+119847,Greeneville,5209
+119865,Big Stone Gap,5210
+119869,Dobson,5211
+119929,Penhook,5212
+119954,Goode,5213
+120608,Redwood Falls,5214
+120609,Zumbro Falls,5215
+120617,Welcome,5216
+120713,Denison,5217
+120994,Pascagoula,5218
+121002,Lufkin,5219
+121029,Prosper,5220
+121110,La Place,5221
+121132,Helena,5222
+121237,Centre,5223
+121555,Willcox,5224
+121608,Gales Creek,5225
+121636,Long Barn,5226
+121726,Diamond Springs,5227
+122010,Fowlerville,5228
+122057,Simsbury,5229
+122061,Sherrill,5230
+122090,Benzonia,5231
+122102,Paris,5232
+122103,New Era,5233
+122188,North Baldwin,5234
+122212,Middle Village,5235
+122248,Millburn,5236
+122250,Tappan,5237
+122251,Pawling,5238
+122265,Little Ferry,5239
+122283,East Setauket,5240
+122302,East Norwich,5241
+122303,Palisades Park,5242
+122398,Catlett,5243
+122413,Shirleysburg,5244
+122518,Wise,5245
+122601,Meadowview,5246
+122673,Charlotte Court House,5247
+122729,Locust Hill,5248
+122886,Belleair Beach,5249
+123195,Buena Vista,5250
+123290,Jefferson City,5251
+123386,Dodge Center,5252
+123388,Hubertus,5253
+123394,Allenton,5254
+123395,Rushford,5255
+123398,Tomah,5256
+123463,Blue Mounds,5257
+123473,Greendale,5258
+123506,Royalton,5259
+123515,Bondurant,5260
+123558,Wilton,5261
+123893,Byram,5262
+124112,Edgewater,5263
+124151,Rocky Ford,5264
+124163,Toponas,5265
+124184,Chino Valley,5266
+124289,Riddle,5267
+124305,Gold Bar,5268
+124339,Zillah,5269
+124451,Blairsden Graeagle,5270
+124894,Ayer,5271
+124901,Contoocook,5272
+124925,Saugatuck,5273
+124933,Honor,5274
+124978,Nunda,5275
+125049,Far Rockaway,5276
+125087,Rahway,5277
+125134,Moodus,5278
+125155,West Mifflin,5279
+125199,West Grove,5280
+125220,Newville,5281
+125283,Muncie,5282
+126301,Pierz,5283
+126383,Crofton,5284
+126393,Helotes,5285
+127062,Sedalia,5286
+127365,Paynes Creek,5287
+127456,Keyes,5288
+127654,Mount Jewett,5289
+127656,Conewango Valley,5290
+127671,Dracut,5291
+127738,Underhill,5292
+127741,Plattsburgh,5293
+127744,West Charleston,5294
+127812,Camillus,5295
+127875,Kingsley,5296
+127893,Island Park,5297
+127945,Nutley,5298
+127985,Brightwaters,5299
+127996,Youngstown,5300
+127998,Painesville,5301
+128002,Lowellville,5302
+128006,Meadville,5303
+128051,Millersville,5304
+128059,Ashton,5305
+128093,Rohrersville,5306
+128096,Belcamp,5307
+128251,Mills River,5308
+128377,Battleboro,5309
+128425,Edenton,5310
+128942,Islandton,5311
+129039,Eagle Lake,5312
+129131,Holstein,5313
+129146,Winthrop Harbor,5314
+129171,Glenwood,5315
+129182,Prophetstown,5316
+129213,Brayton,5317
+129240,Jbsa Lackland,5318
+129277,Colleyville,5319
+129355,Waelder,5320
+129539,Brenham,5321
+129638,Greenbrier,5322
+129655,Adamsville,5323
+129664,Wartrace,5324
+129834,Jensen,5325
+130043,Boring,5326
+130497,Cross Junction,5327
+130548,Church Road,5328
+130676,Eastman,5329
+130853,Muskogee,5330
+130898,Loving,5331
+130941,Port Angeles,5332
+130971,White Salmon,5333
+131037,New Cuyama,5334
+131082,Foothill Ranch,5335
+131260,South Portland,5336
+131261,Natick,5337
+131275,Malden Bridge,5338
+131344,Allenwood,5339
+131352,Severna Park,5340
+131383,Maiden,5341
+131478,Angora,5342
+131537,Wonder Lake,5343
+131541,Verndale,5344
+131611,Pleasant View,5345
+131627,Decherd,5346
+131682,Vale,5347
+131734,Applegate,5348
+131894,Rimforest,5349
+131907,Coronado,5350
+131979,Byfield,5351
+132046,Dimondale,5352
+132075,Parma,5353
+132094,Winooski,5354
+132117,Ada,5355
+132175,Portville,5356
+132184,Fords,5357
+132247,Stockertown,5358
+132420,East Freedom,5359
+132431,Frenchville,5360
+132436,Fisherville,5361
+132450,Michigan City,5362
+132463,Kirklin,5363
+132487,Versailles,5364
+132555,Austinville,5365
+132644,Shawsville,5366
+133189,Lake Ozark,5367
+133217,Fond Du Lac,5368
+133230,Van Wert,5369
+133300,Worden,5370
+133427,Madrid,5371
+133525,Atlantic,5372
+133536,Le Claire,5373
+133543,Western Springs,5374
+133580,Carthage,5375
+133585,Mounds,5376
+133639,Mulhall,5377
+133989,Veyo,5378
+134037,Castle Pines,5379
+134106,Cheyenne,5380
+134121,Dragoon,5381
+134184,Juntura,5382
+134214,Yacolt,5383
+134272,Rio Oso,5384
+134339,Round Mountain,5385
+134510,Weymouth,5386
+134612,Southborough,5387
+134640,Westernville,5388
+134655,Broadalbin,5389
+134665,Thompsonville,5390
+134858,Tenafly,5391
+134863,Blauvelt,5392
+134867,Oley,5393
+134891,Canadensis,5394
+134897,Marmora,5395
+134925,Mercer,5396
+134932,Meyersdale,5397
+134940,Saint Clairsville,5398
+134956,Bladensburg,5399
+134975,Leon,5400
+135002,Rapidan,5401
+135012,Fawn Grove,5402
+135021,Bolling Afb,5403
+135027,Luthersburg,5404
+135046,Wabash,5405
+135053,Oakland City,5406
+135056,Fairland,5407
+135095,Fairborn,5408
+135119,Tipp City,5409
+135133,Circleville,5410
+135156,Castalia,5411
+135256,Iron Station,5412
+135312,Goodview,5413
+135545,Palatka,5414
+135611,Kenansville,5415
+135679,North Redington Beach,5416
+136108,Burnt Prairie,5417
+136165,Kiester,5418
+136179,Bennington,5419
+136262,Dyersville,5420
+136273,Round Lake Heights,5421
+136295,Saint Germain,5422
+136367,North Barrington,5423
+136599,Russellville,5424
+136660,Weleetka,5425
+136817,Shalimar,5426
+136836,Lynn Haven,5427
+136962,Fairplay,5428
+137137,Lemitar,5429
+137177,Ritzville,5430
+137372,Sutter,5431
+137437,Buellton,5432
+137678,Norwell,5433
+137766,Walpole,5434
+137770,South Burlington,5435
+137772,Esperance,5436
+137989,Slatington,5437
+138018,Shohola,5438
+138031,Westbrook,5439
+138035,Cherry Tree,5440
+138046,Belle Vernon,5441
+138164,Turbotville,5442
+138171,Accokeek,5443
+138191,Lebanon Junction,5444
+138192,Shepherdsville,5445
+138396,Sutherlin,5446
+138512,Drakes Branch,5447
+138737,Nokomis,5448
+138749,Clearwater Beach,5449
+139236,Ogilvie,5450
+139287,Wausa,5451
+139303,Cushing,5452
+139411,Rayville,5453
+139960,La Junta,5454
+139974,Tabernash,5455
+140087,Laguna,5456
+140113,La Pine,5457
+140128,Hoquiam,5458
+140132,Belfair,5459
+140299,Laytonville,5460
+140568,Farmington Hills,5461
+140611,Moran,5462
+140625,East Granby,5463
+140641,Vernon Center,5464
+140749,Aston,5465
+140841,Warrendale,5466
+140851,Garrettsville,5467
+140861,West Alexander,5468
+140865,Monongahela,5469
+140959,Fort Littleton,5470
+141205,Cramerton,5471
+141287,Meherrin,5472
+141886,Edisto Island,5473
+141975,Le Center,5474
+142010,Colgate,5475
+142100,Swaledale,5476
+142161,Sloan,5477
+142166,Colona,5478
+142173,Goreville,5479
+142180,Pharr,5480
+142445,Citronelle,5481
+142691,Tuskegee Institute,5482
+142722,Haynesville,5483
+142852,Highlands Ranch,5484
+143049,Mount Angel,5485
+143067,Moses Lake,5486
+143263,Stinson Beach,5487
+143550,Long Eddy,5488
+143723,Monsey,5489
+143724,Clarks Summit,5490
+143775,Burgettstown,5491
+143788,East Pittsburgh,5492
+143943,South Charleston,5493
+144243,Hobbsville,5494
+144428,Winter Springs,5495
+144429,Archer,5496
+144495,Wimauma-Riverview,5497
+144574,Brookhaven,5498
+144948,White Springs,5499
+145219,Mukwonago,5500
+145272,Hawthorn Woods,5501
+145755,Munford,5502
+145796,Bells,5503
+145897,Ferron,5504
+146062,Grand View,5505
+146063,Caldwell,5506
+146067,Paisley,5507
+146128,Le Grand,5508
+146313,Avenal,5509
+146350,Big Bear City,5510
+146394,Reseda,5511
+146407,Twin Peaks,5512
+146516,East Chatham,5513
+146521,East Berne,5514
+146555,Rochelle Park,5515
+146569,Pompton Plains,5516
+146601,Big Cove Tannery,5517
+146638,Pound,5518
+147080,Pilot Rock,5519
+147092,Pinecrest,5520
+147397,Lyndhurst,5521
+147407,Beaver Springs,5522
+147621,Vidor,5523
+147686,Black Forest-Peyton,5524
+147698,Globe,5525
+147711,Concrete,5526
+148024,Olivet,5527
+148029,South Lyon,5528
+148134,Mullica Hill,5529
+148155,Delaware City,5530
+148172,Oaklyn,5531
+148224,Ringoes,5532
+148253,Manhattan,5533
+148285,Nanty Glo,5534
+148286,Murrysville,5535
+148313,Port Trevorton,5536
+148320,Brogue,5537
+149050,Ruby,5538
+149250,East Carondelet,5539
+149301,Eden Valley,5540
+149370,Dows,5541
+149431,McAllen,5542
+149447,Jermyn,5543
+149453,Big Spring,5544
+149493,Nocona,5545
+149646,San Angelo,5546
+149980,Jackpot,5547
+150109,Keno,5548
+150125,Colbert,5549
+150328,Laton,5550
+150463,Salamanca,5551
+150582,Wilbraham,5552
+150588,Middle Granville,5553
+150622,Dansville,5554
+150643,Barto,5555
+150716,Sewaren,5556
+150729,Pocono Lake,5557
+150754,Crum Lynne,5558
+150761,Shamong,5559
+150817,Neville,5560
+150832,Zelienople,5561
+150836,Belpre,5562
+150904,Straughn,5563
+151628,Lodge,5564
+151675,Culbertson,5565
+151756,Foreston,5566
+151837,Parkersburg,5567
+152169,Kaufman,5568
+152363,Okolona,5569
+152783,Portola,5570
+153172,Delmar,5571
+153315,Pennsville,5572
+153419,Dauphin,5573
+153520,Enon,5574
+153540,Mc Arthur,5575
+153563,Sidney,5576
+153611,Weber City,5577
+153887,Ford,5578
+153888,Oak City,5579
+154081,Cocoa Beach,5580
+154454,Tower,5581
+154477,Gibbon,5582
+154507,Bricelyn,5583
+154523,Coal City,5584
+154529,Cohasset,5585
+154576,East Dubuque,5586
+154580,Baxter,5587
+154881,Littlefield,5588
+154976,Crystal Springs,5589
+155083,Ebro,5590
+155139,Oologah,5591
+155154,Big Cabin,5592
+155411,South Beach,5593
+155454,Port Ludlow,5594
+155456,Vernonia,5595
+155489,Tuolumne,5596
+155502,Central Contra Costa,5597
+155564,Penryn,5598
+155735,Skyforest,5599
+156109,Dorothy,5600
+156133,Cold Spring Harbor,5601
+156207,Purchase,5602
+156237,Swoope,5603
+156287,Gore,5604
+156377,Camp Dennison,5605
+156475,Candor,5606
+157266,National Stock Yards,5607
+157328,Lovilia,5608
+157408,Wahkon,5609
+157409,Askov,5610
+157414,Mc Grath,5611
+157486,Sleepy Hollow,5612
+157516,Jbsa Ft Sam Houston,5613
+157751,Elrod,5614
+157975,Starkville,5615
+157989,Pryor,5616
+158010,Rose,5617
+158290,Normandy Park,5618
+158312,Clatskanie,5619
+158422,Rough And Ready,5620
+158499,Orleans,5621
+158708,Center Barnstead,5622
+158733,Tekonsha,5623
+158740,Saline,5624
+158773,Holland Patent,5625
+158778,Saint Johnsville,5626
+158786,Martin,5627
+159046,La Plata,5628
+159238,Hyden,5629
+159276,Huddleston,5630
+159325,Tazewell,5631
+159456,Bunn,5632
+159712,Southwest Orange,5633
+160309,Crest Hill,5634
+160328,Prospect Heights,5635
+160383,Saint Martinville,5636
+160555,Morgan City,5637
+160702,Ennis,5638
+160793,Poplarville,5639
+160868,Valley Grande,5640
+160971,South Pittsburg,5641
+160988,Wiggins,5642
+161275,Show Low,5643
+161750,Traverse City,5644
+161810,Mc Kees Rocks,5645
+162032,Brock,5646
+162071,Latimer,5647
+162083,Ash Grove,5648
+162333,Camptonville,5649
+162442,Wofford Heights,5650
+162523,Cropseyville,5651
+162531,Schaghticoke,5652
+162626,Garrett,5653
+162689,Reliance,5654
+162731,Prince George,5655
+162875,Masonville,5656
+163095,Willow Creek,5657
+163219,Great Valley,5658
+163257,South Rockwood,5659
+163265,Carleton,5660
+163336,Sawyer,5661
+163340,Cedar Springs,5662
+163376,Port Reading,5663
+163400,Frenchtown,5664
+163468,Lido Beach,5665
+163559,Fairmount City,5666
+163837,Claudville,5667
+163866,Woolwine,5668
+164177,Dahlonega,5669
+164473,Pinopolis,5670
+164536,Gully,5671
+164580,Wisconsin Rapids,5672
+164591,Minonk,5673
+164606,Correll,5674
+164634,Iowa Falls,5675
+164664,Robbins,5676
+164730,Electra,5677
+164747,Blanchard,5678
+164761,Hickory Creek,5679
+165396,Cibola,5680
+165501,Warm Springs,5681
+165720,Fort Jones,5682
+165831,North Antelope Valley,5683
+165936,Gilford,5684
+165967,Pontiac,5685
+166013,Chateaugay,5686
+166080,Upper Darby,5687
+166101,West Islip,5688
+166173,Ewing,5689
+166290,Knox,5690
+166420,Eaton,5691
+166619,Glasgow,5692
+167059,Marston,5693
+167252,Fort Branch,5694
+167377,South Sioux City,5695
+167394,Merrionette Park,5696
+167789,Jacksons Gap,5697
+168061,Coeur D Alene,5698
+168063,Chemult,5699
+168065,Sixes,5700
+168097,Veradale,5701
+168263,Mendocino,5702
+168590,Douglassville,5703
+168591,Glassboro,5704
+168603,Beacon Falls,5705
+168633,Beach Haven,5706
+168650,Keansburg,5707
+168694,Harrington Park,5708
+168706,North Stonington,5709
+168808,Mount Carmel,5710
+168829,Brookston,5711
+168830,Argos,5712
+168927,Hayesville,5713
+169046,Bessemer City,5714
+169075,Bermuda,5715
+169091,Melfa,5716
+169377,Avondale Estates,5717
+169378,Fort Oglethorpe,5718
+169584,Lake Park,5719
+169631,Branchville,5720
+169666,Rutledge,5721
+169683,Barry,5722
+169691,Bloomsdale,5723
+169752,Dawson,5724
+169769,Lanesboro,5725
+169771,Sparta,5726
+169772,Windom,5727
+169777,Heron Lake,5728
+169778,Bingham Lake,5729
+169790,Seward,5730
+169799,Floodwood,5731
+169895,Onawa,5732
+170381,Sulphur Springs,5733
+170526,Gunnison,5734
+170527,Hamer,5735
+170607,Cedar Crest,5736
+170612,Pecos,5737
+170643,Bates,5738
+170648,Noti,5739
+170664,Carnation,5740
+170665,Tulalip,5741
+170891,French Gulch,5742
+171137,East Tawas,5743
+171355,Secane,5744
+171370,Mount Pocono,5745
+171400,Mount Savage,5746
+171404,Mahaffey,5747
+171406,Punxsutawney,5748
+171495,Louisville Airport,5749
+171537,Appalachia,5750
+172186,Appling,5751
+172253,Larsen,5752
+172260,Suamico,5753
+172269,Boyden,5754
+172275,Pacific Junction,5755
+172290,Reynolds,5756
+172348,Hometown,5757
+172399,Holliday,5758
+172698,Guin,5759
+172844,Okmulgee,5760
+173100,Wyola,5761
+173177,Needles,5762
+173262,Coulee Dam,5763
+173282,Lynden,5764
+173319,Lakehead,5765
+173328,Fiddletown,5766
+173416,Cazadero,5767
+173900,Port Republic,5768
+173983,Roaring Branch,5769
+174047,Belews Creek,5770
+174134,Raeford,5771
+174237,Whiting,5772
+174248,Van Horne,5773
+174476,Sierra City,5774
+174485,Gold Run,5775
+174593,Leona Valley,5776
+174760,Mexico,5777
+174831,Amawalk,5778
+174879,Swissvale,5779
+174881,West Finley,5780
+174888,Amity,5781
+174937,Broad Run,5782
+175005,Buckner,5783
+175008,Veedersburg,5784
+175013,Cygnet,5785
+175154,Floyd,5786
+175157,Stoneville,5787
+175218,Baskerville,5788
+175662,Wadmalaw Island,5789
+175730,Iron Ridge,5790
+175870,Wilmette,5791
+176157,Pierre Part,5792
+176179,Simms,5793
+176345,Double Springs,5794
+176382,Opp,5795
+176395,Samson,5796
+176401,Goodwater,5797
+176778,Dobbins,5798
+176843,Rio Dell,5799
+177117,Plainwell,5800
+177157,Roselle Park,5801
+177198,Wolcott,5802
+177296,Bethel Park,5803
+177357,Loretto,5804
+177369,South Jefferson,5805
+177512,Dry Fork,5806
+177542,Connelly Springs,5807
+178008,Sopchoppy,5808
+178128,South Pekin,5809
+178135,Crystal City,5810
+178165,Tingley,5811
+178213,Tecumseh,5812
+178273,Shorewood,5813
+178328,Randlett,5814
+178633,Hohenwald,5815
+178726,Tullahoma,5816
+178865,Bennett,5817
+179012,Rio Rancho,5818
+179014,Ribera,5819
+179018,Continental Divide,5820
+179068,Stevenson,5821
+179253,Ivanhoe,5822
+179519,Pittsfield,5823
+179548,Nedrow,5824
+179670,Vauxhall,5825
+179691,Tarentum,5826
+179711,Brinklow,5827
+180095,Virgilina,5828
+180302,Melbourne Beach,5829
+180552,Pearson,5830
+180610,Camak,5831
+180775,Negaunee,5832
+180813,Billings,5833
+181233,Meadows Place,5834
+181483,Clallam Bay,5835
+181484,Orting,5836
+181523,Cove,5837
+181785,Lake Isabella,5838
+181997,Mattawan,5839
+182108,Great River,5840
+182146,Rumson,5841
+182185,Oyster Bay,5842
+182296,Cooksville,5843
+182343,La Porte,5844
+182666,Vanceboro,5845
+183138,Modoc,5846
+183192,Ulmer,5847
+183289,Kellogg,5848
+183400,Wright,5849
+183404,Gilberts,5850
+183681,Rodessa,5851
+184027,Hooper,5852
+184058,San Manuel,5853
+184146,Scio,5854
+184284,Oak Run,5855
+184482,Playa del Rey,5856
+184638,Houlton,5857
+184798,Higganum,5858
+184817,Lake Milton,5859
+184849,Freeland,5860
+184876,Orbisonia,5861
+184890,Demotte,5862
+185048,Lynch Station,5863
+185304,Apalachicola,5864
+185391,Temple Terrace,5865
+185841,Waunakee,5866
+186095,Sulligent,5867
+186699,Capay,5868
+186789,Burnt Ranch,5869
+187087,Brecksville,5870
+187093,Northern Cambria,5871
+187335,Lohrville,5872
+187471,Potter,5873
+187487,Neskowin,5874
+187502,Ariel,5875
+187849,Essex Junction,5876
+188047,Passaic,5877
+188063,Colts Neck,5878
+188111,Millstone Township,5879
+188137,Aliquippa,5880
+188828,Waleska,5881
+188929,Ocean Isle Beach,5882
+189197,Whittington,5883
+189272,Higginsville,5884
+189842,Magee,5885
+189963,Paint Rock,5886
+190023,Texas City,5887
+190067,Manitou Springs,5888
+190227,San Acacia,5889
+190247,Eatonville,5890
+190374,Emigrant Gap,5891
+190710,Atkinson,5892
+190756,Longmeadow,5893
+190760,Feeding Hills,5894
+190777,Woonsocket,5895
+190792,Fife Lake,5896
+190828,Owego,5897
+190904,Effort,5898
+190986,Conneautville,5899
+191070,Mapleton Depot,5900
+191215,Forest City,5901
+191245,Fleetwood,5902
+191480,West Miami,5903
+191830,Manitowoc,5904
+191838,Dennison,5905
+192063,Coupland,5906
+192337,Plantersville,5907
+192511,Las Animas,5908
+192609,Jerome,5909
+192666,Lake Forest Park,5910
+192848,Carlotta,5911
+193167,Acme,5912
+193171,Kirkwood,5913
+193189,Sinnamahoning,5914
+193213,Seagrove,5915
+193238,Grandy,5916
+193367,Sylvester,5917
+193394,Kewaskum,5918
+193402,Akeley,5919
+193553,Ohatchee,5920
+193568,Durango,5921
+193739,Denair,5922
+193855,Aliso Viejo,5923
+193972,Castleton On Hudson,5924
+194040,Avonmore,5925
+194041,Falls Creek,5926
+194064,Roaring Spring,5927
+194104,Godwin,5928
+194229,Montgomery City,5929
+194232,Raymore,5930
+194358,Winkelman,5931
+194369,Bandon,5932
+194372,Culver,5933
+194601,East Walpole,5934
+194604,Newton Upper Falls,5935
+194663,Dunstable,5936
+194679,Preston Hollow,5937
+194693,Interlochen,5938
+194794,South Hempstead,5939
+194868,Mattapoisett,5940
+194882,Newbury,5941
+194892,Buffalo Mills,5942
+194927,Burkittsville,5943
+194953,White Hall,5944
+195107,Celina,5945
+195358,Inglis,5946
+195362,Doral,5947
+195673,Moultrie,5948
+195846,Farwell,5949
+195888,Rosemont,5950
+196148,Gordo,5951
+196324,Brookwood,5952
+196368,Pass Christian,5953
+196649,Government Camp,5954
+197307,Freehold,5955
+197329,East Moriches,5956
+197343,Glassport,5957
+197346,South Park,5958
+197348,Bulger,5959
+197372,Earlysville,5960
+197400,Nokesville,5961
+197441,Burgess,5962
+197799,Surfside,5963
+197804,Medley,5964
+198324,Prole,5965
+198417,Cave City,5966
+198996,Kit Carson,5967
+199173,Bethel Island,5968
+199298,Igo,5969
+199328,Tranquillity,5970
+199612,Roulette,5971
+199747,Haddon Heights,5972
+199868,Weedville,5973
+199949,Lithopolis,5974
+200266,North Lauderdale,5975
+200323,Morriston,5976
+200446,Holly Ridge,5977
+200844,Fox River Grove,5978
+201138,Drumright,5979
+201265,Fitzpatrick,5980
+201319,South Houston,5981
+201577,Aumsville,5982
+201811,Orcutt,5983
+202187,Setauket,5984
+202209,Kew Gardens,5985
+202246,Brandy Station,5986
+202469,Grimesland,5987
+202817,Dry Branch,5988
+202851,Treynor,5989
+202885,Kanorado,5990
+202898,Moville,5991
+203187,Cookville,5992
+203315,Nolensville,5993
+203466,Leadville,5994
+203619,Sublimity,5995
+204027,Mancelona,5996
+204049,East Nassau,5997
+204105,West Deptford,5998
+204111,Toughkenamon,5999
+204215,Export,6000
+204240,Manassas Park,6001
+204370,Waldo,6002
+204552,Urbanna,6003
+204658,Cape Canaveral,6004
+205155,Miltona,6005
+205448,Earth,6006
+205460,Port Arthur,6007
+205876,Philomath,6008
+205884,Sprague,6009
+205921,Goldendale,6010
+206376,North Lima,6011
+206492,Isabella,6012
+206552,Guttenberg,6013
+206553,Mcgregor,6014
+206677,Dyersburg,6015
+206705,Lund,6016
+206816,Virginia City,6017
+207122,Lakehurst,6018
+207312,Walcott,6019
+207528,Whitethorn,6020
+207741,Mahwah,6021
+207807,Dry Ridge,6022
+207808,Clay City,6023
+208085,Dutch John,6024
+208141,Whitmore,6025
+208159,Lotus,6026
+208346,Pomfret Center,6027
+208350,Hudson Falls,6028
+208428,Findlay,6029
+208545,Roodhouse,6030
+208681,Watkins,6031
+208696,Kayenta,6032
+208712,Lincoln City,6033
+208954,Winsted,6034
+208965,Woodgate,6035
+209117,Quogue,6036
+209211,Cedarville,6037
+209286,Roan Mountain,6038
+209294,Julian,6039
+209682,Cozad,6040
+209713,International Falls,6041
+209723,Casey,6042
+210001,Saltillo,6043
+210055,Atwood,6044
+210089,Camp Verde,6045
+210114,John Day,6046
+210115,Gates,6047
+210166,Mountain View,6048
+210322,Barker,6049
+210397,Stanfordville,6050
+210432,Jamesville,6051
+210443,Geneseo,6052
+210822,Washington Township,6053
+211076,Poplar Branch,6054
+211105,Valentines,6055
+211222,West Columbia-Cayce,6056
+211649,Battle Lake,6057
+211927,Millry,6058
+212141,Iowa,6059
+212600,Cupertino,6060
+212914,Norton Shores,6061
+212996,Palmerton,6062
+213058,White Oak,6063
+213308,Dolphin,6064
+213393,Miami Springs,6065
+213671,Little Chute,6066
+213677,Clara City,6067
+213711,Moorhead,6068
+213712,Waubun,6069
+214709,Gerber,6070
+214755,Hat Creek,6071
+214756,Los Altos,6072
+214941,Cattaraugus,6073
+215041,Buskirk,6074
+215106,Delaware Water Gap,6075
+215124,Clifton Heights,6076
+215157,Florham Park,6077
+215268,Glenshaw,6078
+215341,New Columbia,6079
+215342,Street,6080
+215488,Elkin,6081
+215651,Accomac,6082
+216190,Fort Atkinson,6083
+216248,Beemer,6084
+216328,Chandler,6085
+216490,Mooreville,6086
+216582,Tylertown,6087
+216827,Ephraim,6088
+216852,Divide,6089
+216877,Rush Valley,6090
+217492,Dowagiac,6091
+217561,Gibbsboro,6092
+217605,Old Tappan,6093
+217625,Haddon Township,6094
+217740,Timberville,6095
+218115,Floral City,6096
+218182,Holmes Beach,6097
+218373,Peachtree Corners,6098
+218538,Kronenwetter,6099
+218550,Theresa,6100
+218552,Kohler,6101
+218655,Northlake,6102
+218671,Center Point,6103
+218677,Peck,6104
+218933,Monahans,6105
+218942,New Concord,6106
+219429,White Bird,6107
+219792,Ionia,6108
+219925,Stumpy Point,6109
+220329,Bellvue,6110
+220338,Pine,6111
+220344,Safford,6112
+220659,Gallitzin,6113
+220754,Gothenburg,6114
+220758,Putnam,6115
+220759,Remer,6116
+220834,Maringouin,6117
+221147,Ossipee,6118
+221299,Malaga,6119
+221340,Garnet Valley,6120
+221558,New Lexington,6121
+221657,Vilas,6122
+221986,Indian Shores,6123
+222236,Roberta,6124
+222362,Osceola,6125
+222369,Deer River,6126
+222427,Dubuque,6127
+223405,Maple Falls,6128
+223816,White River Junction,6129
+224004,Elmer,6130
+224107,Federalsburg,6131
+224166,Sellersburg,6132
+224247,Rogersville,6133
+224929,Fort Benning,6134
+225002,Sacred Heart,6135
+225019,Pine City,6136
+225124,Little Sioux,6137
+225734,Anthem,6138
+225825,Gold Beach,6139
+226152,Mayville,6140
+226198,Provincetown,6141
+226578,Paxinos,6142
+226654,Wilkesville,6143
+226781,Whispering Pines,6144
+226948,Mascotte,6145
+227421,Nebraska City,6146
+227493,Blue Island,6147
+227513,Maquoketa,6148
+227527,San Juan,6149
+227786,Wylie,6150
+228116,Angleton,6151
+228126,La Verkin,6152
+228231,Joseph City,6153
+228382,Wallowa,6154
+228429,Canyon Dam,6155
+229062,Atglen,6156
+229150,Cambridge City,6157
+229224,Napoleon,6158
+229236,South Bloomingville,6159
+229559,Belle Isle,6160
+229630,West Brevard,6161
+230434,Folsom,6162
+230684,Scottsbluff,6163
+230727,Laramie,6164
+230856,Hatch,6165
+230869,Tangent,6166
+230926,San Gregorio,6167
+231253,Scarborough,6168
+231278,Laingsburg,6169
+231284,Eagle,6170
+231400,Linfield,6171
+231440,Verbank,6172
+231501,Teaticket,6173
+231612,Schererville,6174
+231690,Birchwood,6175
+231880,Dewitt,6176
+232436,Davis City,6177
+232553,Keystone,6178
+233246,Grand Canyon,6179
+233270,Lakeside,6180
+233330,Naselle,6181
+233446,Silverpeak,6182
+233670,Wevertown,6183
+233676,Greene,6184
+233743,Millerstown,6185
+233998,Firth,6186
+234020,Mohave Valley,6187
+234042,Port Orford,6188
+234325,Greenland,6189
+234426,McKeesport,6190
+234436,Shade Gap,6191
+234450,Rappahannock Academy,6192
+234578,Nehawka,6193
+234604,Pequot Lakes,6194
+235113,Kinderhook,6195
+235296,Hershey,6196
+235342,Big Pool,6197
+235430,Guysville,6198
+236163,Belgium,6199
+236180,Metamora,6200
+236227,Cedar Falls,6201
+236353,Corpus Christi,6202
+236725,Toone,6203
+236898,Roll,6204
+236948,Cornville,6205
+236988,Riley,6206
+237033,Union Gap,6207
+237035,Nehalem,6208
+237222,Pine Mountain Club,6209
+237401,Sudbury,6210
+237456,Endicott,6211
+237646,Garfield,6212
+237661,Montclair,6213
+237723,Linville,6214
+237756,Upperco,6215
+237802,Mohnton,6216
+237803,Covesville,6217
+237896,Orient,6218
+238151,Barco,6219
+238209,Lauderdale By The Sea,6220
+238628,Black Creek,6221
+238726,Great Lakes,6222
+239226,Humboldt,6223
+239421,Carr,6224
+239432,Hobbs,6225
+239528,Broadbent,6226
+239720,Belvedere Tiburon,6227
+239977,Doylestown,6228
+240097,Frontenac,6229
+240121,Mahnomen,6230
+240428,Mad River,6231
+240836,Truro,6232
+240862,Elburn,6233
+240963,Turrell,6234
+241346,Vermontville,6235
+241358,Penn Yan,6236
+241426,Pocono Pines,6237
+241514,Westerly,6238
+241522,New Springfield,6239
+241710,North Wilkesboro,6240
+241821,Ivor,6241
+241847,Gloucester Point,6242
+241862,Canal Point,6243
+242186,Salley,6244
+242232,Paxton,6245
+242272,Brady,6246
+242306,Centerview,6247
+242340,Osakis,6248
+242626,Shamrock,6249
+243042,Algodones,6250
+243143,Briones,6251
+243422,Center Sandwich,6252
+243482,Diamond Point,6253
+243483,Bellows Falls,6254
+243492,Lake Luzerne,6255
+243535,Succasunna,6256
+243646,Sea Bright,6257
+243656,Glen Ridge,6258
+243657,Teterboro,6259
+243675,Aspinwall,6260
+243725,Fort Belvoir,6261
+243917,Roxboro,6262
+243919,Eagle Rock,6263
+243951,Shady Spring,6264
+244122,Sunny Isles Beach,6265
+244461,Eatonton,6266
+244499,Roopville,6267
+244502,Owensville,6268
+244529,Knapp,6269
+244630,Monee,6270
+244707,Hale Center,6271
+245019,Steele,6272
+245130,Lapine,6273
+245853,River Rouge,6274
+245888,Bolton Landing,6275
+245909,Middle Grove,6276
+245975,Glen Cove,6277
+245984,Kendall Park,6278
+245997,Monmouth Beach,6279
+246089,Dravosburg,6280
+246096,Scenery Hill,6281
+246180,Russiaville,6282
+246251,Swanton,6283
+246263,Almond,6284
+246773,Mc Rae Helena,6285
+246865,Clarkfield,6286
+246989,La Grange Park,6287
+247614,Happy Jack,6288
+247901,Biggs,6289
+247915,Fall River Mills,6290
+248122,West Newbury,6291
+248184,Barre,6292
+248198,Newfane,6293
+248200,Tivoli,6294
+248322,Atlantic Highlands,6295
+248397,Mc Gaheysville,6296
+248726,Mc Adenville,6297
+248750,State Road,6298
+248859,Three Chopt,6299
+248973,Zellwood,6300
+249266,Carrabelle,6301
+249424,Boulder Junction,6302
+249425,Elbow Lake,6303
+250250,Arch Cape,6304
+250375,Mount Shasta,6305
+250545,East Concord,6306
+250584,Genesee,6307
+250611,Wynantskill,6308
+250707,New Tripoli,6309
+250741,Mount Ephraim,6310
+251196,Cove City,6311
+251561,Graceville,6312
+251603,Daniel Island,6313
+251752,Mchenry,6314
+251785,Sarcoxie,6315
+251786,Bonnieville,6316
+252022,Goldsmith,6317
+252317,Mangum,6318
+252341,Marysvale,6319
+252679,Hamilton City,6320
+252995,Osceola Mills,6321
+253006,Fallentimber,6322
+253087,Cadott,6323
+253157,Braman,6324
+253265,Rumsey,6325
+253378,Wenham,6326
+253441,Clay,6327
+253541,Fairless Hills,6328
+253611,Stanardsville,6329
+253770,Nashport,6330
+254042,South Bay,6331
+254204,Watkinsville,6332
+254537,Boyd,6333
+254564,Carter Lake,6334
+255010,Lottie,6335
+255128,Hughes,6336
+255246,Indian Springs,6337
+255482,Grouse Creek,6338
+255641,Garibaldi,6339
+255748,Loma Mar,6340
+255868,Williamsville,6341
+255958,Stittville,6342
+255961,Grand Haven,6343
+256024,Upper Chichester,6344
+256037,Westampton,6345
+256061,Prospect Park,6346
+256072,Shrub Oak,6347
+256147,Saltsburg,6348
+256321,Buckeye Lake,6349
+256972,Bremen,6350
+257103,Monona,6351
+257134,Davis Junction,6352
+257179,Cape Girardeau,6353
+257605,Olive Branch,6354
+257694,Eastaboga,6355
+257832,Santa Fe,6356
+258042,Santo Domingo Pueblo,6357
+258062,Talent,6358
+258067,Walterville,6359
+258259,Dunlap,6360
+258494,Franconia,6361
+258511,Zeeland,6362
+258591,East Rockaway,6363
+258615,Dunellen,6364
+258929,Gladys,6365
+259101,South Miami,6366
+259327,Mayo,6367
+259520,Isle,6368
+259548,Camanche,6369
+259867,Henryetta,6370
+260132,Kanarraville,6371
+260195,Koosharem,6372
+260381,Welches,6373
+260393,Chilcoot,6374
+261060,Center Moriches,6375
+261171,Spencerville,6376
+261179,Royal Center,6377
+261341,Vansant,6378
+261841,Chinquapin,6379
+261862,Brooker,6380
+261869,Neptune Beach,6381
+261964,Illiopolis,6382
+261972,Cadet,6383
+261998,Saint Bonifacius,6384
+262026,Manteno,6385
+262148,Palos Park,6386
+262183,Mulvane,6387
+262230,Purcell,6388
+262274,Rio Hondo,6389
+262561,Odenville,6390
+262876,Camas Valley,6391
+263232,East Amherst,6392
+263279,Valley Falls,6393
+263353,Cranbury,6394
+263382,Paulsboro,6395
+263385,Kresgeville,6396
+263439,Hainesport,6397
+263440,Point Pleasant Beach,6398
+263550,Adelphi,6399
+263605,North Royalton,6400
+263823,Pinetops,6401
+264159,Shallotte,6402
+264562,Cedar Park-Liberty Hill,6403
+264758,Canyon,6404
+264879,Paradis,6405
+264970,Higdon,6406
+265132,Pocatello,6407
+265169,Skull Valley,6408
+265191,Julesburg,6409
+265248,Pima,6410
+265325,Oak Harbor,6411
+265342,Heppner,6412
+265471,Point Arena,6413
+265635,Center Harbor,6414
+265699,Blackstone,6415
+265708,Southwick,6416
+265711,Mooers Forks,6417
+265738,Big Rapids,6418
+265825,Villas,6419
+265855,Wind Gap,6420
+265894,Sharon Hill,6421
+266006,Hummelstown,6422
+266020,Addyston,6423
+266096,Apison,6424
+266821,Henriette,6425
+267212,Cunningham,6426
+267446,Clarkdale,6427
+267934,Rochdale,6428
+267951,Deansboro,6429
+267953,Ravena,6430
+267954,Lake Katrine,6431
+267986,West Sayville,6432
+268025,Schnecksville,6433
+268076,South Fallsburg,6434
+268093,Cliffwood,6435
+268138,Orwell,6436
+268148,Cranberry,6437
+268187,Lykens,6438
+268207,West Terre Haute,6439
+268219,Greens Fork,6440
+268317,Hurdle Mills,6441
+268385,Galax,6442
+268870,Pansey,6443
+268924,Oklee,6444
+268938,Young America,6445
+269469,Splendora,6446
+269534,Model,6447
+269552,Stratton,6448
+269686,Mill City,6449
+269702,Royal City,6450
+269986,Ridgecrest,6451
+269988,Getzville,6452
+270056,Levering,6453
+270069,Harwinton,6454
+270070,Newport Center,6455
+270077,Becket,6456
+270119,Locust Valley,6457
+270413,Vincennes,6458
+270589,Nags Head,6459
+271079,East Dublin,6460
+271101,Glenbeulah,6461
+271781,Luke Air Force Base,6462
+272300,Montague,6463
+272357,Cornwall,6464
+272389,Hope Valley,6465
+272398,Cochranton,6466
+272449,Mishawaka,6467
+272623,Cortez,6468
+272632,Bradenton Beach,6469
+272806,Hopedale,6470
+272855,Granger,6471
+273090,Alvin,6472
+273140,East Carbon,6473
+273180,Bouse,6474
+273244,Darrington,6475
+273251,Wheeler,6476
+273274,Pescadero,6477
+273429,Eastham,6478
+273441,Owosso,6479
+273489,Accord,6480
+273501,Hornell,6481
+273587,Wanaque,6482
+273661,Mount Rainier,6483
+273992,Redington Beach,6484
+274264,Curtis,6485
+274275,Swatara,6486
+274604,Mount Hope,6487
+274801,Cloudcroft,6488
+274819,Halfway,6489
+274836,Otis Orchards,6490
+274922,Berry Creek,6491
+275204,Blowing Rock,6492
+275490,Penrose,6493
+275536,North Fork,6494
+275809,Kersey,6495
+275866,Faison,6496
+275995,Twin City,6497
+276032,Hollandale,6498
+276056,Pine River,6499
+276066,Morse,6500
+276131,Buffalo Valley,6501
+276156,Eckert,6502
+276160,Mc Clave,6503
+276161,Hasty,6504
+276270,Grover Beach,6505
+276435,West Boylston,6506
+276457,Hart,6507
+276864,Seven Springs,6508
+277205,Mc Connells,6509
+277307,Mexico Beach,6510
+277398,Juneau,6511
+277407,Wever,6512
+277720,Epes,6513
+278262,Paicines,6514
+278503,Maryland,6515
+278608,High Bridge,6516
+278612,Washingtonville,6517
+278787,Gas City,6518
+279068,North Palm Beach,6519
+279455,Mountain Lake,6520
+279457,Fulda,6521
+279500,Stilwell,6522
+279548,Chanute,6523
+279750,Thibodaux,6524
+279798,Lisman,6525
+279843,Beggs,6526
+280013,New Caney,6527
+280652,Alexandria Bay,6528
+280728,Pine Bush,6529
+280747,West Collingswood,6530
+280783,Green Brook,6531
+280784,Glenmoore,6532
+280798,Speonk,6533
+280960,Loudonville,6534
+280968,Columbus Grove,6535
+281121,Church View,6536
+281128,Robersonville,6537
+281416,Steinhatchee,6538
+281618,Mount Carroll,6539
+281894,Toxey,6540
+281945,Wills Point,6541
+282044,Shenandoah,6542
+282709,Saint Helen,6543
+282736,Stowe,6544
+283443,Roseboro,6545
+283715,Onarga,6546
+283796,Merna,6547
+283803,Clarkson,6548
+284109,Bourg,6549
+284129,Vestavia,6550
+284202,Kiln,6551
+284581,Zenia,6552
+284829,Cadyville,6553
+284842,Great Barrington,6554
+285022,Baltic,6555
+285035,Mount Solon,6556
+285069,Indian Head,6557
+285143,Fountain City,6558
+285172,Wilder,6559
+285817,Princeville,6560
+285960,Chickasha,6561
+286220,Proctor,6562
+286303,Union Springs,6563
+286562,Newman Lake,6564
+286584,Ione,6565
+287044,West Milford,6566
+287294,Danforth,6567
+287492,Meacham,6568
+287705,Goodells,6569
+287759,Corsica,6570
+287960,Percival,6571
+288031,Wildersville,6572
+288111,Stayton,6573
+288136,Amboy,6574
+288156,Butte City,6575
+288320,Medfield,6576
+288387,Feura Bush,6577
+288417,Pavilion,6578
+288535,Manasquan,6579
+288599,Callao,6580
+288646,Leo,6581
+288677,New Richmond,6582
+288806,Richlands,6583
+288893,Aulander,6584
+288951,Dendron,6585
+289121,Lakewood Ranch,6586
+289455,New Richland,6587
+289500,Watson,6588
+289567,Fair Grove,6589
+289896,District 21,6590
+290158,Kaibeto,6591
+290882,Long Beach Township,6592
+291033,Fountaintown,6593
+291138,Lenoir,6594
+291308,Kilmarnock,6595
+291320,Belhaven,6596
+291676,Clintonville,6597
+291716,Wahoo,6598
+291846,Carbondale,6599
+291858,Lampasas,6600
+291881,Beebe,6601
+292112,East Bernard,6602
+292491,Azalea,6603
+292492,Shaniko,6604
+292493,Sisters,6605
+292937,Sabinsville,6606
+293039,Cresco,6607
+293115,Boyers,6608
+293118,Peninsula,6609
+293123,Mckeesport,6610
+293157,Adamstown,6611
+293158,New Park,6612
+293169,New Carrollton,6613
+293346,Signal Mountain,6614
+293397,Lincolnton,6615
+293472,Elm City,6616
+294035,South Barrington,6617
+294530,Menard,6618
+294566,Manzanola,6619
+294697,Aztec,6620
+294714,Athol,6621
+294826,Palermo,6622
+295145,West Wareham,6623
+295179,Shelby Township,6624
+295475,Cammal,6625
+295506,District 17 Chillum,6626
+295753,Elizabeth City,6627
+296573,Sweetwater,6628
+296581,Hooks,6629
+296587,Inez,6630
+296764,Talladega,6631
+297373,Conneaut,6632
+297384,Topsfield,6633
+297539,Albertson,6634
+297574,Sea Cliff,6635
+297582,Mountainside,6636
+297627,Braddock,6637
+297722,Mifflin,6638
+297779,Dillsboro,6639
+297839,Long Island,6640
+297905,Glen Lyn,6641
+298301,Cape Carteret,6642
+298395,Hurtsboro,6643
+298403,Adams Run,6644
+298480,Fairchild,6645
+299082,Kilgore,6646
+299362,South Lake Tahoe,6647
+299732,Turtlepoint,6648
+299917,Cherry Log,6649
+300016,Pleasant Dale,6650
+300048,Bates City,6651
+300109,Hayti,6652
+300269,Crescent Mills,6653
+300292,Piercy,6654
+301115,Tawas City,6655
+301210,Port Penn,6656
+301269,Greenfield Park,6657
+301322,Dennis Port,6658
+301329,Ravenna,6659
+301334,Bentleyville,6660
+301455,Dunbar,6661
+301987,Shorterville,6662
+302173,Aldrich,6663
+302176,Rochelle,6664
+303172,Rixford,6665
+303242,Morrice,6666
+303269,Swanzey,6667
+303375,Oradell,6668
+303400,Stirling,6669
+303422,Union Beach,6670
+303425,Long Pond,6671
+303695,Star,6672
+304315,New Lisbon,6673
+304757,Sealy,6674
+304783,Gramercy,6675
+304794,Thompsons Station,6676
+304996,Chugwater,6677
+305396,California City,6678
+305634,Bushkill,6679
+305721,Bozrah,6680
+305736,Bakerstown,6681
+305790,Poolesville,6682
+305902,Robbinsville,6683
+306530,Sheboygan Falls,6684
+306532,Horicon,6685
+306692,Ozona,6686
+306742,Rosebud,6687
+306766,Crowley,6688
+306871,Gray,6689
+307308,Lovington,6690
+307435,Depoe Bay,6691
+307490,Smith,6692
+307828,Barkhamsted,6693
+307924,Red Hill,6694
+307939,East Williston,6695
+308015,Wallington,6696
+308043,Carmichaels,6697
+308107,Naval Anacost Annex,6698
+308270,Bastian,6699
+308763,Buckhead,6700
+308810,Lake Wilson,6701
+308883,Randall,6702
+309165,Reform,6703
+309168,Zavalla,6704
+309323,Sibley,6705
+309462,Antimony,6706
+309918,Clarence Center,6707
+309928,Holliston,6708
+310034,Horseheads,6709
+310097,Airmont,6710
+310110,Millwood,6711
+310185,Creighton,6712
+310187,Saxonburg,6713
+310244,Manns Choice,6714
+310309,Rushville,6715
+310680,Duette,6716
+311075,Winterset,6717
+311233,Crossroads,6718
+311360,Port Bolivar,6719
+311529,Hickory Flat,6720
+311806,Vida,6721
+312176,Hague,6722
+312218,Parsonsburg,6723
+312489,Faucett,6724
+312511,Del City,6725
+312648,Selah,6726
+312851,Toluca Lake,6727
+312992,Stilesville,6728
+313316,Tiller,6729
+313329,Skokomish Nation,6730
+313398,Korbel,6731
+313575,Frederic,6732
+313699,Lincroft,6733
+313794,Eskdale,6734
+313795,Delmont,6735
+313799,Russellton,6736
+313995,Stanley,6737
+314110,House Creek,6738
+314280,Treasure Island,6739
+314495,Isle Of Palms,6740
+314995,Lawley,6741
+315329,Alviso,6742
+315892,Sanders,6743
+316623,Muscatine,6744
+316841,Rocksprings,6745
+317122,Palisade,6746
+317165,Gill,6747
+317253,Brothers,6748
+317278,Northwest Clackamas,6749
+317584,Devens,6750
+317704,Pocomoke City,6751
+317768,Haledon,6752
+317814,Hydes,6753
+318240,Coral Gables,6754
+318553,Hatley,6755
+318608,Mayview,6756
+318644,Anita,6757
+318706,Dripping Springs,6758
+318860,Eddy,6759
+318908,Silverhill,6760
+318990,Gilmore,6761
+319077,Valparaiso,6762
+319078,Pisgah,6763
+319110,La Marque,6764
+319187,Uvalde,6765
+319650,East Aurora,6766
+319939,Landing,6767
+319944,East Quogue,6768
+319960,Shaker Heights,6769
+319970,Avella,6770
+319981,Littlestown,6771
+320679,Cataula,6772
+320754,Ottawa,6773
+321971,Jenison,6774
+321975,Bridgman,6775
+322009,Arverne,6776
+322027,Pittstown,6777
+322191,Galeton,6778
+322240,North Beach,6779
+322659,Yalaha,6780
+323140,Gibson,6781
+323477,Newbern,6782
+324174,Kawkawlin,6783
+324244,Madisonburg,6784
+324464,West Frankfort,6785
+324730,Skamokawa,6786
+324731,Ethel,6787
+324753,Ravendale,6788
+325427,Toutle,6789
+325696,Rumney,6790
+325926,Wittman,6791
+325971,Hollidaysburg,6792
+326103,Hardy,6793
+326377,Lake Alfred,6794
+326976,Okemah,6795
+327209,Pollok,6796
+327285,Keenesburg,6797
+327429,Idleyld Park,6798
+327444,Spangle,6799
+327807,White Lake,6800
+327899,Longport,6801
+327913,Manville,6802
+327975,Forked River,6803
+328133,Fredericktown,6804
+328258,Stanleytown,6805
+328547,Jensen Beach,6806
+328667,Whiteville,6807
+328825,Ina,6808
+328902,Fonda,6809
+329421,Alamosa,6810
+329632,Port Hadlock,6811
+329659,O Neals,6812
+330154,Scotch Plains,6813
+330307,Church Hill,6814
+330396,Gatlinburg,6815
+330404,Claremont,6816
+331001,Fort Mitchell,6817
+331039,Portal,6818
+331156,Belgrade,6819
+331493,Skiatook,6820
+331910,Alsea,6821
+331928,Grapeview,6822
+332333,Indian River,6823
+332394,Menands,6824
+332396,South Grafton,6825
+332422,Gulliver,6826
+332443,Grosse Pointe Farms,6827
+332496,Parlin,6828
+332732,Furlong,6829
+332767,Moscow,6830
+332795,South Chatham,6831
+332860,Washington Boro,6832
+333033,Rising Sun,6833
+333045,Campbellsburg,6834
+333099,Lorain,6835
+333108,Scott Depot,6836
+333537,Lucama,6837
+333775,Big Pine Key,6838
+334471,Nemaha,6839
+334482,Okawville,6840
+334518,Lester Prairie,6841
+335383,Coahoma,6842
+336195,Chinle,6843
+336221,Culdesac,6844
+336594,Bell Canyon,6845
+337188,Kettle River,6846
+337194,Minooka,6847
+337246,Alleyton,6848
+337423,Hidden Valley Lake,6849
+337584,Cairo,6850
+337643,Forksville,6851
+338292,Barneveld,6852
+338434,Vincentown,6853
+338563,Ladoga,6854
+338931,Summerland Key,6855
+339207,Camilla,6856
+339301,Balaton,6857
+340119,Vado,6858
+340265,West Contra Costa,6859
+340482,Cheektowaga,6860
+340576,Sylvan Beach,6861
+340645,Belle Mead,6862
+340773,Jane Lew,6863
+340893,Huntertown,6864
+340988,Bulls Gap,6865
+341173,Sims,6866
+341182,Manteo,6867
+341400,Burgaw,6868
+341686,Lomira,6869
+342377,Quitman,6870
+342588,White Sands Missile Range,6871
+342699,Grizzly Flats,6872
+342780,Lookout,6873
+343047,Voorheesville,6874
+343153,Lake Hopatcong,6875
+343165,Emerson,6876
+343182,Princess Anne,6877
+343294,Shermans Dale,6878
+343311,Millheim,6879
+343394,Arcanum,6880
+343424,Hiddenite,6881
+343582,Winterville,6882
+345086,Tekoa,6883
+345566,Pennington,6884
+346411,Fort Stewart,6885
+347158,Pinehurst,6886
+347389,Truth or Consequences,6887
+347395,Teec Nos Pos,6888
+347798,Saranac,6889
+347831,Westerlo,6890
+347922,Stormville,6891
+348191,Boomer,6892
+348450,Kelford,6893
+349020,Fort Dodge,6894
+349043,Atalissa,6895
+349320,Coyanosa,6896
+350258,Fort Thomas,6897
+350312,Valley Head,6898
+350382,Wabasha,6899
+350823,Cassadaga,6900
+350925,Ticonderoga,6901
+350954,Sodus,6902
+351261,Germanton,6903
+351278,Mountain City,6904
+351347,Staffordsville,6905
+351900,Camp Douglas,6906
+351902,Slayton,6907
+352318,Boutte,6908
+352353,Moulton,6909
+352709,Rosburg,6910
+352737,Crystal Bay,6911
+353178,Tioga,6912
+353275,Brooklawn,6913
+353458,Spruce Creek,6914
+354068,Abbotsford,6915
+354167,Isanti,6916
+354581,Joiner,6917
+354645,Kimberly,6918
+354793,Pioche,6919
+355007,Rescue,6920
+355365,Angola,6921
+355463,Clifton Springs,6922
+355578,Kenna,6923
+355622,Mooreland,6924
+355648,Shiloh,6925
+355741,Macclesfield,6926
+356043,Holmen,6927
+356079,Rockwell City,6928
+356450,Castalian Springs,6929
+356792,Redway,6930
+357107,Kirkville,6931
+357333,Stuarts Draft,6932
+357342,Ambridge,6933
+357509,Wilkesboro,6934
+357887,Chadbourn,6935
+358096,Nashwauk,6936
+358157,Franklin Grove,6937
+358490,Phil Campbell,6938
+358492,Wagarville,6939
+358662,Haleyville,6940
+358853,Munds Park,6941
+358900,Whiteriver,6942
+359089,Diablo,6943
+359136,Luning,6944
+360056,Boca Grande,6945
+360550,Jeffers,6946
+360557,Sparland,6947
+360570,Indianola,6948
+361359,Many Farms,6949
+361502,Cassel,6950
+361554,Dillon Beach,6951
+361856,Hollsopple,6952
+362003,Madeira Beach,6953
+362193,Comanche,6954
+362381,Winlock,6955
+362879,Eastland,6956
+363005,Brinnon,6957
+363596,Saint Michaels,6958
+363717,Flag Pond,6959
+363737,Newland,6960
+363749,Elon,6961
+363786,Pounding Mill,6962
+364271,Lizella,6963
+364332,Marseilles,6964
+364348,Pengilly,6965
+364371,Laona,6966
+364834,Coushatta,6967
+364842,Palestine,6968
+365018,City Of Spokane Valley,6969
+365547,High Falls,6970
+365973,West End,6971
+366595,Mondovi,6972
+366723,Urbana,6973
+366814,Fort Hood,6974
+367115,Richton,6975
+367225,Willow Beach,6976
+367502,Montara,6977
+367768,Marblehead,6978
+367827,Goffstown,6979
+367831,Meredith,6980
+367844,Potsdam,6981
+367922,Laurelton,6982
+368124,Maugansville,6983
+368397,Exmore,6984
+368848,Carmi,6985
+368949,Early,6986
+369490,Hot Sulphur Springs,6987
+369903,Temple City,6988
+370110,North Brookfield,6989
+370127,Sand Lake,6990
+370221,Congers,6991
+370296,Skillman,6992
+370330,Hillsborough,6993
+370394,Kunkletown,6994
+370443,Indiana,6995
+370759,Mattaponi,6996
+371160,Broxton,6997
+372192,Playa Del Rey,6998
+372444,Middleburgh,6999
+372534,Falls,7000
+372619,Princeton Junction,7001
+372666,Charleroi,7002
+373365,Riceboro,7003
+373771,Coden,7004
+373899,Culleoka,7005
+374035,De Beque,7006
+374308,Calpine,7007
+374321,Dos Palos,7008
+374791,Rosman,7009
+375255,Colma,7010
+375522,Painter,7011
+375612,Baconton,7012
+375824,Tonto Basin,7013
+376061,Basom,7014
+376063,Fredonia,7015
+376076,Central Falls,7016
+376081,Sherborn,7017
+376142,Antrim,7018
+376152,Warnerville,7019
+376161,Hagaman,7020
+376312,Bernardsville,7021
+376409,Pitcairn,7022
+376421,Newton Falls,7023
+376449,District 2 Frederick,7024
+376502,White Post,7025
+377213,Eastpoint,7026
+377223,Skipperville,7027
+377854,Banner,7028
+378423,Waban,7029
+378494,Poestenkill,7030
+378527,Yale,7031
+379016,Vass,7032
+379982,Hurricane Mills,7033
+379986,Buhl,7034
+380289,Ivins,7035
+380502,Chimacum,7036
+380532,Midpines,7037
+380982,Tillson,7038
+380985,Fort Plain,7039
+380988,Sturgis,7040
+381103,Whippany,7041
+381104,Bogota,7042
+381210,Baden,7043
+381483,Ahoskie,7044
+381667,Patrick AFB,7045
+381983,Bena,7046
+382027,Johnsburg,7047
+382524,Petal,7048
+383264,Oakfield,7049
+383478,Natrona Heights,7050
+384437,Goose Lake,7051
+384932,La Jara,7052
+385116,Fossil,7053
+385226,Sierraville,7054
+385487,West Seneca,7055
+385575,Alger,7056
+385596,Chaplin,7057
+385903,Clifton Township,7058
+385962,Green Spring,7059
+386037,Birdseye,7060
+386235,Chocowinity,7061
+386445,Riegelwood,7062
+386551,Morven,7063
+386658,Bell,7064
+386663,Metter,7065
+386807,Cotton,7066
+386909,Millsap,7067
+387106,Ethelsville,7068
+387337,Panaca,7069
+387701,Ragged Point,7070
+388054,Gibsonville,7071
+388677,Sprakers,7072
+388754,Maurertown,7073
+388848,Hubert,7074
+388860,Silver Creek,7075
+388945,New Florence,7076
+388955,Sebeka,7077
+389017,Osyka,7078
+389022,West Blocton,7079
+389059,Parachute,7080
+389371,Wassaic,7081
+389511,Wurtsboro,7082
+389520,Whaleyville,7083
+389565,Tomkins Cove,7084
+389612,Scotland,7085
+389684,Sunderland,7086
+389712,Tennyson,7087
+389893,Ferrum,7088
+389952,Grantsboro,7089
+390056,Union Park,7090
+390159,Ball Ground,7091
+390369,Hawkinsville,7092
+390370,Americus,7093
+390457,Pipestone,7094
+390498,Saint Elmo,7095
+390797,Only,7096
+390807,Keatchie,7097
+390904,Flomaton,7098
+391440,Potter Valley,7099
+391908,Rose Valley,7100
+391937,Oakmont,7101
+392039,Edon,7102
+392090,Tallassee,7103
+392179,Surry,7104
+392603,Oconto,7105
+392644,Peshtigo,7106
+392696,Cable,7107
+393136,Inlet Beach,7108
+393453,Duvall,7109
+393483,Seaview,7110
+393872,Staatsburg,7111
+393875,Inlet,7112
+394488,Topping,7113
+394524,Ocean Ridge,7114
+394912,Raiford,7115
+395018,Madelia,7116
+395337,Eola,7117
+395531,Rockvale,7118
+395787,Shiprock,7119
+395836,Prosser,7120
+395936,East Tehama,7121
+396154,Playa Vista,7122
+396480,Washington Court House,7123
+396928,Molena,7124
+397026,Harwood Heights,7125
+397062,Los Fresnos,7126
+397540,Caballo,7127
+397939,Gloversville,7128
+398174,Broadlands,7129
+398302,Curtice,7130
+398324,La Follette,7131
+398449,Kittrell,7132
+398887,Vidalia,7133
+398915,Wedowee,7134
+398958,Bourbon,7135
+399913,Montgomery Creek,7136
+399994,San Simeon,7137
+400304,Ramseur,7138
+400507,Hinesville,7139
+400610,Norridge,7140
+401021,Saegertown,7141
+401095,Newton Grove,7142
+401214,Blackduck,7143
+401221,West Concord,7144
+401238,Coleraine,7145
+401424,Gypsum,7146
+401649,Inyokern,7147
+401972,Triadelphia,7148
+401985,Penn Laird,7149
+401989,Slippery Rock,7150
+402064,Wyomissing,7151
+402136,Tryon,7152
+402275,Skipwith,7153
+402397,Old Town,7154
+402704,Chula,7155
+402779,Potosi,7156
+402893,Hallsville,7157
+402958,Mingo,7158
+403265,Braxton,7159
+403360,Red Level,7160
+403906,Imperial Beach,7161
+404361,Albia,7162
+404429,Guthrie,7163
+404524,Hill AFB,7164
+404620,Plumas Lake,7165
+404841,Sparrow Bush,7166
+404924,Capron,7167
+405014,Folkston,7168
+405126,Mantachie,7169
+405150,Heth,7170
+405528,Brewerton,7171
+405654,Pikeville,7172
+405793,Murdock,7173
+406186,Sault Sainte Marie,7174
+406440,West Farmington,7175
+406517,Orwigsburg,7176
+406527,Waddy,7177
+406576,Morehead,7178
+406653,Mount Gilead,7179
+407061,Due West,7180
+407102,Laurinburg,7181
+407815,White Bluff,7182
+408514,North Weymouth,7183
+408702,Franklin Square,7184
+408780,Newington,7185
+408862,Crystal Spring,7186
+409216,Belleair Bluffs,7187
+409673,Neodesha,7188
+410124,Arkadelphia,7189
+410787,West Bloomfield,7190
+410825,Douglas,7191
+410836,Stuyvesant,7192
+410871,Irondequoit,7193
+410910,Corbin City,7194
+411033,Tiverton,7195
+411164,Saint Paris,7196
+411332,Rich Square,7197
+413162,North Clarendon,7198
+413180,Berrien Springs,7199
+413216,Canandaigua,7200
+413273,Rock Tavern,7201
+413282,Glen Gardner,7202
+413307,Ocean Grove,7203
+413492,Sale Creek,7204
+413607,Buffalo Junction,7205
+414466,Tallulah,7206
+414615,Bentonia,7207
+414879,Meeteetse,7208
+415594,Bath,7209
+415724,Mount Royal,7210
+415808,Blawnox,7211
+416020,Browns Summit,7212
+416778,Middle Brook,7213
+417141,Fyffe,7214
+417155,Nettleton,7215
+417443,Turner,7216
+417483,Salkum,7217
+418023,Vonore,7218
+418143,Durant,7219
+418607,Barnegat,7220
+418704,Jellico,7221
+418739,Cedar Key,7222
+419004,Twin Bridges,7223
+419179,Olcott,7224
+419485,Temperanceville,7225
+420797,Mulga,7226
+421102,Brier,7227
+421567,Sandisfield,7228
+421796,Newmanstown,7229
+421832,Hawk Run,7230
+422008,Check,7231
+422306,Winnabow,7232
+422453,Pavo,7233
+422698,Maumelle,7234
+422748,Abbott,7235
+423354,Nine Mile Falls,7236
+423377,Coupeville,7237
+423396,Walla Walla,7238
+423844,Moriah,7239
+423906,Hopatcong,7240
+423995,Hardwick,7241
+424073,Vineyard Haven,7242
+424208,Bucyrus,7243
+424364,King and Queen Court House,7244
+424369,Pamplin,7245
+424862,Clontarf,7246
+424951,Bee Cave,7247
+425180,Millport,7248
+425561,Fruit Heights,7249
+425601,Snowflake,7250
+426278,Swiftwater,7251
+426309,Nazareth,7252
+426467,Nanticoke,7253
+426563,De Mossville,7254
+427097,Maxton,7255
+427619,Red Bay,7256
+429107,Waldron,7257
+429162,Mooresboro,7258
+429783,Lacon,7259
+429804,Darwin,7260
+429902,Eddyville,7261
+429917,Alice,7262
+430213,Trumann,7263
+431071,Laceyville,7264
+431173,Rougemont,7265
+431204,Florida City,7266
+431386,Concordia,7267
+431881,Ithaca,7268
+431896,Haydenville,7269
+432249,Avoca,7270
+432284,Cuero,7271
+432312,Hamshire,7272
+432361,Clute,7273
+433201,Osterville,7274
+433233,Saint Stephens Church,7275
+433244,Pequea,7276
+433449,Township 6 Clear Creek,7277
+433498,Big Island,7278
+434061,Curtiss,7279
+434076,Nevis,7280
+434216,Church Point,7281
+434452,Sardis,7282
+434656,Empire,7283
+435256,Findley Lake,7284
+435272,Kittery,7285
+435539,Concord Twp,7286
+435639,Laura,7287
+435739,Purlear,7288
+436473,River Forest,7289
+436479,Kennard,7290
+436482,Broadview,7291
+436605,Southwest Dallas,7292
+436765,Camp Wood,7293
+437070,Minturn,7294
+437129,Merino,7295
+437283,Lovelock,7296
+437780,Ashley Falls,7297
+437884,Pemberton,7298
+438043,Mahanoy City,7299
+438138,Fair Oaks,7300
+438211,Riner,7301
+439030,Bernice,7302
+439279,Widener,7303
+440567,Chalmers,7304
+440671,Oregonia,7305
+442444,Coventry,7306
+442761,Port Deposit,7307
+442800,Bay Village,7308
+442828,Corbin,7309
+442887,Crouse,7310
+442972,Grifton,7311
+443008,Matlacha,7312
+443330,Awendaw,7313
+443413,Nicollet,7314
+443414,Greenleaf,7315
+443515,South Milwaukee,7316
+443857,Bremond,7317
+444762,Wakeman,7318
+444770,Sapphire,7319
+445071,Balmorhea,7320
+445426,Bumpass,7321
+445658,Hot Springs Village,7322
+446158,Archbold,7323
+446608,Plattsmouth,7324
+446624,Harshaw,7325
+446840,Minter,7326
+447263,Corona Del Mar,7327
+447388,Lempster,7328
+447401,Castle Creek,7329
+447596,Karns City,7330
+447612,West Augusta,7331
+448390,Albers,7332
+448442,Merrill,7333
+448502,Elwood,7334
+448560,Adkins,7335
+448883,Vincent,7336
+449764,Gaylordsville,7337
+449855,Pawcatuck,7338
+450674,Richwoods,7339
+450710,Neshkoro,7340
+450846,Santo,7341
+451326,Guffey,7342
+451547,Belden,7343
+452125,Cadiz,7344
+452167,West River,7345
+452348,Cherryville,7346
+452506,Palm Beach,7347
+452983,Renville,7348
+452987,Lyle,7349
+453378,Chauvin,7350
+453382,Lyon,7351
+454410,South Euclid,7352
+454529,Beavercreek,7353
+454859,Saint James City,7354
+455881,Sikeston,7355
+456616,Port Ewen,7356
+456796,Canfield,7357
+456875,Maytown,7358
+457826,Saint Robert,7359
+458091,Waller,7360
+459126,Herminie,7361
+459177,Unionville,7362
+459182,Elkwood,7363
+459427,Louisburg,7364
+459481,King William,7365
+459938,Wadley,7366
+461062,West Hollywood,7367
+461289,Unadilla,7368
+461290,Otego,7369
+462475,Grantsburg,7370
+463079,Weinert,7371
+463101,Collinston,7372
+463222,Yelm,7373
+463660,Berne,7374
+463825,Diamond,7375
+464777,Glen Carbon,7376
+464830,Liberal,7377
+466092,Forestport,7378
+466290,Womelsdorf,7379
+467199,Kaw,7380
+467277,Cibolo,7381
+467528,Mckinney,7382
+467729,Portageville,7383
+468394,Dafter,7384
+468617,Cheswick,7385
+469424,Armington,7386
+469466,Random Lake,7387
+470831,South Deerfield,7388
+472118,Hales Corners,7389
+472890,Summer Lake,7390
+472894,Unity,7391
+473673,Eldorado,7392
+473722,Benbrook,7393
+473925,Challenge,7394
+474198,Blossburg,7395
+474399,Stanchfield,7396
+474403,Zwingle,7397
+474423,Mathis,7398
+474851,Kerhonkson,7399
+475060,Sarver,7400
+475070,Clendenin,7401
+475078,Presto,7402
+475087,Conestoga,7403
+475100,Ickesburg,7404
+475165,Lignum,7405
+475195,Boggstown,7406
+475209,Lynnville,7407
+475972,New Baden,7408
+475988,Brillion,7409
+476029,Lamoni,7410
+476106,Le Mars,7411
+476113,River Grove,7412
+476903,Quilcene,7413
+477478,Township Of Washington,7414
+477571,Pleasant Gap,7415
+477610,Dalmatia,7416
+477614,Ramey,7417
+477715,Mascot,7418
+479564,Prather,7419
+480009,Harwick,7420
+480958,Nerstrand,7421
+480978,Spirit Lake,7422
+481019,Long Lake,7423
+481868,Mica,7424
+481905,Connell,7425
+482362,West Townsend,7426
+482456,Bergenfield,7427
+482489,Rye Brook,7428
+482500,Old Greenwich,7429
+482619,Attica,7430
+483193,Cowarts,7431
+483473,Farmersburg,7432
+483514,Battlefield,7433
+483960,Coweta,7434
+484732,Clarksboro,7435
+484923,Tamaqua,7436
+485031,Russia,7437
+485555,Hallsboro,7438
+485987,Tilden,7439
+486109,Nichols Hills,7440
+486265,Whitewright,7441
+486631,Basalt,7442
+487780,South Prairie,7443
+488383,Killeen,7444
+488478,Waldport,7445
+488491,Bonney Lake,7446
+488815,North Rose,7447
+489090,Highland Heights,7448
+489579,Cedar Bluff,7449
+489714,Meigs,7450
+489994,Maple Park,7451
+490028,Bertram,7452
+491144,North Bennington,7453
+491321,Wernersville,7454
+491442,Elizabethton,7455
+492671,Inola,7456
+492923,Lake Tapps,7457
+493352,Hemlock,7458
+493371,Wilkinsburg,7459
+493443,Upper Saddle River,7460
+493600,Summitville,7461
+494273,Mc Clellanville,7462
+494341,Vesta,7463
+495277,San Geronimo,7464
+495684,Rockleigh,7465
+495716,East Newark,7466
+495769,Wells Tannery,7467
+496051,Disputanta,7468
+496593,Agency,7469
+496595,Lockridge,7470
+496704,Bois D Arc,7471
+497602,Comptche,7472
+498004,Haworth,7473
+498070,Ocean,7474
+498134,Irvona,7475
+499053,Eagle Bend,7476
+499286,El Campo,7477
+500570,La Luz,7478
+500850,Coalport,7479
+500870,Kinsale,7480
+500872,Winona Lake,7481
+501419,Kennebunk,7482
+501474,Alanson,7483
+501512,New Ipswich,7484
+501624,Newfield,7485
+501712,Brockway,7486
+501721,Barclay,7487
+501841,Glenford,7488
+502642,Lecompte,7489
+503049,Blue Mountain,7490
+503299,Forks,7491
+503802,Garwood,7492
+503830,Pilesgrove,7493
+503844,Laurys Station,7494
+503887,Frostburg,7495
+504180,Albemarle,7496
+504232,Dunnsville,7497
+505521,Gillette,7498
+505927,Manhattan Beach,7499
+507261,District F,7500
+507783,Vardaman,7501
+507867,Deer Trail,7502
+507994,Alamogordo,7503
+508542,Jobstown,7504
+508721,Hillsgrove,7505
+508748,Losantville,7506
+509346,Hahira,7507
+510045,Mount Olive,7508
+510314,Estacada,7509
+510896,Perkasie,7510
+510976,Uhrichsville,7511
+510978,Connellsville,7512
+511116,Fraziers Bottom,7513
+512060,Simmesport,7514
+512200,Tonkawa,7515
+512668,Ault,7516
+513231,Keyport,7517
+513534,Ogallala,7518
+513567,Garden Plain,7519
+513621,Brookeland,7520
+513742,Mossyrock,7521
+514014,Cashiers,7522
+514033,Rich Creek,7523
+514348,Tenino,7524
+514564,Omer,7525
+515211,Miami Shores,7526
+515591,Leasburg,7527
+516523,Rancho Dominguez,7528
+517278,Elk Park,7529
+517856,Ambrose,7530
+518008,Hartland,7531
+518011,Jolley,7532
+518113,Plumerville,7533
+518696,Dateland,7534
+519790,Rumford,7535
+519867,South Londonderry,7536
+527165,West Winfield,7537
+529753,Hot Springs,7538
+530561,Silex,7539
+531167,Tropic,7540
+531391,Allyn,7541
+539026,Briggsdale,7542
+551938,Lavallette,7543
+552013,Shoemakersville,7544
+554610,Killbuck,7545
+558979,Kenney,7546
+569532,Meramec,7547
+570648,Jaffrey,7548
+574126,Dunnell,7549
+579178,Sharpsville,7550
+584368,Iuka,7551
+584913,Black Diamond,7552
+585014,Sumas,7553
+585627,Marlow,7554
+587629,Brightwood,7555
+588181,Broad Brook,7556
+588226,Piffard,7557
+588548,Rolling Prairie,7558
+590108,Rawlins,7559
+596420,Sekiu,7560
+597756,Fort Myer,7561
+597997,Township 12 Paw Creek,7562
+600783,Thaxton,7563
+601464,Fall Creek,7564
+602031,Geismar,7565
+602616,Randle,7566
+612264,Pacific Grove,7567
+612380,East Hampstead,7568
+612539,Hubbardston,7569
+612547,Francestown,7570
+612551,Falls Village,7571
+617006,Susquehanna,7572
+617261,Myersville,7573
+617272,Goldvein,7574
+617397,Louisville South,7575
+618163,Larchwood,7576
+618212,Bovey,7577
+618261,Waite Park,7578
+620089,Olin,7579
+620098,Pfafftown,7580
+624650,Pleasant Garden,7581
+625677,Elmira,7582
+625692,Chepachet,7583
+625752,Parish,7584
+629975,Smith River,7585
+630161,Derrick City,7586
+630258,Houghton Lake,7587
+632483,Washtucna,7588
+635090,Mc Carley,7589
+642529,Cresson,7590
+647106,Haslett,7591
+647328,Cuddy,7592
+649844,Amanda,7593
+655108,Rowland,7594
+664448,Van Meter,7595
+668229,Warners,7596
+674731,Andes,7597
+677742,Shickshinny,7598
+680445,Upper Jay,7599
+680706,Modena,7600
+684081,Rock River,7601
+685570,Hermantown,7602
+687266,Fairchance,7603
+687348,Mifflinville,7604
+689979,Crafton,7605
+691961,Bonners Ferry,7606
+691968,Condon,7607
+692035,Shelburne,7608
+692042,Harborcreek,7609
+692064,Fair Haven,7610
+692065,Yarmouth,7611
+692185,Harrells,7612
+692211,Rockmart,7613
+692216,Kelliher,7614
+692224,Rosholt,7615
+692338,Iron City,7616
+692410,Yoncalla,7617
+692459,Crescent Lake,7618
+692476,Otter Rock,7619
+692491,Shedd,7620
+692582,Doyle,7621
+692589,Beckwourth,7622
+692621,Markleeville,7623
+692755,Rough and Ready,7624
+692811,Hydesville,7625
+692853,Alpine Meadows,7626
+693083,Friant,7627
+693671,Kings Canyon National Pk,7628
+694343,Royal,7629
+694344,Colt,7630
+694461,Mulino,7631
+694477,Sumpter,7632
+694571,Alturas,7633
+694768,Johannesburg,7634
+694965,Death Valley,7635
+695101,Woodstown,7636
+695120,Bigfork,7637
+695122,McIntosh,7638
+695129,Bejou,7639
+695130,Loman,7640
+695171,Dubois,7641
+695221,Saint Maries,7642
+695265,Adams,7643
+695780,Hunker,7644
+695906,Grygla,7645
+695909,Chisholm,7646
+695918,Kabetogama,7647
+695946,Wanamingo,7648
+695995,Shoshoni,7649
+696111,Rhododendron,7650
+696159,Eagle Creek,7651
+696190,Dunsmuir,7652
+696211,Gasquet,7653
+696262,Glenhaven,7654
+696333,Castella,7655
+697374,Irasburg,7656
+697563,Callaway,7657
+697588,Paragould,7658
+697692,Vidal,7659
+697747,Lostine,7660
+697821,Brookings,7661
+697873,Echo Lake,7662
+698580,Chichester,7663
+698583,North Hartland,7664
+698885,Saint Paul Park,7665
+698956,New Trier,7666
+699075,Laketown,7667
+699134,Ottertail,7668
+699210,Baudette,7669
+699267,Puposky,7670
+699305,Rangely,7671
+700061,Jenkins,7672
+700084,Lake Lillian,7673
+700086,Brooten,7674
+700119,Bagley,7675
+700127,Solway,7676
+700201,Winger,7677
+700276,Drewsey,7678
+700874,Cape Neddick,7679
+700877,East Kingston,7680
+700885,Coldwater,7681
+700907,Earleville,7682
+700990,Dillard,7683
+701030,Starbuck,7684
+701076,Fosston,7685
+701223,Taopi,7686
+701369,Littlefork,7687
+701566,Grey Eagle,7688
+701690,Rock Springs,7689
+701705,Nampa,7690
+701719,Fall City,7691
+701761,Antelope,7692
+701832,Macdoel,7693
+702400,Kalkaska,7694
+702559,Ogema,7695
+702652,Green Lake,7696
+702968,Shasta,7697
+703192,Onyx,7698
+703432,Loch Sheldrake,7699
+703446,Saco,7700
+703509,Loogootee,7701
+703700,Galesville,7702
+703750,Fordyce,7703
+703757,Rosanky,7704
+703856,Rathdrum,7705
+703870,Warden,7706
+704112,Pilot Hill,7707
+705123,Ragland,7708
+705295,Long Creek,7709
+705739,Davis Creek,7710
+706943,Island Falls,7711
+707109,Silver Bay,7712
+707114,Shevlin,7713
+707205,Viroqua,7714
+707210,Chili,7715
+707213,Pelican Rapids,7716
+707214,Lebo,7717
+707231,Hot Springs National Park,7718
+707238,Stockdale,7719
+707325,Bruneau,7720
+707349,Helix,7721
+707354,Brogan,7722
+707401,Spray,7723
+708413,Paragon,7724
+708525,Beaver Dam,7725
+708540,Kerkhoven,7726
+708564,Swanville,7727
+708659,Van Buren,7728
+708694,Bozeman,7729
+708738,Shoshone,7730
+708765,Payette,7731
+708790,Fort Rock,7732
+708826,Omak,7733
+708869,Haines,7734
+709858,Faulkner,7735
+709879,Barney,7736
+709960,Spanish Fort,7737
+709961,State Line,7738
+710606,Lone Pine,7739
+710948,Sandy Creek,7740
+711134,Oxbow,7741
+712217,White Pigeon,7742
+712266,Upper,7743
+712326,Massey,7744
+712434,Embarrass,7745
+712470,La Farge,7746
+712477,Hines,7747
+712757,Hamel,7748
+713176,North Coastal,7749
+713266,Foster City,7750
+713888,Bowdoinham,7751
+713894,Oscoda,7752
+714067,Wrens,7753
+714179,Dupo,7754
+714213,Schofield,7755
+714318,Pelican,7756
+714379,Pagosa Springs,7757
+715437,Burnham,7758
+715442,Kennebunkport,7759
+715489,Neelyton,7760
+715901,Glide,7761
+716254,Loyalton,7762
+717014,Engadine,7763
+717072,Berlin Heights,7764
+717102,Belle,7765
+717176,Biwabik,7766
+717472,Big Falls,7767
+717601,Lyles,7768
+717681,Virgin,7769
+717933,Mi Wuk Village,7770
+718882,West Paris,7771
+718922,Millboro,7772
+719273,Kildeer,7773
+719307,Bertha,7774
+719422,Hazelton,7775
+719575,Beatty,7776
+720685,Biddeford,7777
+720697,Britton,7778
+720742,Colquitt,7779
+720802,Peterson,7780
+722007,Talking Rock,7781
+722033,Dent,7782
+722102,Cokato,7783
+722172,Neotsu,7784
+722933,East Dorset,7785
+722960,Cedar Lake,7786
+723200,Lonsdale,7787
+723206,Effie,7788
+723329,Sandpoint,7789
+724347,District 6 Spauldings,7790
+724429,Grasston,7791
+724528,Finland,7792
+725665,Whitefield,7793
+725742,Rhoadesville,7794
+725824,Wrenshall,7795
+726400,McCloud,7796
+727124,Wolfeboro,7797
+727125,Burt,7798
+727133,Kinnelon,7799
+727213,Nathalie,7800
+727230,Upatoi,7801
+727325,Carlos,7802
+727362,Wabasso,7803
+727441,Burtrum,7804
+727447,Warroad,7805
+727566,Idaho Falls,7806
+727589,Desmet,7807
+727590,Juliaetta,7808
+727599,Jamieson,7809
+727713,Tolovana Park,7810
+728181,Seiad Valley,7811
+728951,Mansfield Center,7812
+728962,Saranac Lake,7813
+728968,Richfield Springs,7814
+729026,Bean Station,7815
+729029,Buckingham,7816
+729153,Harlan,7817
+729574,Langlois,7818
+729613,Dallesport,7819
+730627,Sunfield,7820
+730628,Mulliken,7821
+731701,Two Rivers,7822
+731731,Currie,7823
+732187,Lake Tahoe,7824
+732211,Tahoma,7825
+734156,Mackinaw City,7826
+734184,Dahlgren,7827
+734470,West Bountiful,7828
+734493,Blackfoot,7829
+735767,Arkdale,7830
+735929,Lenore,7831
+736719,Clarion,7832
+736816,Bentonville,7833
+736863,Naches,7834
+737583,Hampden,7835
+737758,Braddyville,7836
+737769,Essig,7837
+737770,Bowler,7838
+737892,Hauser,7839
+738860,Boyne Falls,7840
+738911,Parksley,7841
+739037,Mizpah,7842
+739175,Saguache,7843
+740341,Howland,7844
+740501,Holdingford,7845
+740585,Glen Flora,7846
+740621,Westcliffe,7847
+740757,Athena,7848
+740909,Madeline,7849
+741583,Cornwall Bridge,7850
+741585,Woolwich,7851
+741590,Allegan,7852
+741596,Hale,7853
+741609,Otsego,7854
+741652,Collins,7855
+741908,Woodlawn,7856
+741924,Kremmling,7857
+742197,Dorris,7858
+742273,Manton,7859
+743005,Randsburg,7860
+743118,Highgate Center,7861
+743132,Fiskdale,7862
+743164,West Olive,7863
+743170,French Lick,7864
+743233,Towaco,7865
+743864,Happy Camp,7866
+744643,Reedy,7867
+744671,Clitherall,7868
+744680,Mossville,7869
+744766,Rison,7870
+744794,Mullan,7871
+745681,East Leroy,7872
+745791,Lowry,7873
+745862,Carey,7874
+746508,Limington,7875
+746531,Summersville,7876
+746625,Cimarron,7877
+746666,Chariton,7878
+746842,Rigby,7879
+747138,North Mono,7880
+747746,Rose City,7881
+748032,Morrilton,7882
+749118,Pomfret,7883
+749134,Wylliesburg,7884
+749244,Mc Clelland,7885
+749248,Upsala,7886
+749373,Logan,7887
+749410,Saint Regis,7888
+749431,Malad City,7889
+750515,Central Square,7890
+750569,Fort Monroe,7891
+750649,Weyerhaeuser,7892
+750654,Westchester,7893
+750789,Pocahontas,7894
+750810,Prinsburg,7895
+750837,Devine,7896
+750844,Emmet,7897
+751384,New Pine Creek,7898
+752117,Waskish,7899
+752262,Mayflower,7900
+752301,Fruita,7901
+753566,Cumberland Foreside,7902
+753816,Dayville,7903
+754075,Bodega,7904
+754741,Squaw Lake,7905
+754752,Kandiyohi,7906
+754776,Hager City,7907
+755620,Mineral Wells,7908
+755918,Johnston City,7909
+756024,Shady Cove,7910
+756419,Muir Beach,7911
+757105,Glen Arm,7912
+757119,Lake Lynn,7913
+757268,Christopher,7914
+757301,Rising City,7915
+758628,Manchester Center,7916
+758741,Claxton,7917
+758915,England,7918
+758956,Plains,7919
+760041,Eddington,7920
+760126,Port Monmouth,7921
+760135,Thorn Hill,7922
+760366,Red Boiling Springs,7923
+760398,Gallatin,7924
+760411,Moorcroft,7925
+760412,Kooskia,7926
+760656,Tulelake,7927
+761544,Smyrna Mills,7928
+761721,Mound City,7929
+761877,Dellrose,7930
+762053,Ironside,7931
+762266,Emerald Hills,7932
+763106,New Gloucester,7933
+763116,East Haddam,7934
+763147,Ochlocknee,7935
+763169,East Troy,7936
+763278,Cabot,7937
+763298,Challis,7938
+763365,Steilacoom,7939
+763391,University Place,7940
+764277,Orono,7941
+764289,Hurlock,7942
+764403,Brookland,7943
+764404,Marmaduke,7944
+764437,Glendo,7945
+765024,Woody,7946
+765146,Blue Jay,7947
+765301,Cato,7948
+765444,Coon Valley,7949
+765649,Saltese,7950
+765658,Alcova,7951
+765664,Ririe,7952
+766618,Leroy,7953
+766834,River Falls,7954
+766965,Lonoke,7955
+767010,Hammett,7956
+767126,Keizer,7957
+768115,Essexville,7958
+768210,Lost Creek,7959
+768219,Mount Clare,7960
+768540,Arlee,7961
+768541,Ravalli,7962
+768660,Portland West,7963
+769683,West Edmeston,7964
+769699,Barton City,7965
+769806,Gum Spring,7966
+769881,Wellsburg,7967
+769959,Omro,7968
+770063,Brinkley,7969
+771625,Van Horn,7970
+772888,Amana,7971
+772892,South Amana,7972
+773025,Rogerson,7973
+773041,Worley,7974
+773598,Newport Coast,7975
+773836,Lamberton,7976
+773946,Paonia,7977
+774618,Colebrook,7978
+774628,Wellesley Island,7979
+774826,Mineral Point,7980
+774939,Zortman,7981
+775009,Orofino,7982
+775430,Amargosa Valley,7983
+775440,Gabbs,7984
+776177,South Cairo,7985
+776465,New Augusta,7986
+776526,Twin Falls,7987
+777684,Petoskey,7988
+778018,Grand Meadow,7989
+778138,Trimont,7990
+778156,Weiner,7991
+778184,Pompeys Pillar,7992
+778186,Big Timber,7993
+778193,Greycliff,7994
+778302,East Wenatchee,7995
+779301,Charlevoix,7996
+779372,Exchange,7997
+779661,Post Falls,7998
+779841,Russian River-Sonoma Coast,7999
+780758,Cumberland Center,8000
+781006,Cyrus,8001
+781105,Kalispell,8002
+781142,Nezperce,8003
+781700,Cantua Creek,8004
+782430,Marcell,8005
+782437,Mantorville,8006
+782487,Holloway,8007
+782615,Loma,8008
+782624,Donnelly,8009
+783926,Bodfish,8010
+784219,Middleville,8011
+784221,Potterville,8012
+784253,Ellenburg Center,8013
+784255,Evans Mills,8014
+784305,Milltown,8015
+784310,Shipshewana,8016
+784623,Portales,8017
+785366,Lake Odessa,8018
+785373,Waynetown,8019
+785388,Switz City,8020
+785622,Hensley,8021
+785714,Cuervo,8022
+786843,Oldtown,8023
+787023,Sergeant Bluff,8024
+787031,Indian Head Park,8025
+787279,Lineville,8026
+787303,American Falls,8027
+788456,Fitzwilliam,8028
+788490,Deep Run,8029
+788542,Bald Knob,8030
+788713,Columbia City,8031
+788732,Cascadia,8032
+788944,Page,8033
+789114,Piketon,8034
+789286,Felts Mills,8035
+789287,Black River,8036
+789510,Crabtree,8037
+789633,Mechanic Falls,8038
+790260,Maynardville,8039
+790270,Star City,8040
+790487,Hustontown,8041
+790510,Mountainburg,8042
+790801,Bly,8043
+790908,Martins Ferry,8044
+791046,Butte Falls,8045
+791205,Mckenzie Bridge,8046
+791390,Tonganoxie,8047
+791490,Pierce,8048
+792538,Wallback,8049
+792588,Mount Ayr,8050
+792614,Elroy,8051
+792662,Campti,8052
+792664,Vilonia,8053
+794023,Fort Garland,8054
+795171,Parkston,8055
+795172,Freeman,8056
+795173,Avalon,8057
+795232,Hazen,8058
+795436,North Plains,8059
+796636,Fayette,8060
+796642,Champion,8061
+796678,Coffeeville,8062
+796694,Dardanelle,8063
+796708,Crow Agency,8064
+798095,Clarklake,8065
+798250,Havelock,8066
+798268,Gravette,8067
+798329,Park Valley,8068
+799559,Vevay,8069
+799616,Heyburn,8070
+799737,Tygh Valley,8071
+799989,West Hills,8072
+801312,Chocorua,8073
+801320,Port Crane,8074
+801489,Convent,8075
+801496,Driggs,8076
+801520,Blanca,8077
+801540,Lavina,8078
+801563,New Meadows,8079
+802554,Sedgwick,8080
+802585,Brocton,8081
+802638,Shinnston,8082
+802737,Larned,8083
+802739,Pomeroy,8084
+803902,Laguna Woods,8085
+803937,Dolgeville,8086
+804055,Nitro,8087
+804141,Waverly Hall,8088
+804221,Grannis,8089
+805288,Suncook,8090
+805332,Harpers Ferry,8091
+805343,Haubstadt,8092
+806586,Barryville,8093
+806589,Crawley,8094
+807896,North Grosvenordale,8095
+807951,Chetek,8096
+808008,King Hill,8097
+808845,Greenup,8098
+808847,Readstown,8099
+808860,Eureka Springs,8100
+808880,Cardwell,8101
+808888,Anaconda,8102
+809858,Los Altos Hills,8103
+810538,Stamps,8104
+810761,Twain Harte-Tuolumne City,8105
+812104,Lyndonville,8106
+812274,Mount Ida,8107
+812284,Anadarko,8108
+812378,Ojo Caliente,8109
+813655,Houghton Lake Heights,8110
+813699,Falling Waters,8111
+813775,Hope,8112
+813778,Ethridge,8113
+813827,Kiowa,8114
+814902,Ossineke,8115
+815011,Mc Gregor,8116
+815043,Harpersville,8117
+815048,Fountain Hill,8118
+815123,Bayfield,8119
+815139,Shonto,8120
+816270,East Bend,8121
+816416,Horseshoe Bend,8122
+816795,East Shasta,8123
+817802,Mccloud,8124
+818324,Rileyville,8125
+818352,Gower,8126
+820114,Paul Smiths,8127
+821332,Alburgh,8128
+821333,Hampton Falls,8129
+821397,Frankenmuth,8130
+821511,Marshallville,8131
+821867,Mcarthur,8132
+822737,Belington,8133
+822868,Pella,8134
+822894,Aliceville,8135
+824073,Okemos,8136
+824094,Dyer,8137
+824379,Weiser,8138
+825581,Guyton,8139
+826537,Siren,8140
+826803,Downieville,8141
+826843,Lagunitas,8142
+827282,Coxsackie,8143
+827472,Two Harbors,8144
+831515,Parkman,8145
+832358,Sprague River,8146
+833034,Thetford Center,8147
+833303,Orderville,8148
+833868,Wolbach,8149
+833953,Rapid City,8150
+838000,Sabattus,8151
+838641,Conner,8152
+839582,Frametown,8153
+841643,Missoula,8154
+843719,Helmville,8155
+843935,Tionesta,8156
+845685,Childwold,8157
+845686,South Colton,8158
+846437,Marinette,8159
+847361,Eleva,8160
+848462,Havre,8161
+848485,Huson,8162
+848591,Keams Canyon,8163
+848834,Alpena,8164
+848839,Hickory Corners,8165
+848929,Mc Alisterville,8166
+849572,Hannibal,8167
+851357,Garden Prairie,8168
+851423,Belle Fourche,8169
+851566,Anatone,8170
+852935,Markle,8171
+853186,Sinclair,8172
+854593,Fordland,8173
+855057,Stanford,8174
+855106,Meeker,8175
+855785,Lake Ariel,8176
+856546,Roe,8177
+857198,Wall,8178
+857230,Apple Valley,8179
+857891,Judsonia,8180
+858531,Bono,8181
+859143,Vanderbilt,8182
+859167,Ohio City,8183
+859229,Van Dyne,8184
+859245,Rudolph,8185
+860924,Wautoma,8186
+861520,Seneca Falls,8187
+861812,Osburn,8188
+861816,Red Lodge,8189
+861827,Lolo,8190
+862293,New Preston Marble Dale,8191
+862931,Fouke,8192
+863017,Bylas,8193
+863855,Alum Creek,8194
+866691,Jeromesville,8195
+867202,New Matamoras,8196
+867254,Columbia Station,8197
+868537,Hagerhill,8198
+869097,Topsham,8199
+872191,Matfield Green,8200
+872628,Livingston Manor,8201
+872642,Gibsonburg,8202
+873308,New Limerick,8203
+873599,McCammon,8204
+874275,Ranchos de Taos,8205
+876238,Grand River,8206
+878032,Mannsville,8207
+878660,Strykersville,8208
+879222,Codyville Plt,8209
+879315,Marion Station,8210
+879456,Sioux Falls,8211
+879545,San Ysidro,8212
+879799,Ferdinand,8213
+880023,Goodwin,8214
+880062,Midwest,8215
+880093,Granite,8216
+880100,Bond,8217
+880325,South China,8218
+880338,Bar Harbor,8219
+880781,Hereford,8220
+881000,Wingate,8221
+881003,Bunker Hill,8222
+881421,Burley,8223
+881667,East Chicago,8224
+881751,Bostic,8225
+881819,Bolivia,8226
+881821,Council,8227
+882401,Nakina,8228
+882499,Redgranite,8229
+882575,Mannford,8230
+882652,Vineyard,8231
+883028,North Arlington,8232
+883121,Maidens,8233
+883313,Corsicana,8234
+883361,Newell,8235
+883375,Mancos,8236
+883376,Hesperus,8237
+883459,Lind,8238
+883835,Sandy Ridge,8239
+883951,Prairie Du Sac,8240
+884014,Bon Aqua,8241
+884025,Perkinston,8242
+884700,Butterfield,8243
+884726,Trimble,8244
+884801,Clancy,8245
+885108,New Canton,8246
+885136,Nahunta,8247
+885384,Rockport,8248
+885600,Howard City,8249
+885814,Colby,8250
+886163,Manistee,8251
+886164,Free Soil,8252
+886410,Kinsley,8253
+886510,Saint Anthony,8254
+886954,Teutopolis,8255
+886998,Lake Village,8256
+887405,Hastings On Hudson,8257
+887458,Tybee Island,8258
+887615,Forrest City,8259
+887637,Ralls,8260
+887671,Bingham Canyon,8261
+887996,Orefield,8262
+888027,Lewes,8263
+888046,Nellysford,8264
+888070,Duck,8265
+888082,New Bern,8266
+888083,Grover,8267
+888756,Viola,8268
+888772,Fort Klamath,8269
+888789,Plush,8270
+888864,Three Oaks,8271
+889323,Marshville,8272
+889419,Turtle Lake,8273
+889670,Goodyears Bar,8274
+889772,Elbridge,8275
+889785,Scottville,8276
+889823,Haskell,8277
+890060,Killona,8278
+890061,Hahnville,8279
+890253,Olalla,8280
+890521,Nassawadox,8281
+890669,Iowa Park,8282
+890729,Wynne,8283
+891108,Redfield,8284
+891853,Gobles,8285
+892110,Mason City,8286
+892143,Geyser,8287
+892146,Joes,8288
+892178,Elbe,8289
+892464,Jeanerette,8290
+892666,Sanbornville,8291
+892703,Freeville,8292
+892827,Aylett,8293
+892885,Rhinelander,8294
+893183,Mohawk,8295
+893409,Wales,8296
+893846,Snow Hill,8297
+893858,Goochland,8298
+893978,Prague,8299
+894050,Swan Valley,8300
+894360,Hartfield,8301
+894394,Hortonville,8302
+894734,Rocheport,8303
+894813,Riggins,8304
+894906,Cement City,8305
+894907,Manitou Beach,8306
+894918,South Paris,8307
+894962,Ravenswood,8308
+895209,Arimo,8309
+895454,Marcellus,8310
+895662,Amberg,8311
+896345,Caddo Gap,8312
+896769,Rydal,8313
+896867,Dermott,8314
+896929,Indian Hills,8315
+897244,Ellenburg Depot,8316
+897302,Selbyville,8317
+897494,Belfield,8318
+897503,Miles City,8319
+897807,Mayport,8320
+897871,Boscobel,8321
+898043,Orovada,8322
+898090,Beckley,8323
+898223,Cumberland City,8324
+898616,Upper Keys,8325
+898677,Raytown,8326
+898689,Siloam Springs,8327
+898696,Blackwell,8328
+898762,Iliff,8329
+898988,Riga,8330
+899015,Hazlet Township,8331
+899020,Big Prairie,8332
+899273,Fort Smith,8333
+899749,Avera,8334
+900368,Lake Andes,8335
+900777,Saint Croix,8336
+900940,Marked Tree,8337
+900941,Roland,8338
+901085,Potlatch,8339
+901146,Imlay City,8340
+901269,Gentry,8341
+901427,Walnutport,8342
+901429,Crimora,8343
+901671,Bryant Pond,8344
+901735,Belford,8345
+901997,Pine Valley,8346
+902098,Brewer,8347
+902102,Scipio Center,8348
+902106,Springfield Center,8349
+902147,Farmland,8350
+902148,Parker City,8351
+902162,Camden Wyoming,8352
+902409,Buna,8353
+902500,Monte Vista,8354
+902675,Berlin township,8355
+903063,Vaughn,8356
+903233,Rosebush,8357
+903850,District 1 Abingdon,8358
+903881,Spotswood,8359
+904374,Millsboro,8360
+904393,Fork Union,8361
+904527,Hallowell,8362
+904742,Wauseon,8363
+904764,Natural Bridge Station,8364
+904802,Autryville,8365
+905320,Lavaca,8366
+905940,Mount Horeb,8367
+905979,Webbers Falls,8368
+906457,Lanesborough,8369
+906468,Sagamore Beach,8370
+906750,Heber Springs,8371
+906751,Leoma,8372
+907256,South Lebanon,8373
+907656,Nooksack,8374
+907794,Deep River,8375
+907957,Hennepin,8376
+907994,Selby,8377
+908030,Dierks,8378
+908049,Smackover,8379
+908075,Timnath,8380
+908088,Ophir,8381
+908301,Bryantown,8382
+908495,Ailey,8383
+908517,Kingdom City,8384
+908869,New Vineyard,8385
+908927,Genoa,8386
+908928,Stoddard,8387
+908986,Milliken,8388
+909158,Center Ossipee,8389
+909212,Stevensburg,8390
+909773,Odon,8391
+910053,Filer,8392
+910455,Meadows Of Dan,8393
+911232,West Fork,8394
+911244,Conrad,8395
+911523,Edwardsburg,8396
+911656,Sugar Hill,8397
+912067,Ledyard,8398
+912071,Killingworth,8399
+912133,Ladysmith,8400
+912135,Mountain,8401
+912422,Senatobia,8402
+912592,Evart,8403
+912593,Sears,8404
+912601,Wiscasset,8405
+912610,Kennedyville,8406
+912689,Yanceyville,8407
+913124,Galien,8408
+913174,Shelburn,8409
+913323,Brooklet,8410
+913449,Dolores,8411
+913910,Gillett,8412
+914018,Parshall,8413
+914428,Union Point,8414
+915042,Little Suamico,8415
+915340,Haddam,8416
+915414,Prairie Grove,8417
+915598,Pelican Lake,8418
+916128,Harpersfield,8419
+916281,Corryton,8420
+916518,Wetmore,8421
+916797,Carrsville,8422
+916959,Booneville,8423
+917015,New Underwood,8424
+917069,Eagle Mountain,8425
+917777,Dover AFB,8426
+917788,Larwill,8427
+918101,Lemmon,8428
+918238,Copake,8429
+918313,Brodhead,8430
+918321,Searcy,8431
+918332,Chidester,8432
+918333,Bluff City,8433
+918479,Reedville,8434
+918514,Lostant,8435
+918546,Dozier,8436
+918590,Espanola,8437
+918596,Kendrick,8438
+919023,Deary,8439
+919419,Mackay,8440
+919640,Suttons Bay,8441
+919840,Beulaville,8442
+919958,Heavener,8443
+920002,Bonner,8444
+920060,Velarde,8445
+920995,Rexburg,8446
+921302,Enville,8447
+921354,Cody,8448
+921660,Sweet,8449
+921784,Constantine,8450
+921786,Boyne City,8451
+921966,Lake Geneva,8452
+922899,Laurel Springs,8453
+923002,Whitesburg,8454
+923009,Hiltons,8455
+923217,Lapwai,8456
+923466,East Hartland,8457
+923471,Olean,8458
+923689,Nunnelly,8459
+924277,Tahoe Vista,8460
+924629,Canyon Lake,8461
+925193,Lucile,8462
+926264,South Royalton,8463
+926320,Tuscarora,8464
+926339,New Vienna,8465
+926366,Pinetown,8466
+926475,Walnut Ridge,8467
+926491,Garland City,8468
+927796,Port Byron,8469
+927821,Waveland,8470
+929448,Tabernacle,8471
+930266,Hernandez,8472
+930663,Arriba,8473
+930664,Flagler,8474
+930952,Assaria,8475
+931351,Cannon Beach,8476
+931531,Cayuga,8477
+931533,East Bethany,8478
+931784,Bardonia,8479
+931938,Eagle Nest,8480
+931966,Sedro Woolley,8481
+932280,Imboden,8482
+932599,Fannettsburg,8483
+932832,Provo-Orem,8484
+933647,Weirton,8485
+933939,Elsinore,8486
+934186,New Durham,8487
+934243,Vandergrift,8488
+934329,Pisgah Forest,8489
+934388,Cuba City,8490
+934455,Swifton,8491
+934743,Bradford township,8492
+934831,Mazomanie,8493
+934880,Ismay,8494
+935044,Ogunquit,8495
+935096,Bonnie,8496
+935333,Coeymans Hollow,8497
+935406,Piermont,8498
+935415,Brielle,8499
+936031,Gilman,8500
+936040,Sioux Rapids,8501
+936386,Buckhannon,8502
+936414,Pitman,8503
+936443,Aberdeen Proving Ground,8504
+936537,Montour,8505
+936546,White River,8506
+936570,New Auburn,8507
+936571,Bloomer,8508
+936615,Leadore,8509
+936619,Nathrop,8510
+936837,Frewsburg,8511
+937114,Rupert,8512
+937125,Vallecitos,8513
+937139,Fruitland,8514
+937452,Eastlake,8515
+937575,Birnamwood,8516
+937615,Pinola,8517
+937920,Glenburn,8518
+937995,Pittsville,8519
+938014,Summertown,8520
+938211,Hartly,8521
+938529,Au Gres,8522
+938540,Newaygo,8523
+938577,Oak Hill,8524
+938597,Lindenwold,8525
+938698,Genoa City,8526
+938775,Cheyenne Wells,8527
+939198,Ranger,8528
+939312,De Queen,8529
+939353,Granite Canon,8530
+939626,Guildhall,8531
+939699,Churubusco,8532
+940250,Sandy River Plt,8533
+940487,Oilmont,8534
+940849,Harrington,8535
+941073,Mccall,8536
+941325,Bel Alton,8537
+941543,Lizton,8538
+941590,White Sulphur Springs,8539
+941812,Mc Kean,8540
+941851,Amma,8541
+941855,Owings,8542
+941887,Gallagher,8543
+942200,Adair Village,8544
+942571,Nekoosa,8545
+942609,Tumbling Shoals,8546
+942737,Kamiah,8547
+943210,Lynn Center,8548
+943217,Lublin,8549
+943218,Thorp,8550
+943219,Fairbank,8551
+943674,Peach Bottom,8552
+943713,Pigeon Forge,8553
+943829,Mena,8554
+944171,Trumansburg,8555
+944240,Pond Eddy,8556
+944384,Jetmore,8557
+944385,Ness City,8558
+944767,Kingfield,8559
+944778,Aaronsburg,8560
+945435,Bowdon,8561
+945908,Farnham,8562
+946130,Paron,8563
+946454,Cabin Creek,8564
+946456,Galion,8565
+947355,Clarksdale,8566
+947480,Mack,8567
+947539,Sagle,8568
+947979,Rehoboth Beach,8569
+947984,Bethany Beach,8570
+948261,Interlaken,8571
+948654,Franklinton,8572
+948764,Bee Branch,8573
+949053,Constableville,8574
+949286,Wakeeney,8575
+949287,Hays,8576
+949880,Ward,8577
+949917,Sula,8578
+949942,Wray,8579
+949968,Dolan Springs,8580
+951316,Titus,8581
+951373,Shelley,8582
+951533,New Virginia,8583
+951619,Greenbank,8584
+951895,Bridgeboro,8585
+951896,Peotone,8586
+952344,Walnut Cove,8587
+952794,Beulah,8588
+952878,Maggie Valley,8589
+953887,Lachine,8590
+954062,American Fork-Pleasant Grove,8591

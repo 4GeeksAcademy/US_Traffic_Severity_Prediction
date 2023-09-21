@@ -1,0 +1,11 @@
+,winddirection,winddirection_n
+0,CALM,0
+2,W,1
+5,S,2
+10,SE,3
+14,N,4
+39,SW,5
+46,E,6
+48,NE,7
+53,VAR,8
+164,NW,9
